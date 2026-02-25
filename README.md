@@ -8,3 +8,5 @@ This is my test Git repository
 
 ## Updates
 - the update is in progress.
+## New Feature
+This is a cool new feature.
