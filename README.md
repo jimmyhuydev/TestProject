@@ -10,3 +10,7 @@ This is my test Git repository
 - the update is in progress.
 ## New Feature
 This is a cool new feature.
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
