@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Update Adds Support for Display Refresh Rates Above 1,000Hz](https://www.ghacks.net/2026/03/31/windows-11-update-adds-support-for-display-refresh-rates-above-1000hz/)
+- [Google Adds ChatGPT and Claude Import Tools to Gemini for Memory and Chat History](https://www.ghacks.net/2026/03/31/google-adds-chatgpt-and-claude-import-tools-to-gemini-for-memory-and-chat-history/)
+- [Google Maps Adds Battery Predictions for 350+ Electric Vehicle Models on Android Auto](https://www.ghacks.net/2026/03/31/google-maps-adds-battery-predictions-for-350-electric-vehicle-models-on-android-auto/)
+- [Apple Adds Terminal Paste Warning in macOS Tahoe 26.4 to Block ClickFix Attacks](https://www.ghacks.net/2026/03/31/apple-adds-terminal-paste-warning-in-macos-tahoe-26-4-to-block-clickfix-attacks/)
 - [Los Angeles Jury Finds Meta And Google Liable In $3 Million Social Media Addiction Case](https://www.ghacks.net/2026/03/30/los-angeles-jury-finds-meta-and-google-liable-in-3-million-social-media-addiction-case/)
-- [Google Launches Gemini 3.1 Flash Live With Faster Responses and Longer Conversation Context](https://www.ghacks.net/2026/03/30/google-launches-gemini-3-1-flash-live-with-faster-responses-and-longer-conversation-context/)
-- [YouTube Adds Android Auto Support, but Requires Premium and Plays Audio Only](https://www.ghacks.net/2026/03/30/youtube-adds-android-auto-support-but-requires-premium-and-plays-audio-only/)
-- [Microsoft VP Signals Windows 11 Forced Account Requirement Could Be Removed](https://www.ghacks.net/2026/03/30/microsoft-vp-signals-windows-11-forced-account-requirement-could-be-removed/)
-- [Apple Planning Standalone Siri App and Apple Business App for Release This Year](https://www.ghacks.net/2026/03/29/apple-planning-standalone-siri-app-and-apple-business-app-for-release-this-year/)
 <!-- BLOG-POST-LIST:END -->
