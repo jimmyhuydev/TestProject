@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Asia-Pacific PC Shipments To Fall 13.7% In 2026 As AI Data Centers Drive Up DRAM Demand](https://www.ghacks.net/2026/04/01/asia-pacific-pc-shipments-to-fall-13-7-in-2026-as-ai-data-centers-drive-up-dram-demand/)
+- [Samsung Galaxy Watch Blood Pressure Monitoring Launches in the US](https://www.ghacks.net/2026/04/01/samsung-galaxy-watch-blood-pressure-monitoring-launches-in-the-us/)
+- [Proton Launches Meet, an End-to-End Encrypted Video Conferencing Service](https://www.ghacks.net/2026/04/01/proton-launches-meet-an-end-to-end-encrypted-video-conferencing-service/)
+- [Google Now Lets US Users Change Their @gmail.com Address in Account Settings](https://www.ghacks.net/2026/04/01/google-now-lets-us-users-change-their-gmail-com-address-in-account-settings/)
 - [Windows 11 Update Adds Support for Display Refresh Rates Above 1,000Hz](https://www.ghacks.net/2026/03/31/windows-11-update-adds-support-for-display-refresh-rates-above-1000hz/)
-- [Google Adds ChatGPT and Claude Import Tools to Gemini for Memory and Chat History](https://www.ghacks.net/2026/03/31/google-adds-chatgpt-and-claude-import-tools-to-gemini-for-memory-and-chat-history/)
-- [Google Maps Adds Battery Predictions for 350+ Electric Vehicle Models on Android Auto](https://www.ghacks.net/2026/03/31/google-maps-adds-battery-predictions-for-350-electric-vehicle-models-on-android-auto/)
-- [Apple Adds Terminal Paste Warning in macOS Tahoe 26.4 to Block ClickFix Attacks](https://www.ghacks.net/2026/03/31/apple-adds-terminal-paste-warning-in-macos-tahoe-26-4-to-block-clickfix-attacks/)
-- [Los Angeles Jury Finds Meta And Google Liable In $3 Million Social Media Addiction Case](https://www.ghacks.net/2026/03/30/los-angeles-jury-finds-meta-and-google-liable-in-3-million-social-media-addiction-case/)
 <!-- BLOG-POST-LIST:END -->
