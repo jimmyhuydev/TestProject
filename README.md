@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Traffic Violation Scam Texts Now Use QR Codes to Bypass Security Filters and Steal Payment Data](https://www.ghacks.net/2026/04/06/traffic-violation-scam-texts-now-use-qr-codes-to-bypass-security-filters-and-steal-payment-data/)
+- [Google Releases Gemma 4 in Four Model Sizes Under Apache 2.0 License](https://www.ghacks.net/2026/04/06/google-releases-gemma-4-in-four-model-sizes-under-apache-2-0-license/)
+- [Microsoft Begins Warning Users Ahead of Publisher Retirement in October 2026](https://www.ghacks.net/2026/04/06/microsoft-begins-warning-users-ahead-of-publisher-retirement-in-october-2026/)
+- [Nextcloud, Ionos, and Proton Launch Euro-Office, an OnlyOffice Fork for European Users](https://www.ghacks.net/2026/04/06/nextcloud-ionos-and-proton-launch-euro-office-an-onlyoffice-fork-for-european-users/)
 - [Windows 11 April 2026 Update Brings Smart App Control and 7 Other Key Improvements](https://www.ghacks.net/2026/04/05/windows-11-april-2026-update-brings-smart-app-control-and-7-other-key-improvements/)
-- [Reddit Removes r/all From App and Desktop, but Old Reddit Still Shows It](https://www.ghacks.net/2026/04/05/reddit-removes-r-all-from-app-and-desktop-but-old-reddit-still-shows-it/)
-- [Netflix Introduces VOID AI Model for Editing Video Scenes Without Reshooting](https://www.ghacks.net/2026/04/04/netflix-introduces-void-ai-model-for-editing-video-scenes-without-reshooting/)
-- [LinkedIn Uses Hidden JavaScript to Scan for Over 6,000 Chrome Extensions on Visitors&#39; Browsers](https://www.ghacks.net/2026/04/04/linkedin-uses-hidden-javascript-to-scan-for-over-6000-chrome-extensions-on-visitors-browsers/)
-- [Ad Trackers Accounted for 10.22 Percent of Global Internet Traffic in 2025, Up from 7.84 Percent in 2024](https://www.ghacks.net/2026/04/03/ad-trackers-accounted-for-10-22-percent-of-global-internet-traffic-in-2025-up-from-7-84-percent-in-2024/)
 <!-- BLOG-POST-LIST:END -->
