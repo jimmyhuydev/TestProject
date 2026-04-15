@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [CPUID Website Hacked to Serve Malware Through CPU-Z and HWMonitor Download Links](https://www.ghacks.net/2026/04/13/cpuid-website-hacked-to-serve-malware-through-cpu-z-and-hwmonitor-download-links/)
-- [Linux 7.0 Released With Official Rust Support and New Code for SPARC and Alpha CPUs](https://www.ghacks.net/2026/04/13/linux-7-0-released-with-official-rust-support-and-new-code-for-sparc-and-alpha-cpus/)
-- [Linux 7.0 Released With Official Rust Support and New Code for SPARC and Alpha CPUs](https://www.ghacks.net/2026/04/13/linux-7-0-released-with-official-rust-support-and-new-code-for-sparc-and-alpha-cpus/)
-- [Microsoft Simplifies Windows Insider Program to Two Channels and Ends Gradual Feature Rollouts in Beta](https://www.ghacks.net/2026/04/13/microsoft-simplifies-windows-insider-program-to-two-channels-and-ends-gradual-feature-rollouts-in-beta/)
-- [Gemini Adds Interactive 3D Models and Simulations Directly Inside the Chat Window](https://www.ghacks.net/2026/04/13/gemini-adds-interactive-3d-models-and-simulations-directly-inside-the-chat-window/)
+- [Windows 11 Setup Now Lets You Skip the Update Installation Step](https://www.ghacks.net/2026/04/14/windows-11-setup-now-lets-you-skip-the-update-installation-step/)
+- [Galaxy Watch 6, 7, 8, and Ultra Users Report Battery Drain Linked to Google Play Services](https://www.ghacks.net/2026/04/14/galaxy-watch-6-7-8-and-ultra-users-report-battery-drain-linked-to-google-play-services/)
+- [Valve Engineer Fixes Linux VRAM Theft That Causes Stuttering on 8GB Gaming GPUs](https://www.ghacks.net/2026/04/14/valve-engineer-fixes-linux-vram-theft-that-causes-stuttering-on-8gb-gaming-gpus/)
+- [Spotify Adds Settings to Disable Music Videos, Canvas Visuals, and Podcast Videos for All Users](https://www.ghacks.net/2026/04/14/spotify-adds-settings-to-disable-music-videos-canvas-visuals-and-podcast-videos-for-all-users/)
+- [Anthropic Launches Claude for Word With Tracked Changes, Comment Replies, and Document Scanning](https://www.ghacks.net/2026/04/14/anthropic-launches-claude-for-word-with-tracked-changes-comment-replies-and-document-scanning/)
 <!-- BLOG-POST-LIST:END -->
