@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Fixes Windows Server 2019 and 2022 Bug That Caused Unexpected Upgrades to Server 2025](https://www.ghacks.net/2026/04/16/microsoft-fixes-windows-server-2019-and-2022-bug-that-caused-unexpected-upgrades-to-server-2025/)
+- [Google Launches Native Gemini App for macOS With Keyboard Shortcut Access and Screen Sharing](https://www.ghacks.net/2026/04/16/google-launches-native-gemini-app-for-macos-with-keyboard-shortcut-access-and-screen-sharing/)
+- [Samsung Raises US Prices on Galaxy Z Flip 7, S25 FE, Tablets, and More](https://www.ghacks.net/2026/04/16/samsung-raises-us-prices-on-galaxy-z-flip-7-s25-fe-tablets-and-more/)
+- [Amazon Acquires Globalstar for $11.57 Billion, Takes Over Satellite Features Powering iPhone and Apple Watch](https://www.ghacks.net/2026/04/16/amazon-acquires-globalstar-for-11-57-billion-takes-over-satellite-features-powering-iphone-and-apple-watch/)
 - [Google Chrome Adds Skills Feature to Save and Reuse Gemini AI Prompts Across Tabs](https://www.ghacks.net/2026/04/15/google-chrome-adds-skills-feature-to-save-and-reuse-gemini-ai-prompts-across-tabs/)
-- [Over 100 Malicious Chrome Extensions Steal Google Tokens, Hijack Telegram Sessions, and Inject Ads](https://www.ghacks.net/2026/04/15/over-100-malicious-chrome-extensions-steal-google-tokens-hijack-telegram-sessions-and-inject-ads/)
-- [YouTube Now Pauses Ads Automatically When Live Chat Activity Peaks](https://www.ghacks.net/2026/04/15/youtube-now-pauses-ads-automatically-when-live-chat-activity-peaks/)
-- [Google I/O 2026 Sessions List Reveals Android 17, AI, and Chrome as Key Topics for May 19 Event](https://www.ghacks.net/2026/04/15/google-i-o-2026-sessions-list-reveals-android-17-ai-and-chrome-as-key-topics-for-may-19-event/)
-- [Windows 11 Setup Now Lets You Skip the Update Installation Step](https://www.ghacks.net/2026/04/14/windows-11-setup-now-lets-you-skip-the-update-installation-step/)
 <!-- BLOG-POST-LIST:END -->
