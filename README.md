@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Updates Codex With Computer Use, In-App Browser, Memory, and 90-Plus New Plugins](https://www.ghacks.net/2026/04/17/openai-updates-codex-with-computer-use-in-app-browser-memory-and-90-plus-new-plugins/)
+- [Chrome AI Mode Adds Split-Screen Browsing and Cross-Tab Context for Search on Desktop and Mobile](https://www.ghacks.net/2026/04/17/chrome-ai-mode-adds-split-screen-browsing-and-cross-tab-context-for-search-on-desktop-and-mobile/)
+- [Intel Launches Core Series 3 Processors on Intel 18A Node With Up to 40 TOPS AI Performance](https://www.ghacks.net/2026/04/17/intel-launches-core-series-3-processors-on-intel-18a-node-with-up-to-40-tops-ai-performance/)
+- [YouTube Now Lets Users Completely Hide Shorts From Their Feed](https://www.ghacks.net/2026/04/17/youtube-now-lets-users-completely-hide-shorts-from-their-feed/)
 - [Microsoft Fixes Windows Server 2019 and 2022 Bug That Caused Unexpected Upgrades to Server 2025](https://www.ghacks.net/2026/04/16/microsoft-fixes-windows-server-2019-and-2022-bug-that-caused-unexpected-upgrades-to-server-2025/)
-- [Google Launches Native Gemini App for macOS With Keyboard Shortcut Access and Screen Sharing](https://www.ghacks.net/2026/04/16/google-launches-native-gemini-app-for-macos-with-keyboard-shortcut-access-and-screen-sharing/)
-- [Samsung Raises US Prices on Galaxy Z Flip 7, S25 FE, Tablets, and More](https://www.ghacks.net/2026/04/16/samsung-raises-us-prices-on-galaxy-z-flip-7-s25-fe-tablets-and-more/)
-- [Amazon Acquires Globalstar for $11.57 Billion, Takes Over Satellite Features Powering iPhone and Apple Watch](https://www.ghacks.net/2026/04/16/amazon-acquires-globalstar-for-11-57-billion-takes-over-satellite-features-powering-iphone-and-apple-watch/)
-- [Google Chrome Adds Skills Feature to Save and Reuse Gemini AI Prompts Across Tabs](https://www.ghacks.net/2026/04/15/google-chrome-adds-skills-feature-to-save-and-reuse-gemini-ai-prompts-across-tabs/)
 <!-- BLOG-POST-LIST:END -->
