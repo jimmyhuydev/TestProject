@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Maps to Add Sponsored Search Results and Suggested Places Ads Starting Summer 2026](https://www.ghacks.net/2026/04/22/apple-maps-to-add-sponsored-search-results-and-suggested-places-ads-starting-summer-2026/)
+- [Microsoft Cuts Game Pass Ultimate to $23 and PC Game Pass to $14, but Delays Next Call of Duty by One Year](https://www.ghacks.net/2026/04/22/microsoft-cuts-game-pass-ultimate-to-23-and-pc-game-pass-to-14-but-delays-next-call-of-duty-by-one-year/)
+- [Google and Back Market Launch $3 ChromeOS Flex USB Kit for Windows 10 Users Locked Out of Windows 11](https://www.ghacks.net/2026/04/22/google-and-back-market-launch-3-chromeos-flex-usb-kit-for-windows-10-users-locked-out-of-windows-11/)
+- [Google Wallet Adds Live Flight Updates to Lock Screen for Android 16 Devices](https://www.ghacks.net/2026/04/22/google-wallet-adds-live-flight-updates-to-lock-screen-for-android-16-devices/)
 - [Windows 11 April 2026 Update KB5083769 Is Triggering BitLocker Recovery Screens on Some PCs](https://www.ghacks.net/2026/04/21/windows-11-april-2026-update-kb5083769-is-triggering-bitlocker-recovery-screens-on-some-pcs/)
-- [Google to Launch Gucci-Branded Android XR Smart Glasses in 2027](https://www.ghacks.net/2026/04/21/google-to-launch-gucci-branded-android-xr-smart-glasses-in-2027/)
-- [Claude Desktop Silently Installs Browser Extension Files for Browsers Not Installed](https://www.ghacks.net/2026/04/21/claude-desktop-silently-installs-browser-extension-files-for-browsers-not-installed/)
-- [Tim Cook Steps Down as Apple CEO, Names Hardware Chief John Ternus as Successor](https://www.ghacks.net/2026/04/21/tim-cook-steps-down-as-apple-ceo-names-hardware-chief-john-ternus-as-successor/)
-- [Mozilla&#39;s MZLA Technologies Launches Thunderbolt, an Open-Source Self-Hosted Enterprise AI Client](https://www.ghacks.net/2026/04/20/mozillas-mzla-technologies-launches-thunderbolt-an-open-source-self-hosted-enterprise-ai-client/)
 <!-- BLOG-POST-LIST:END -->
