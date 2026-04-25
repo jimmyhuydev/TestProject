@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Laying Off 8,000 Employees on May 20 as AI Spending Reaches Up to $135 Billion in 2026](https://www.ghacks.net/2026/04/24/meta-laying-off-8000-employees-on-may-20-as-ai-spending-reaches-up-to-135-billion-in-2026/)
+- [Microsoft Renames Gaming Division Back to Xbox as Asha Sharma Scraps Microsoft Gaming Label](https://www.ghacks.net/2026/04/24/microsoft-renames-gaming-division-back-to-xbox-as-asha-sharma-scraps-microsoft-gaming-label/)
+- [OpenAI Releases GPT-5.5 With Stronger Agentic Coding, Computer Use, and Scientific Research Capabilities](https://www.ghacks.net/2026/04/24/openai-releases-gpt-5-5-with-stronger-agentic-coding-computer-use-and-scientific-research-capabilities/)
+- [YouTube TV Rolls Out Customizable Multiview, Letting Users Choose Their Own Channel Combinations](https://www.ghacks.net/2026/04/24/youtube-tv-rolls-out-customizable-multiview-letting-users-choose-their-own-channel-combinations/)
 - [Firefox Adds Shake to Summarise AI Feature to iOS in the UK, With Android Support Planned](https://www.ghacks.net/2026/04/23/firefox-adds-shake-to-summarise-ai-feature-to-ios-in-the-uk-with-android-support-planned/)
-- [Samsung Galaxy Connect App Expands to All Intel and AMD Windows 11 PCs, Not Just Galaxy Books](https://www.ghacks.net/2026/04/23/samsung-galaxy-connect-app-expands-to-all-intel-and-amd-windows-11-pcs-not-just-galaxy-books/)
-- [Meta Installing Keystroke and Screenshot Tracking Software on Employee Computers to Train AI Models](https://www.ghacks.net/2026/04/23/meta-installing-keystroke-and-screenshot-tracking-software-on-employee-computers-to-train-ai-models/)
-- [Google Releases Android 17 QPR1 Beta 1 for Pixel Devices With Four Bug Fixes](https://www.ghacks.net/2026/04/23/google-releases-android-17-qpr1-beta-1-for-pixel-devices-with-four-bug-fixes/)
-- [Apple Maps to Add Sponsored Search Results and Suggested Places Ads Starting Summer 2026](https://www.ghacks.net/2026/04/22/apple-maps-to-add-sponsored-search-results-and-suggested-places-ads-starting-summer-2026/)
 <!-- BLOG-POST-LIST:END -->
