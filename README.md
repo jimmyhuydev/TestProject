@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Is Redesigning Gmail, Drive, Calendar, and Meet Icons With Gradient Finishes](https://www.ghacks.net/2026/04/27/google-is-redesigning-gmail-drive-calendar-and-meet-icons-with-gradient-finishes/)
+- [Gmail Search Now Shows AI Overviews Powered by Gemini for Business and Enterprise Users](https://www.ghacks.net/2026/04/27/gmail-search-now-shows-ai-overviews-powered-by-gemini-for-business-and-enterprise-users/)
+- [Microsoft Adds Policy to Let IT Admins Uninstall Copilot From Enterprise Windows 11 Devices](https://www.ghacks.net/2026/04/27/microsoft-adds-policy-to-let-it-admins-uninstall-copilot-from-enterprise-windows-11-devices/)
+- [Samsung Mobile Division Faces First-Ever Net Loss as AI-Driven Memory Costs Squeeze Smartphone Margins](https://www.ghacks.net/2026/04/27/samsung-mobile-division-faces-first-ever-net-loss-as-ai-driven-memory-costs-squeeze-smartphone-margins/)
 - [DeepSeek Releases V4 Models With 9.5x Lower Memory Requirements and Huawei Ascend Support](https://www.ghacks.net/2026/04/26/deepseek-releases-v4-models-with-9-5x-lower-memory-requirements-and-huawei-ascend-support/)
-- [EU Pressures Google to Grant Rival AI Assistants Same Android Access as Gemini Under DMA](https://www.ghacks.net/2026/04/26/eu-pressures-google-to-grant-rival-ai-assistants-same-android-access-as-gemini-under-dma/)
-- [Google Plans to Invest Up to $40 Billion in Anthropic in Two-Phase Deal Tied to Performance Targets](https://www.ghacks.net/2026/04/25/google-plans-to-invest-up-to-40-billion-in-anthropic-in-two-phase-deal-tied-to-performance-targets/)
-- [Microsoft Rolls Out Windows Update to Reduce Forced Restarts and Extend Pause Limits](https://www.ghacks.net/2026/04/25/microsoft-rolls-out-windows-update-to-reduce-forced-restarts-and-extend-pause-limits/)
-- [Meta Laying Off 8,000 Employees on May 20 as AI Spending Reaches Up to $135 Billion in 2026](https://www.ghacks.net/2026/04/24/meta-laying-off-8000-employees-on-may-20-as-ai-spending-reaches-up-to-135-billion-in-2026/)
 <!-- BLOG-POST-LIST:END -->
