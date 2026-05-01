@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube TV Customizable Multiview Launches Fully, Letting Subscribers Mix Any Live Channels Including Add-Ons](https://www.ghacks.net/2026/04/30/youtube-tv-customizable-multiview-launches-fully-letting-subscribers-mix-any-live-channels-including-add-ons/)
+- [Microsoft and OpenAI Amend Partnership to End Azure Exclusivity While Keeping Microsoft as Primary Cloud Partner](https://www.ghacks.net/2026/04/30/microsoft-and-openai-amend-partnership-to-end-azure-exclusivity-while-keeping-microsoft-as-primary-cloud-partner/)
+- [Ukrainian Police Arrest Three Hackers Who Compromised 610,000 Roblox Accounts and Sold Them for $225,000](https://www.ghacks.net/2026/04/30/ukrainian-police-arrest-three-hackers-who-compromised-610000-roblox-accounts-and-sold-them-for-225000/)
+- [PlayStation Plus May 2026 Games Include EA Sports FC 26, Wuchang: Fallen Feathers, and Nine Sols](https://www.ghacks.net/2026/04/30/playstation-plus-may-2026-games-include-ea-sports-fc-26-wuchang-fallen-feathers-and-nine-sols/)
 - [Firefox 151 Adds Server Location Selection to Built-In VPN With Five Countries at Launch](https://www.ghacks.net/2026/04/29/firefox-151-adds-server-location-selection-to-built-in-vpn-with-five-countries-at-launch/)
-- [Microsoft PowerToys 0.99 Adds Grab and Move Window Dragging and Power Display Monitor Controls](https://www.ghacks.net/2026/04/29/microsoft-powertoys-0-99-adds-grab-and-move-window-dragging-and-power-display-monitor-controls/)
-- [Google Messages Bug Is Causing Text Messages to Disappear on Samsung, Pixel, and Motorola Devices](https://www.ghacks.net/2026/04/29/google-messages-bug-is-causing-text-messages-to-disappear-on-samsung-pixel-and-motorola-devices/)
-- [Battlefield 6 Season 3 Launch: Battle Royale Solos, Ranked REDSEC, and Railway to Golmud](https://www.ghacks.net/2026/04/29/battlefield-6-season-3-launch-battle-royale-solos-ranked-redsec-and-railway-to-golmud/)
-- [China Blocks Meta&#39;s $2 Billion Acquisition of AI Agent Startup Manus](https://www.ghacks.net/2026/04/28/china-blocks-metas-2-billion-acquisition-of-ai-agent-startup-manus/)
 <!-- BLOG-POST-LIST:END -->
