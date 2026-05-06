@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple Adds End-to-End Encryption for RCS Messaging Between iPhone and Android in iOS 26.5](https://www.ghacks.net/2026/05/05/apple-adds-end-to-end-encryption-for-rcs-messaging-between-iphone-and-android-in-ios-26-5/)
+- [April 2026 Windows Update Breaks Third-Party Backup Software by Blocking Vulnerable Driver](https://www.ghacks.net/2026/05/05/april-2026-windows-update-breaks-third-party-backup-software-by-blocking-vulnerable-driver/)
+- [GTA 6 Skips PC at Launch to Serve Console Audience First, Take-Two CEO Says](https://www.ghacks.net/2026/05/05/gta-6-skips-pc-at-launch-to-serve-console-audience-first-take-two-ceo-says/)
+- [Ask.com Shuts Down After Nearly 30 Years, Ending the Ask Jeeves Era](https://www.ghacks.net/2026/05/05/ask-com-shuts-down-after-nearly-30-years-ending-the-ask-jeeves-era/)
 - [Google Considers Ads in Gemini App After Testing Ad Format in AI Mode First](https://www.ghacks.net/2026/05/04/google-considers-ads-in-gemini-app-after-testing-ad-format-in-ai-mode-first/)
-- [Pentagon Signs AI Deals With OpenAI, Google, Microsoft, Nvidia, and Others, Cutting Out Anthropic](https://www.ghacks.net/2026/05/04/pentagon-signs-ai-deals-with-openai-google-microsoft-nvidia-and-others-cutting-out-anthropic/)
-- [NordVPN Adds On-Device AI Voice Detector to Chrome Extension to Identify Synthetic Audio](https://www.ghacks.net/2026/05/04/nordvpn-adds-on-device-ai-voice-detector-to-chrome-extension-to-identify-synthetic-audio/)
-- [NTLite Update Lets Users Strip Copilot and AI Features From Windows 11 25H2 Installation Images](https://www.ghacks.net/2026/05/04/ntlite-update-lets-users-strip-copilot-and-ai-features-from-windows-11-25h2-installation-images/)
-- [GTA 6 Will Not Feature Real-World Brand Partnerships, Take-Two CEO Confirms](https://www.ghacks.net/2026/05/04/gta-6-will-not-feature-real-world-brand-partnerships-take-two-ceo-confirms/)
 <!-- BLOG-POST-LIST:END -->
