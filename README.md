@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Valve Opens Steam Controller Reservations on May 8 With Anti-Scalper Account Requirements](https://www.ghacks.net/2026/05/08/valve-opens-steam-controller-reservations-on-may-8-with-anti-scalper-account-requirements/)
+- [Google Launches Fitbit Air at $99 With Screenless Design, Multi-Device Pairing, and Cross-Platform Support](https://www.ghacks.net/2026/05/08/google-launches-fitbit-air-at-99-with-screenless-design-multi-device-pairing-and-cross-platform-support/)
+- [OpenAI Adds Trusted Contact Safety Feature to ChatGPT for Self-Harm Risk Notifications](https://www.ghacks.net/2026/05/08/openai-adds-trusted-contact-safety-feature-to-chatgpt-for-self-harm-risk-notifications/)
+- [Intel Stock Hits All-Time High After Report of Apple Chip Manufacturing Talks](https://www.ghacks.net/2026/05/08/intel-stock-hits-all-time-high-after-report-of-apple-chip-manufacturing-talks/)
 - [Microsoft Edge Removes Sidebar Web App Pinning, Keeping Copilot Untouched](https://www.ghacks.net/2026/05/07/microsoft-edge-removes-sidebar-web-app-pinning-keeping-copilot-untouched/)
-- [Apple Agrees to $250 Million Settlement Over Apple Intelligence Marketing With $95 Per Device for Eligible Buyers](https://www.ghacks.net/2026/05/07/apple-agrees-to-250-million-settlement-over-apple-intelligence-marketing-with-95-per-device-for-eligible-buyers/)
-- [Microsoft Tests Point-in-Time Restore for Windows 11, a Full System Backup Beyond Classic System Restore](https://www.ghacks.net/2026/05/07/microsoft-tests-point-in-time-restore-for-windows-11-a-full-system-backup-beyond-classic-system-restore/)
-- [Nintendo Reveals Star Fox 64 Remake for Switch 2, Launching June 25](https://www.ghacks.net/2026/05/07/nintendo-reveals-star-fox-64-remake-for-switch-2-launching-june-25/)
-- [Google Chrome Is Silently Downloading a 4GB Gemini Nano AI Model to User Devices Without Consent](https://www.ghacks.net/2026/05/06/google-chrome-is-silently-downloading-a-4gb-gemini-nano-ai-model-to-user-devices-without-consent/)
 <!-- BLOG-POST-LIST:END -->
