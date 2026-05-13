@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Abuse Google Ads and Claude.ai Shared Chats to Distribute macOS Malware](https://www.ghacks.net/2026/05/11/hackers-abuse-google-ads-and-claude-ai-shared-chats-to-distribute-macos-malware/)
-- [Sony Marketing Emails Tied to GTA 6 Reference November 19 Release Date](https://www.ghacks.net/2026/05/11/sony-marketing-emails-tied-to-gta-6-reference-november-19-release-date/)
-- [TimeCapsuleSMB Adds Modern SMB Support to Apple Time Capsules Ahead of macOS 27 Protocol Removal](https://www.ghacks.net/2026/05/11/timecapsulesmb-adds-modern-smb-support-to-apple-time-capsules-ahead-of-macos-27-protocol-removal/)
-- [OpenAI Releases Three New Realtime Voice Models for the API With GPT-5-Class Reasoning](https://www.ghacks.net/2026/05/11/openai-releases-three-new-realtime-voice-models-for-the-api-with-gpt-5-class-reasoning/)
-- [Chrome for Android Adds Approximate Location Sharing Option for Websites](https://www.ghacks.net/2026/05/10/chrome-for-android-adds-approximate-location-sharing-option-for-websites/)
+- [Discord Nitro Rewards Adds Xbox Game Pass Starter, Hardware Discounts, and More Orbs at No Extra Cost](https://www.ghacks.net/2026/05/12/discord-nitro-rewards-adds-xbox-game-pass-starter-hardware-discounts-and-more-orbs-at-no-extra-cost/)
+- [EU New Tech Package May Restrict Microsoft, Amazon, and Google From Handling Public Sector Sensitive Data](https://www.ghacks.net/2026/05/12/eu-new-tech-package-may-restrict-microsoft-amazon-and-google-from-handling-public-sector-sensitive-data/)
+- [Windows 11 Adds Feature Flags Page to Insider Program for Enabling Experimental Features Without ViveTool](https://www.ghacks.net/2026/05/12/windows-11-adds-feature-flags-page-to-insider-program-for-enabling-experimental-features-without-vivetool/)
+- [Nvidia Engineer Proposes Linux Kernel Killswitch to Disable Vulnerable Functions Before Patches Land](https://www.ghacks.net/2026/05/12/nvidia-engineer-proposes-linux-kernel-killswitch-to-disable-vulnerable-functions-before-patches-land/)
+- [Nvidia Engineer Proposes Linux Kernel Killswitch to Disable Vulnerable Functions Before Patches Land](https://www.ghacks.net/2026/05/12/nvidia-engineer-proposes-linux-kernel-killswitch-to-disable-vulnerable-functions-before-patches-land/)
 <!-- BLOG-POST-LIST:END -->
