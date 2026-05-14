@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Launches One UI 9 Beta for Galaxy S26 Bringing Android 17 to Six Markets](https://www.ghacks.net/2026/05/13/samsung-launches-one-ui-9-beta-for-galaxy-s26-bringing-android-17-to-six-markets/)
+- [Reddit Tests Forcing Logged-Out Mobile Users Into App With Non-Dismissible Pop-Up](https://www.ghacks.net/2026/05/13/reddit-tests-forcing-logged-out-mobile-users-into-app-with-non-dismissible-pop-up/)
+- [Google Announces Googlebooks, Android-Based Premium Laptops With Gemini AI Built Into the OS](https://www.ghacks.net/2026/05/13/google-announces-googlebooks-android-based-premium-laptops-with-gemini-ai-built-into-the-os/)
+- [Overwatch 10th Anniversary Event Runs Through June 2 With 21 Free Launch Hero Skins](https://www.ghacks.net/2026/05/13/overwatch-10th-anniversary-event-runs-through-june-2-with-21-free-launch-hero-skins/)
 - [Discord Nitro Rewards Adds Xbox Game Pass Starter, Hardware Discounts, and More Orbs at No Extra Cost](https://www.ghacks.net/2026/05/12/discord-nitro-rewards-adds-xbox-game-pass-starter-hardware-discounts-and-more-orbs-at-no-extra-cost/)
-- [EU New Tech Package May Restrict Microsoft, Amazon, and Google From Handling Public Sector Sensitive Data](https://www.ghacks.net/2026/05/12/eu-new-tech-package-may-restrict-microsoft-amazon-and-google-from-handling-public-sector-sensitive-data/)
-- [Windows 11 Adds Feature Flags Page to Insider Program for Enabling Experimental Features Without ViveTool](https://www.ghacks.net/2026/05/12/windows-11-adds-feature-flags-page-to-insider-program-for-enabling-experimental-features-without-vivetool/)
-- [Nvidia Engineer Proposes Linux Kernel Killswitch to Disable Vulnerable Functions Before Patches Land](https://www.ghacks.net/2026/05/12/nvidia-engineer-proposes-linux-kernel-killswitch-to-disable-vulnerable-functions-before-patches-land/)
-- [Nvidia Engineer Proposes Linux Kernel Killswitch to Disable Vulnerable Functions Before Patches Land](https://www.ghacks.net/2026/05/12/nvidia-engineer-proposes-linux-kernel-killswitch-to-disable-vulnerable-functions-before-patches-land/)
 <!-- BLOG-POST-LIST:END -->
