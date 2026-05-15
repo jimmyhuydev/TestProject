@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Samsung Launches One UI 9 Beta for Galaxy S26 Bringing Android 17 to Six Markets](https://www.ghacks.net/2026/05/13/samsung-launches-one-ui-9-beta-for-galaxy-s26-bringing-android-17-to-six-markets/)
-- [Reddit Tests Forcing Logged-Out Mobile Users Into App With Non-Dismissible Pop-Up](https://www.ghacks.net/2026/05/13/reddit-tests-forcing-logged-out-mobile-users-into-app-with-non-dismissible-pop-up/)
-- [Google Announces Googlebooks, Android-Based Premium Laptops With Gemini AI Built Into the OS](https://www.ghacks.net/2026/05/13/google-announces-googlebooks-android-based-premium-laptops-with-gemini-ai-built-into-the-os/)
-- [Overwatch 10th Anniversary Event Runs Through June 2 With 21 Free Launch Hero Skins](https://www.ghacks.net/2026/05/13/overwatch-10th-anniversary-event-runs-through-june-2-with-21-free-launch-hero-skins/)
-- [Discord Nitro Rewards Adds Xbox Game Pass Starter, Hardware Discounts, and More Orbs at No Extra Cost](https://www.ghacks.net/2026/05/12/discord-nitro-rewards-adds-xbox-game-pass-starter-hardware-discounts-and-more-orbs-at-no-extra-cost/)
+- [Microsoft Introduces Cloud-Initiated Driver Recovery to Roll Back Problematic Windows Update Drivers Automatically](https://www.ghacks.net/2026/05/14/microsoft-introduces-cloud-initiated-driver-recovery-to-roll-back-problematic-windows-update-drivers-automatically/)
+- [Windows 11 Emoji Picker Search Box Disappears in Some Builds, Restarting Explorer Restores It](https://www.ghacks.net/2026/05/14/windows-11-emoji-picker-search-box-disappears-in-some-builds-restarting-explorer-restores-it/)
+- [Doom 2016 Hits $2 on Steam for 10th Anniversary, Full Series Discounted Until May 15](https://www.ghacks.net/2026/05/14/doom-2016-hits-2-on-steam-for-10th-anniversary-full-series-discounted-until-may-15/)
+- [Google Announces Major Android Auto Update With Edge-to-Edge Maps, Gemini Integration, and HD Video](https://www.ghacks.net/2026/05/14/google-announces-major-android-auto-update-with-edge-to-edge-maps-gemini-integration-and-hd-video/)
+- [Germany Awards €1.3 Million to KDE for Plasma Desktop Improvements and Linux Sovereignty Work](https://www.ghacks.net/2026/05/14/germany-awards-e1-3-million-to-kde-for-plasma-desktop-improvements-and-linux-sovereignty-work/)
 <!-- BLOG-POST-LIST:END -->
