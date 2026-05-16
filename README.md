@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Forza Horizon 6 PC System Requirements Published Ahead of May 19 Launch](https://www.ghacks.net/2026/05/15/forza-horizon-6-pc-system-requirements-published-ahead-of-may-19-launch/)
+- [Tired of AI in Google Search? Here&#39;s How To Remove AI Overviews and Knowledge Cards](https://www.ghacks.net/2026/05/15/tired-of-ai-in-google-search-heres-how-to-remove-ai-overviews-and-knowledge-cards/)
+- [Google Now Requires Phone Number to Claim Full 15GB Free Storage for New Accounts in Select Regions](https://www.ghacks.net/2026/05/15/google-now-requires-phone-number-to-claim-full-15gb-free-storage-for-new-accounts-in-select-regions/)
+- [Microsoft Edge Retires Copilot Mode and Integrates AI Features Across Desktop and Mobile](https://www.ghacks.net/2026/05/15/microsoft-edge-retires-copilot-mode-and-integrates-ai-features-across-desktop-and-mobile/)
 - [Microsoft Introduces Cloud-Initiated Driver Recovery to Roll Back Problematic Windows Update Drivers Automatically](https://www.ghacks.net/2026/05/14/microsoft-introduces-cloud-initiated-driver-recovery-to-roll-back-problematic-windows-update-drivers-automatically/)
-- [Windows 11 Emoji Picker Search Box Disappears in Some Builds, Restarting Explorer Restores It](https://www.ghacks.net/2026/05/14/windows-11-emoji-picker-search-box-disappears-in-some-builds-restarting-explorer-restores-it/)
-- [Doom 2016 Hits $2 on Steam for 10th Anniversary, Full Series Discounted Until May 15](https://www.ghacks.net/2026/05/14/doom-2016-hits-2-on-steam-for-10th-anniversary-full-series-discounted-until-may-15/)
-- [Google Announces Major Android Auto Update With Edge-to-Edge Maps, Gemini Integration, and HD Video](https://www.ghacks.net/2026/05/14/google-announces-major-android-auto-update-with-edge-to-edge-maps-gemini-integration-and-hd-video/)
-- [Germany Awards €1.3 Million to KDE for Plasma Desktop Improvements and Linux Sovereignty Work](https://www.ghacks.net/2026/05/14/germany-awards-e1-3-million-to-kde-for-plasma-desktop-improvements-and-linux-sovereignty-work/)
 <!-- BLOG-POST-LIST:END -->
