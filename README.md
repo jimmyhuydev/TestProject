@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Gains 6 Million Users Since EU Browser Choice Screen Rules Took Effect](https://www.ghacks.net/2026/05/17/firefox-gains-6-million-users-since-eu-browser-choice-screen-rules-took-effect/)
-- [Meta Launches Incognito Chat With Meta AI for Private Conversations on WhatsApp and Meta AI App](https://www.ghacks.net/2026/05/17/meta-launches-incognito-chat-with-meta-ai-for-private-conversations-on-whatsapp-and-meta-ai-app/)
-- [Windows 11 Build 26300.8493 Brings Movable Taskbar, Smaller Taskbar Mode, and Fluid Dictation to More Languages](https://www.ghacks.net/2026/05/16/windows-11-build-26300-8493-brings-movable-taskbar-smaller-taskbar-mode-and-fluid-dictation-to-more-languages/)
-- [Forza Horizon 6 Hits 172,000 Concurrent Steam Players in Early Access, More Than Double Forza Horizon 5&#39;s Peak](https://www.ghacks.net/2026/05/16/forza-horizon-6-hits-172000-concurrent-steam-players-in-early-access-more-than-double-forza-horizon-5s-peak/)
-- [Forza Horizon 6 PC System Requirements Published Ahead of May 19 Launch](https://www.ghacks.net/2026/05/15/forza-horizon-6-pc-system-requirements-published-ahead-of-may-19-launch/)
+- [Meta Opens Ray-Ban Display Glasses to Third-Party Developers Through Wearables Toolkit](https://www.ghacks.net/2026/05/18/meta-opens-ray-ban-display-glasses-to-third-party-developers-through-wearables-toolkit/)
+- [OpenAI Launches Personal Finance Experience in ChatGPT for Pro Users in the US](https://www.ghacks.net/2026/05/18/openai-launches-personal-finance-experience-in-chatgpt-for-pro-users-in-the-us/)
+- [Linus Torvalds Says AI-Generated Bug Reports Have Made Linux Security Mailing List Unmanageable](https://www.ghacks.net/2026/05/18/linus-torvalds-says-ai-generated-bug-reports-have-made-linux-security-mailing-list-unmanageable/)
+- [Linus Torvalds Says AI-Generated Bug Reports Have Made Linux Security Mailing List Unmanageable](https://www.ghacks.net/2026/05/18/linus-torvalds-says-ai-generated-bug-reports-have-made-linux-security-mailing-list-unmanageable/)
+- [Steam Controller Reservation Emails Begin Going Out With 72-Hour Purchase Windows](https://www.ghacks.net/2026/05/18/steam-controller-reservation-emails-begin-going-out-with-72-hour-purchase-windows/)
 <!-- BLOG-POST-LIST:END -->
