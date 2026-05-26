@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 New Build Adds Screen Tint, Voice Isolation, and Plug-and-Play Braille Display Support](https://www.ghacks.net/2026/05/25/windows-11-new-build-adds-screen-tint-voice-isolation-and-plug-and-play-braille-display-support/)
+- [Mozilla Adds Web Serial Support to Firefox 151 With Adafruit Hardware Collaboration](https://www.ghacks.net/2026/05/25/mozilla-adds-web-serial-support-to-firefox-151-with-adafruit-hardware-collaboration/)
+- [WhatsApp Rolls Out Status Visibility Lists Letting Users Choose Custom Audiences for Updates](https://www.ghacks.net/2026/05/25/whatsapp-rolls-out-status-visibility-lists-letting-users-choose-custom-audiences-for-updates/)
+- [Epic Games Reveals Unreal Engine 6, With Rocket League as the First Confirmed Title](https://www.ghacks.net/2026/05/25/epic-games-reveals-unreal-engine-6-with-rocket-league-as-the-first-confirmed-title/)
 - [Researcher Claims Trump Mobile Website Leaked Data on More Than 27,000 Customers Through Unprotected API](https://www.ghacks.net/2026/05/24/researcher-claims-trump-mobile-website-leaked-data-on-more-than-27000-customers-through-unprotected-api/)
-- [Forza Horizon 6 Sells 4.9 Million Copies in First Week as Analyst Says Game Pass Cannibalized Revenue](https://www.ghacks.net/2026/05/24/forza-horizon-6-sells-4-9-million-copies-in-first-week-as-analyst-says-game-pass-cannibalized-revenue/)
-- [Google Wallet Adds Frequent Flyer Sign-Ups and Auto Linked Passes for Travel](https://www.ghacks.net/2026/05/23/google-wallet-adds-frequent-flyer-sign-ups-and-auto-linked-passes-for-travel/)
-- [Meta Launches Forum, a Standalone Facebook Groups App Positioned as a Reddit Alternative](https://www.ghacks.net/2026/05/23/meta-launches-forum-a-standalone-facebook-groups-app-positioned-as-a-reddit-alternative/)
-- [Microsoft Retires Teams Together Mode on June 30, Pointing Users to Gallery View](https://www.ghacks.net/2026/05/22/microsoft-retires-teams-together-mode-on-june-30-pointing-users-to-gallery-view/)
 <!-- BLOG-POST-LIST:END -->
