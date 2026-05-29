@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Valve Raises Steam Deck Prices by Nearly 50%, 1TB OLED Model Now $949](https://www.ghacks.net/2026/05/28/valve-raises-steam-deck-prices-by-nearly-50-1tb-oled-model-now-949/)
+- [YouTube Makes AI-Generated Content Labels More Prominent and Adds Automatic Detection](https://www.ghacks.net/2026/05/28/youtube-makes-ai-generated-content-labels-more-prominent-and-adds-automatic-detection/)
+- [Microsoft Adds Docking Option to Windows 11 Copilot That Resizes the Desktop to Make Room](https://www.ghacks.net/2026/05/28/microsoft-adds-docking-option-to-windows-11-copilot-that-resizes-the-desktop-to-make-room/)
+- [Destiny 2 Final Update Approaches After Nine Years, Bungie Community Manager Confirms](https://www.ghacks.net/2026/05/28/destiny-2-final-update-approaches-after-nine-years-bungie-community-manager-confirms/)
 - [California Wants To Exclude Linux and Other Open Source Systems From New Age Checks](https://www.ghacks.net/2026/05/27/california-wants-to-exclude-linux-and-other-open-source-systems-from-new-age-checks/)
-- [California Wants To Exclude Linux and Other Open Source Systems From New Age Checks](https://www.ghacks.net/2026/05/27/california-wants-to-exclude-linux-and-other-open-source-systems-from-new-age-checks/)
-- [Samsung Removes OneDrive Integration From Galaxy Gallery on September 30](https://www.ghacks.net/2026/05/27/samsung-removes-onedrive-integration-from-galaxy-gallery-on-september-30/)
-- [Sony Confirms PlayStation Plus June 2026 Games Lineup](https://www.ghacks.net/2026/05/27/sony-confirms-playstation-plus-june-2026-games-lineup/)
-- [NVIDIA Officially Retires Control Panel After 20 Years in Favor of NVIDIA App](https://www.ghacks.net/2026/05/27/nvidia-officially-retires-control-panel-after-20-years-in-favor-of-nvidia-app/)
 <!-- BLOG-POST-LIST:END -->
