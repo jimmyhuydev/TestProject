@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Launches Paid Subscription Plans for Facebook, Instagram, and WhatsApp](https://www.ghacks.net/2026/05/29/meta-launches-paid-subscription-plans-for-facebook-instagram-and-whatsapp/)
+- [Microsoft Rolls Out A New Update With Low Latency Profile for Faster Windows 11 Performance](https://www.ghacks.net/2026/05/29/microsoft-rolls-out-a-new-update-with-low-latency-profile-for-faster-windows-11-performance/)
+- [Proton Mail Adds Easy Switch Tool to Send and Receive Gmail Messages Inside Proton Mail](https://www.ghacks.net/2026/05/29/proton-mail-adds-easy-switch-tool-to-send-and-receive-gmail-messages-inside-proton-mail/)
+- [Rockstar Games UK Employees Form Union Six Months Before Grand Theft Auto 6 Launch](https://www.ghacks.net/2026/05/29/rockstar-games-uk-employees-form-union-six-months-before-grand-theft-auto-6-launch/)
 - [Valve Raises Steam Deck Prices by Nearly 50%, 1TB OLED Model Now $949](https://www.ghacks.net/2026/05/28/valve-raises-steam-deck-prices-by-nearly-50-1tb-oled-model-now-949/)
-- [YouTube Makes AI-Generated Content Labels More Prominent and Adds Automatic Detection](https://www.ghacks.net/2026/05/28/youtube-makes-ai-generated-content-labels-more-prominent-and-adds-automatic-detection/)
-- [Microsoft Adds Docking Option to Windows 11 Copilot That Resizes the Desktop to Make Room](https://www.ghacks.net/2026/05/28/microsoft-adds-docking-option-to-windows-11-copilot-that-resizes-the-desktop-to-make-room/)
-- [Destiny 2 Final Update Approaches After Nine Years, Bungie Community Manager Confirms](https://www.ghacks.net/2026/05/28/destiny-2-final-update-approaches-after-nine-years-bungie-community-manager-confirms/)
-- [California Wants To Exclude Linux and Other Open Source Systems From New Age Checks](https://www.ghacks.net/2026/05/27/california-wants-to-exclude-linux-and-other-open-source-systems-from-new-age-checks/)
 <!-- BLOG-POST-LIST:END -->
