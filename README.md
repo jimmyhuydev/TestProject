@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot Usage-Based Billing Takes Effect, Drawing Developer Backlash Over Rapid Credit Depletion](https://www.ghacks.net/2026/06/02/github-copilot-usage-based-billing-takes-effect-drawing-developer-backlash-over-rapid-credit-depletion/)
+- [Microsoft Fixes Windows 11 KB5089549 Install Failures Caused by Limited EFI Partition Space](https://www.ghacks.net/2026/06/02/microsoft-fixes-windows-11-kb5089549-install-failures-caused-by-limited-efi-partition-space/)
+- [Google Photos Adds Incremental Exports to Takeout to Avoid Re-Downloading Entire Libraries](https://www.ghacks.net/2026/06/02/google-photos-adds-incremental-exports-to-takeout-to-avoid-re-downloading-entire-libraries/)
+- [Steam Summer Sale 2026 Dates and Times Revealed](https://www.ghacks.net/2026/06/02/steam-summer-sale-2026-exact-dates-revealed/)
 - [WhatsApp Tests Log Out Option That Preserves Chat History on Android](https://www.ghacks.net/2026/06/01/whatsapp-tests-log-out-option-that-preserves-chat-history-on-android/)
-- [007 First Light Becomes IO Interactive&#39;s Fastest-Selling Game With 1.5 Million Sales in First 24 Hours](https://www.ghacks.net/2026/06/01/007-first-light-becomes-io-interactives-fastest-selling-game-with-1-5-million-sales-in-first-24-hours/)
-- [Attackers Abuse ChatGPT Share Links to Host Fake Outage Pages That Deliver Malware](https://www.ghacks.net/2026/06/01/attackers-abuse-chatgpt-share-links-to-host-fake-outage-pages-that-deliver-malware/)
-- [Microsoft Announces Surface Laptop Ultra With NVIDIA Blackwell RTX GPU and 128GB Unified Memory](https://www.ghacks.net/2026/06/01/microsoft-announces-surface-laptop-ultra-with-nvidia-blackwell-rtx-gpu-and-128gb-unified-memory/)
-- [Nvidia Set to Reveal First Consumer CPU in Over a Decade at Computex 2026](https://www.ghacks.net/2026/05/31/nvidia-set-to-reveal-first-consumer-cpu-in-over-a-decade-at-computex-2026/)
 <!-- BLOG-POST-LIST:END -->
