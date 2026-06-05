@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Windows 11 Insider Build Adds AI Model Management Page With Limited Uninstall Support](https://www.ghacks.net/2026/06/03/windows-11-insider-build-adds-ai-model-management-page-with-limited-uninstall-support/)
-- [Instagram Accounts Hijacked by Tricking Meta AI Support Into Verifying Attackers as Owners](https://www.ghacks.net/2026/06/03/instagram-accounts-hijacked-by-tricking-meta-ai-support-into-verifying-attackers-as-owners/)
-- [OpenAI Upgrades GPT-5.5 Instant and Confirms Retirement of o3 and GPT-4.5 Models](https://www.ghacks.net/2026/06/03/openai-upgrades-gpt-5-5-instant-and-confirms-retirement-of-o3-and-gpt-4-5-models/)
-- [Control Resonant Launches September 24 With $59.99 Standard Edition](https://www.ghacks.net/2026/06/03/control-resonant-launches-september-24-with-59-99-standard-edition/)
-- [GitHub Copilot Usage-Based Billing Takes Effect, Drawing Developer Backlash Over Rapid Credit Depletion](https://www.ghacks.net/2026/06/02/github-copilot-usage-based-billing-takes-effect-drawing-developer-backlash-over-rapid-credit-depletion/)
+- [UK Regulator Orders Google to Let Publishers Opt Out of AI Search Summaries](https://www.ghacks.net/2026/06/04/uk-regulator-orders-google-to-let-publishers-opt-out-of-ai-search-summaries/)
+- [Microsoft Releases Coreutils for Windows, Bringing Native Linux Commands to the OS](https://www.ghacks.net/2026/06/04/microsoft-releases-coreutils-for-windows-bringing-native-linux-commands-to-the-os/)
+- [Microsoft Releases Coreutils for Windows, Bringing Native Linux Commands to the OS](https://www.ghacks.net/2026/06/04/microsoft-releases-coreutils-for-windows-bringing-native-linux-commands-to-the-os/)
+- [Microsoft Unveils Wearable AI Badge and Desk Cube Hardware Concepts at Build 2026](https://www.ghacks.net/2026/06/04/microsoft-unveils-wearable-ai-badge-and-desk-cube-hardware-concepts-at-build-2026/)
+- [GTA 5 Sold an Estimated 1.8 Million Copies on PS5 in 2026, Sustaining Rockstar Ahead of GTA 6](https://www.ghacks.net/2026/06/04/gta-5-sold-an-estimated-1-8-million-copies-on-ps5-in-2026-sustaining-rockstar-ahead-of-gta-6/)
 <!-- BLOG-POST-LIST:END -->
