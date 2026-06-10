@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Xbox Game Pass Adds Solarpunk, Wo Long: Fallen Dynasty Returns, and Persona 5 Royal Rejoins in June](https://www.ghacks.net/2026/06/09/xbox-game-pass-adds-solarpunk-wo-long-fallen-dynasty-returns-and-persona-5-royal-rejoins-in-june/)
+- [WhatsApp Is Developing On-Device Scam Detection That Works Without Reading Message Content](https://www.ghacks.net/2026/06/09/whatsapp-is-developing-on-device-scam-detection-that-works-without-reading-message-content/)
+- [Microsoft Releases Windows 11 Insider Builds With Unlimited Update Pause Extension and New 26H1 Branch](https://www.ghacks.net/2026/06/09/microsoft-releases-windows-11-insider-builds-with-unlimited-update-pause-extension-and-new-26h1-branch/)
+- [Apple Announces macOS 27 Golden Gate, Dropping Intel Mac Support and Introducing Gemini-Powered Siri AI](https://www.ghacks.net/2026/06/09/apple-announces-macos-27-golden-gate-dropping-intel-mac-support-and-introducing-gemini-powered-siri-ai/)
 - [Microsoft Phone Link Adds Apple Messages Support for Windows, With Group Chat and Attachment Limitations](https://www.ghacks.net/2026/06/08/microsoft-phone-link-adds-apple-messages-support-for-windows-with-group-chat-and-attachment-limitations/)
-- [Browser Coalition Sends Open Letter to Microsoft CEO Demanding End to Edge Promotion Tactics in Windows](https://www.ghacks.net/2026/06/08/browser-coalition-sends-open-letter-to-microsoft-ceo-demanding-end-to-edge-promotion-tactics-in-windows/)
-- [Google Says AI Mode as Chrome Default Was an Error After Flag Appears in Canary Build](https://www.ghacks.net/2026/06/08/google-says-ai-mode-as-chrome-default-was-an-error-after-flag-appears-in-canary-build/)
-- [Valheim 1.0 Launches September 9 With Deep North Biome, Expanding to PS5 and Switch 2](https://www.ghacks.net/2026/06/08/valheim-1-0-launches-september-9-with-deep-north-biome-expanding-to-ps5-and-switch-2/)
-- [YouTube Premium Raises US Prices Again, Individual Plan Now $15.99 per Month](https://www.ghacks.net/2026/06/07/youtube-premium-raises-us-prices-again-individual-plan-now-15-99-per-month/)
 <!-- BLOG-POST-LIST:END -->
