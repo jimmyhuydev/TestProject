@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Scammers Are Inserting Fake Retail Sites Into ChatGPT Shopping Results](https://www.ghacks.net/2026/06/10/scammers-are-inserting-fake-retail-sites-into-chatgpt-shopping-results/)
-- [Apple Adds AI Tab Organization, Password Fixing, Custom Extensions, and Page Monitoring to Safari](https://www.ghacks.net/2026/06/10/apple-adds-ai-tab-organization-password-fixing-custom-extensions-and-page-monitoring-to-safari/)
-- [Anthropic Releases Claude Fable 5 to Pro, Max, and Enterprise Users Free Until June 22](https://www.ghacks.net/2026/06/10/anthropic-releases-claude-fable-5-to-pro-max-and-enterprise-users-free-until-june-22/)
-- [Xbox Lost Millions of Game Pass Subscribers After 2025 Price Hike, CSO Confirms](https://www.ghacks.net/2026/06/10/xbox-lost-millions-of-game-pass-subscribers-after-2025-price-hike-cso-confirms/)
-- [Xbox Game Pass Adds Solarpunk, Wo Long: Fallen Dynasty Returns, and Persona 5 Royal Rejoins in June](https://www.ghacks.net/2026/06/09/xbox-game-pass-adds-solarpunk-wo-long-fallen-dynasty-returns-and-persona-5-royal-rejoins-in-june/)
+- [OpenAI Files Confidential S-1 With SEC as Anthropic and SpaceX Also Head to Public Markets](https://www.ghacks.net/2026/06/11/openai-files-confidential-s-1-with-sec-as-anthropic-and-spacex-also-head-to-public-markets/)
+- [Valve Discontinues Physical Steam Gift Cards Citing Years of Scam Abuse, Digital Cards Remain](https://www.ghacks.net/2026/06/11/valve-discontinues-physical-steam-gift-cards-citing-years-of-scam-abuse-digital-cards-remain/)
+- [Microsoft Adds Option to Disable Bing Web Results in Windows 11 Local Search](https://www.ghacks.net/2026/06/11/microsoft-adds-option-to-disable-bing-web-results-in-windows-11-local-search/)
+- [Linux Lite 8.0 Released With Ubuntu 26.04 Base, GTK4 Helper Apps, and Firefox Replacing Chrome](https://www.ghacks.net/2026/06/11/linux-lite-8-0-released-with-ubuntu-26-04-base-gtk4-helper-apps-and-firefox-replacing-chrome/)
+- [Linux Lite 8.0 Released With Ubuntu 26.04 Base, GTK4 Helper Apps, and Firefox Replacing Chrome](https://www.ghacks.net/2026/06/11/linux-lite-8-0-released-with-ubuntu-26-04-base-gtk4-helper-apps-and-firefox-replacing-chrome/)
 <!-- BLOG-POST-LIST:END -->
