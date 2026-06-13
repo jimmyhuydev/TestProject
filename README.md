@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Enables Nvidia GPU Support for Windows 11 Local Language Model APIs](https://www.ghacks.net/2026/06/12/microsoft-enables-nvidia-gpu-support-for-windows-11-local-language-model-apis/)
+- [Visa Now Connects ChatGPT to Its Payment Network for Agent-Initiated Retail Purchases](https://www.ghacks.net/2026/06/12/visa-now-connects-chatgpt-to-its-payment-network-for-agent-initiated-retail-purchases/)
+- [Instagram Expands Your Algorithm Controls to Main Feed, Letting Users Adjust Recommended Topics](https://www.ghacks.net/2026/06/12/instagram-expands-your-algorithm-controls-to-main-feed-letting-users-adjust-recommended-topics/)
+- [Xbox CEO Confirms Major Layoffs and Hints at &quot;Radically Different&quot; Console Business Model](https://www.ghacks.net/2026/06/12/xbox-ceo-confirms-major-layoffs-and-hints-at-radically-different-console-business-model/)
 - [OpenAI Files Confidential S-1 With SEC as Anthropic and SpaceX Also Head to Public Markets](https://www.ghacks.net/2026/06/11/openai-files-confidential-s-1-with-sec-as-anthropic-and-spacex-also-head-to-public-markets/)
-- [Valve Discontinues Physical Steam Gift Cards Citing Years of Scam Abuse, Digital Cards Remain](https://www.ghacks.net/2026/06/11/valve-discontinues-physical-steam-gift-cards-citing-years-of-scam-abuse-digital-cards-remain/)
-- [Microsoft Adds Option to Disable Bing Web Results in Windows 11 Local Search](https://www.ghacks.net/2026/06/11/microsoft-adds-option-to-disable-bing-web-results-in-windows-11-local-search/)
-- [Linux Lite 8.0 Released With Ubuntu 26.04 Base, GTK4 Helper Apps, and Firefox Replacing Chrome](https://www.ghacks.net/2026/06/11/linux-lite-8-0-released-with-ubuntu-26-04-base-gtk4-helper-apps-and-firefox-replacing-chrome/)
-- [Linux Lite 8.0 Released With Ubuntu 26.04 Base, GTK4 Helper Apps, and Firefox Replacing Chrome](https://www.ghacks.net/2026/06/11/linux-lite-8-0-released-with-ubuntu-26-04-base-gtk4-helper-apps-and-firefox-replacing-chrome/)
 <!-- BLOG-POST-LIST:END -->
