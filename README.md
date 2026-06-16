@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Reaches 1 Billion Monthly App Users in 3.5 Years, the Fastest in App History](https://www.ghacks.net/2026/06/14/chatgpt-reaches-1-billion-monthly-app-users-in-3-5-years-the-fastest-in-app-history/)
-- [Call of Duty: Modern Warfare 4 Adds 7-Day Campaign Early Access for Digital Preorders](https://www.ghacks.net/2026/06/14/call-of-duty-modern-warfare-4-adds-7-day-campaign-early-access-for-digital-preorders/)
-- [US Government Suspends Anthropic’s Claude Fable 5 and Mythos 5 Over Security and Jailbreak Concerns](https://www.ghacks.net/2026/06/13/us-government-suspends-anthropics-claude-fable-5-and-mythos-5-over-security-and-jailbreak-concerns/)
-- [Microsoft Edge Moves to Two-Week Release Cycle Starting With Edge 152 in August](https://www.ghacks.net/2026/06/13/microsoft-edge-moves-to-two-week-release-cycle-starting-with-edge-152-in-august/)
-- [Microsoft Enables Nvidia GPU Support for Windows 11 Local Language Model APIs](https://www.ghacks.net/2026/06/12/microsoft-enables-nvidia-gpu-support-for-windows-11-local-language-model-apis/)
+- [German Court Rules Google Can Be Held Liable for False AI Overview Answers](https://www.ghacks.net/2026/06/15/german-court-rules-google-can-be-held-liable-for-false-ai-overview-answers/)
+- [Firefox Built-In VPN Goes Unlimited and Adds 28 Countries Through August 31](https://www.ghacks.net/2026/06/15/firefox-built-in-vpn-goes-unlimited-and-adds-28-countries-through-august-31/)
+- [MX Linux 25.2 Released With Kernel 7.0 Option and Updated Raspberry Pi Edition](https://www.ghacks.net/2026/06/15/mx-linux-25-2-released-with-kernel-7-0-option-and-updated-raspberry-pi-edition/)
+- [MX Linux 25.2 Released With Kernel 7.0 Option and Updated Raspberry Pi Edition](https://www.ghacks.net/2026/06/15/mx-linux-25-2-released-with-kernel-7-0-option-and-updated-raspberry-pi-edition/)
+- [GTA 6 Forces Studios Worldwide to Plan Release Schedules Around Rockstar&#39;s November Launch](https://www.ghacks.net/2026/06/15/gta-6-forces-studios-worldwide-to-plan-release-schedules-around-rockstars-november-launch/)
 <!-- BLOG-POST-LIST:END -->
