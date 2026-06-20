@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tim Cook Confirms Apple Price Hikes Coming, iPhones Could Rise by More Than $200](https://www.ghacks.net/2026/06/19/tim-cook-confirms-apple-price-hikes-coming-iphones-could-rise-by-more-than-200/)
+- [Frontier Airlines API Exposes Passport, Credit Card, and Personal Data via Boarding Pass Information](https://www.ghacks.net/2026/06/19/frontier-airlines-api-exposes-passport-credit-card-and-personal-data-via-boarding-pass-information/)
+- [Gmail Reply Bug Hits Pixel Users, Keyboard Refuses to Appear](https://www.ghacks.net/2026/06/19/gmail-reply-bug-hits-pixel-users-keyboard-refuses-to-appear/)
+- [Rockstar Games Confirms GTA 6 Pre-Orders Open June 25 Ahead of November Launch](https://www.ghacks.net/2026/06/19/rockstar-games-confirms-gta-6-pre-orders-open-june-25-ahead-of-november-launch/)
 - [Smartphone Shipments Expected to Fall 15% in 2026 as Memory Prices Push Up Phone Costs](https://www.ghacks.net/2026/06/18/smartphone-shipments-expected-to-fall-15-in-2026-as-memory-prices-push-up-phone-costs/)
-- [Google Launches $99 Google Home Speaker With Built-In Gemini Voice Assistant, Ships June 25](https://www.ghacks.net/2026/06/18/google-launches-99-google-home-speaker-with-built-in-gemini-voice-assistant-ships-june-25/)
-- [Mozilla Publishes Firefox Roadmap With Nova Redesign, Mobile VPN, and HDR Support as Browser Loses Market Share](https://www.ghacks.net/2026/06/18/mozilla-publishes-firefox-roadmap-with-nova-redesign-mobile-vpn-and-hdr-support-as-browser-loses-market-share/)
-- [Google to Use IP Addresses for Ad Personalization in UK and EU Starting August 3](https://www.ghacks.net/2026/06/18/google-to-use-ip-addresses-for-ad-personalization-in-uk-and-eu-starting-august-3/)
-- [Anthropic Pushes Back Against US Order Restricting Claude Fable 5, Backed by Cybersecurity Experts](https://www.ghacks.net/2026/06/17/anthropic-pushes-back-against-us-order-restricting-claude-fable-5-backed-by-cybersecurity-experts/)
 <!-- BLOG-POST-LIST:END -->
