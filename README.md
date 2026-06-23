@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google VP Says Googlebook Will Work With iPhones but Optimize for Premium Android Phones](https://www.ghacks.net/2026/06/22/google-vp-says-googlebook-will-work-with-iphones-but-optimize-for-premium-android-phones/)
+- [Samsung Deploys ChatGPT Enterprise and Codex to All Korean and DX Division Employees Globally](https://www.ghacks.net/2026/06/22/samsung-deploys-chatgpt-enterprise-and-codex-to-all-korean-and-dx-division-employees-globally/)
+- [Microsoft Releases GDK Plug-ins for Unreal Engine 5.8 to Simplify Xbox PC Game Development](https://www.ghacks.net/2026/06/22/microsoft-releases-gdk-plug-ins-for-unreal-engine-5-8-to-simplify-xbox-pc-game-development/)
+- [Nintendo Offers a Free Month of Switch Online + Expansion Pack With 12-Month Memberships Through July 28](https://www.ghacks.net/2026/06/22/nintendo-offers-a-free-month-of-switch-online-expansion-pack-with-12-month-memberships-through-july-28/)
 - [Microsoft Confirms Windows 11 26H2 as Enablement Package With Support Through October 2028](https://www.ghacks.net/2026/06/21/microsoft-confirms-windows-11-26h2-as-enablement-package-with-support-through-october-2028/)
-- [Apple Announces iOS 27 Features Including Apple Wallet Bill Splitting, Find My Time Limits, and Apple Maps Local Lists](https://www.ghacks.net/2026/06/21/apple-announces-ios-27-features-including-apple-wallet-bill-splitting-find-my-time-limits-and-apple-maps-local-lists/)
-- [Steam Controller New Orders Now Push to 2027 as Demand Outstrips Supply](https://www.ghacks.net/2026/06/20/steam-controller-new-orders-now-push-to-2027-as-demand-outstrips-supply/)
-- [Windows 11 June 2026 Update Breaks Recycle Bin Dialogs, OneDrive Access, and BSOD Reports Surface](https://www.ghacks.net/2026/06/20/windows-11-june-2026-update-breaks-recycle-bin-dialogs-onedrive-access-and-bsod-reports-surface/)
-- [Tim Cook Confirms Apple Price Hikes Coming, iPhones Could Rise by More Than $200](https://www.ghacks.net/2026/06/19/tim-cook-confirms-apple-price-hikes-coming-iphones-could-rise-by-more-than-200/)
 <!-- BLOG-POST-LIST:END -->
