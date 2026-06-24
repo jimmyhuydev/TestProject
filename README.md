@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dota 2 TI 2026 Europe Qualifier Runs June 21 to 28 With Four TI15 Spots on the Line](https://www.ghacks.net/2026/06/23/dota-2-ti-2026-europe-qualifier-runs-june-21-to-28-with-four-ti15-spots-on-the-line/)
+- [Valve Confirms Steam Machine Launches June 30 at $1,049 to $1,349 With Random Reservation Queue](https://www.ghacks.net/2026/06/23/valve-confirms-steam-machine-launches-june-30-at-1049-to-1349-with-random-reservation-queue/)
+- [Cloudflare and Major Browsers Develop Private Access Control Tokens to Separate Legitimate Traffic From Bots](https://www.ghacks.net/2026/06/23/cloudflare-and-major-browsers-develop-private-access-control-tokens-to-separate-legitimate-traffic-from-bots/)
+- [Meta Pauses Employee Mouse-Tracking AI Training Program After Internal Data Exposure](https://www.ghacks.net/2026/06/23/meta-pauses-employee-mouse-tracking-ai-training-program-after-internal-data-exposure/)
 - [Google VP Says Googlebook Will Work With iPhones but Optimize for Premium Android Phones](https://www.ghacks.net/2026/06/22/google-vp-says-googlebook-will-work-with-iphones-but-optimize-for-premium-android-phones/)
-- [Samsung Deploys ChatGPT Enterprise and Codex to All Korean and DX Division Employees Globally](https://www.ghacks.net/2026/06/22/samsung-deploys-chatgpt-enterprise-and-codex-to-all-korean-and-dx-division-employees-globally/)
-- [Microsoft Releases GDK Plug-ins for Unreal Engine 5.8 to Simplify Xbox PC Game Development](https://www.ghacks.net/2026/06/22/microsoft-releases-gdk-plug-ins-for-unreal-engine-5-8-to-simplify-xbox-pc-game-development/)
-- [Nintendo Offers a Free Month of Switch Online + Expansion Pack With 12-Month Memberships Through July 28](https://www.ghacks.net/2026/06/22/nintendo-offers-a-free-month-of-switch-online-expansion-pack-with-12-month-memberships-through-july-28/)
-- [Microsoft Confirms Windows 11 26H2 as Enablement Package With Support Through October 2028](https://www.ghacks.net/2026/06/21/microsoft-confirms-windows-11-26h2-as-enablement-package-with-support-through-october-2028/)
 <!-- BLOG-POST-LIST:END -->
