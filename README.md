@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Major Retailer Warns PS5 and Xbox Series Console Supply Will Not Meet GTA 6 Launch Demand in November](https://www.ghacks.net/2026/06/28/major-retailer-warns-ps5-and-xbox-series-console-supply-will-not-meet-gta-6-launch-demand-in-november/)
+- [Chrome Adds Deep Google Wallet Integration for Passport, License, and Travel Document Autofill on iOS and Android](https://www.ghacks.net/2026/06/28/chrome-adds-deep-google-wallet-integration-for-passport-license-and-travel-document-autofill-on-ios-and-android/)
+- [Microsoft Raises Xbox Series Console Prices by at Least $100, Series X Now $799](https://www.ghacks.net/2026/06/28/microsoft-raises-xbox-series-console-prices-by-at-least-100-series-x-now-799/)
+- [Microsoft Phone Link Adds Remote PC Lock From Android Phones](https://www.ghacks.net/2026/06/28/microsoft-phone-link-adds-remote-pc-lock-from-android-phones/)
 - [Microsoft Extends Free Windows 10 Extended Security Updates Through October 2027](https://www.ghacks.net/2026/06/26/microsoft-extends-free-windows-10-extended-security-updates-through-october-2027/)
-- [Apple Raises iPad, MacBook, HomePod, and Apple TV Prices Citing Memory Cost Pressure](https://www.ghacks.net/2026/06/26/apple-raises-ipad-macbook-homepod-and-apple-tv-prices-citing-memory-cost-pressure/)
-- [Bungie Hit With Major Layoffs Affecting Destiny 2 and Marathon Teams Following Sony Restructuring](https://www.ghacks.net/2026/06/26/bungie-hit-with-major-layoffs-affecting-destiny-2-and-marathon-teams-following-sony-restructuring/)
-- [Google Finance Android App Launches Globally With Portfolios, Watchlists, and AI Tools](https://www.ghacks.net/2026/06/26/google-finance-android-app-launches-globally-with-portfolios-watchlists-and-ai-tools/)
-- [Anthropic Launches Claude Tag in Slack for Enterprise and Team Plans](https://www.ghacks.net/2026/06/25/anthropic-launches-claude-tag-in-slack-for-enterprise-and-team-plans/)
 <!-- BLOG-POST-LIST:END -->
