@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [dbrand Cancels and Refunds Portal Companion Cube Steam Machine Case After Valve Cease and Desist](https://www.ghacks.net/2026/06/30/dbrand-cancels-and-refunds-portal-companion-cube-steam-machine-case-after-valve-cease-and-desist/)
-- [US Offers $10 Million Bounty for Information on Russian Hackers Targeting Signal and WhatsApp Users](https://www.ghacks.net/2026/06/30/us-offers-10-million-bounty-for-information-on-russian-hackers-targeting-signal-and-whatsapp-users/)
-- [Microsoft Extends Windows Server 2022 Hotpatching Through October 2027](https://www.ghacks.net/2026/06/30/microsoft-extends-windows-server-2022-hotpatching-through-october-2027/)
-- [Apple Releases iOS 26.5.2 With 29 Security Fixes, Most Affecting WebKit](https://www.ghacks.net/2026/06/30/apple-releases-ios-26-5-2-with-29-security-fixes-most-affecting-webkit/)
-- [Memory Prices Expected to Rise Up to 50% in Q3 With No Relief Until 2028, Jefferies Predicts](https://www.ghacks.net/2026/06/29/memory-prices-expected-to-rise-up-to-50-in-q3-with-no-relief-until-2028-jefferies-predicts/)
+- [The Elder Scrolls IV: Oblivion Remastered Launches on Nintendo Switch 2 August 11, Bethesda Confirms](https://www.ghacks.net/2026/07/01/the-elder-scrolls-iv-oblivion-remastered-launches-on-nintendo-switch-2-august-11-bethesda-confirms/)
+- [Microsoft Adds Dedicated Taskbar Resize Option to Windows 11 in Latest Experimental Build](https://www.ghacks.net/2026/07/01/microsoft-adds-dedicated-taskbar-resize-option-to-windows-11-in-latest-experimental-build/)
+- [Anthropic Releases Claude Sonnet 5 With Near-Opus Performance, Restores Fable 5 and Mythos 5 After US Lifts Export Controls](https://www.ghacks.net/2026/07/01/anthropic-releases-claude-sonnet-5-with-near-opus-performance-restores-fable-5-and-mythos-5-after-us-lifts-export-controls/)
+- [Kali Linux 2026.2 Released With 9 New Tools, GNOME 50, and Kernel 6.19](https://www.ghacks.net/2026/07/01/kali-linux-2026-2-released-with-9-new-tools-gnome-50-and-kernel-6-19/)
+- [Kali Linux 2026.2 Released With 9 New Tools, GNOME 50, and Kernel 6.19](https://www.ghacks.net/2026/07/01/kali-linux-2026-2-released-with-9-new-tools-gnome-50-and-kernel-6-19/)
 <!-- BLOG-POST-LIST:END -->
