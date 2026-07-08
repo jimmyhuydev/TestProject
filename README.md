@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dota 2 Esports World Cup 2026 Runs July 7 to 19 in Paris With $2 Million Prize Pool](https://www.ghacks.net/2026/07/07/dota-2-esports-world-cup-2026-runs-july-7-to-19-in-paris-with-2-million-prize-pool/)
+- [Microsoft Tests Cloud Rebuild Recovery Option in Windows 11 Insider Builds](https://www.ghacks.net/2026/07/07/microsoft-tests-cloud-rebuild-recovery-option-in-windows-11-insider-builds/)
+- [Google Maps Code Points to Upcoming &quot;Ask Maps to Order Food&quot; Feature With Gemini](https://www.ghacks.net/2026/07/07/google-maps-code-points-to-upcoming-ask-maps-to-order-food-feature-with-gemini/)
+- [Microsoft Cuts 3,200 Xbox Jobs and Spins Off Four Game Studios in Largest Xbox Reset](https://www.ghacks.net/2026/07/07/microsoft-cuts-3200-xbox-jobs-and-spins-off-four-game-studios-in-largest-xbox-reset/)
 - [Google Tests Hand Gesture Verification CAPTCHA That Uses Webcam Biometrics, Already Bypassed With Stock Photos](https://www.ghacks.net/2026/07/06/google-tests-hand-gesture-verification-captcha-that-uses-webcam-biometrics-already-bypassed-with-stock-photos/)
-- [Counter-Strike: Global Offensive Hits Post-Relaunch Concurrent Player Peak of Over 68,000 on Steam](https://www.ghacks.net/2026/07/06/counter-strike-global-offensive-hits-post-relaunch-concurrent-player-peak-of-over-68000-on-steam/)
-- [Opera Adds Paste Protect Feature to Block ClickFix Clipboard Attacks in Latest Release](https://www.ghacks.net/2026/07/06/opera-adds-paste-protect-feature-to-block-clickfix-clipboard-attacks-in-latest-release/)
-- [WhatsApp Opens Username Reservations Ahead of Later 2026 Launch](https://www.ghacks.net/2026/07/06/whatsapp-opens-username-reservations-ahead-of-later-2026-launch/)
-- [Sony Confirms PlayStation Store Shutdown on PS3 and PS Vita Starting August 2026](https://www.ghacks.net/2026/07/05/sony-confirms-playstation-store-shutdown-on-ps3-and-ps-vita-starting-august-2026/)
 <!-- BLOG-POST-LIST:END -->
