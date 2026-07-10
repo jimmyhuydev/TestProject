@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta AI Uses Public Instagram Profiles to Generate Images by Default, Opt-Out Requires Manual Setting Change](https://www.ghacks.net/2026/07/09/meta-ai-uses-public-instagram-profiles-to-generate-images-by-default-opt-out-requires-manual-setting-change/)
+- [SpaceXAI and Cursor Prepare to Launch First Jointly Developed AI Model This Week](https://www.ghacks.net/2026/07/09/spacexai-and-cursor-prepare-to-launch-first-jointly-developed-ai-model-this-week/)
+- [DuckDuckGo Browser Adds Built-in YouTube Ad Blocking on iOS, Mac, Windows, and Android](https://www.ghacks.net/2026/07/09/duckduckgo-browser-adds-built-in-youtube-ad-blocking-on-ios-mac-windows-and-android/)
+- [Counter-Strike 2 Season 5 Update Adds Cache to Premier, Reworks C4 Damage, and Adds New Armory Collections](https://www.ghacks.net/2026/07/09/counter-strike-2-season-5-update-adds-cache-to-premier-reworks-c4-damage-and-adds-new-armory-collections/)
 - [Microsoft Confirms Windows 11 Bug That Can Consume Over 500GB of Storage Through Permission Log File](https://www.ghacks.net/2026/07/08/microsoft-confirms-windows-11-bug-that-can-consume-over-500gb-of-storage-through-permission-log-file/)
-- [Alibaba Blocks Claude Code for Employees Over Hidden Tracking of Chinese Users Starting July 10](https://www.ghacks.net/2026/07/08/alibaba-blocks-claude-code-for-employees-over-hidden-tracking-of-chinese-users-starting-july-10/)
-- [Google Confirms Made by Google Event on August 12 for Pixel 11 and Pixel Watch 5 Launch](https://www.ghacks.net/2026/07/08/google-confirms-made-by-google-event-on-august-12-for-pixel-11-and-pixel-watch-5-launch/)
-- [IO Interactive Regains Full Ownership of Project Fantasy After Xbox Funding Ends, Closes Istanbul Studio](https://www.ghacks.net/2026/07/08/io-interactive-regains-full-ownership-of-project-fantasy-after-xbox-funding-ends-closes-istanbul-studio/)
-- [Dota 2 Esports World Cup 2026 Runs July 7 to 19 in Paris With $2 Million Prize Pool](https://www.ghacks.net/2026/07/07/dota-2-esports-world-cup-2026-runs-july-7-to-19-in-paris-with-2-million-prize-pool/)
 <!-- BLOG-POST-LIST:END -->
