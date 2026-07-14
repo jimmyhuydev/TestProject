@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Confirms Windows GDID Device Identifier That Cannot Be Disabled, Documented in FBI Case Filing](https://www.ghacks.net/2026/07/12/microsoft-confirms-windows-gdid-device-identifier-that-cannot-be-disabled-documented-in-fbi-case-filing/)
-- [Steam Passes 200 Million Monthly Active Users, 50% More Than PlayStation](https://www.ghacks.net/2026/07/12/steam-passes-200-million-monthly-active-users-50-more-than-playstation/)
-- [Apple Sues OpenAI Alleging Former Employees Stole Trade Secrets for AI Hardware Development](https://www.ghacks.net/2026/07/11/apple-sues-openai-alleging-former-employees-stole-trade-secrets-for-ai-hardware-development/)
-- [Saber Interactive Turns Down Multiple Game Deals Following Space Marine 2 Success](https://www.ghacks.net/2026/07/11/saber-interactive-turns-down-multiple-game-deals-following-space-marine-2-success/)
-- [Meta Launches Muse Spark 1.1 in US Public Preview With Lower-Cost Pricing for Coding Agents](https://www.ghacks.net/2026/07/10/meta-launches-muse-spark-1-1-in-us-public-preview-with-lower-cost-pricing-for-coding-agents/)
+- [Microsoft Teams Adds In-Meeting Toggle to Disable Copilot, Facilitator, and Recap AI](https://www.ghacks.net/2026/07/13/microsoft-teams-adds-in-meeting-toggle-to-disable-copilot-facilitator-and-recap-ai/)
+- [AI Agent Discovers 15-Year-Old Linux Kernel Privilege Escalation Bug Named GhostLock](https://www.ghacks.net/2026/07/13/ai-agent-discovers-15-year-old-linux-kernel-privilege-escalation-bug-named-ghostlock/)
+- [AI Agent Discovers 15-Year-Old Linux Kernel Privilege Escalation Bug Named GhostLock](https://www.ghacks.net/2026/07/13/ai-agent-discovers-15-year-old-linux-kernel-privilege-escalation-bug-named-ghostlock/)
+- [Samsung Develops Dedicated GAIA AI Chip for PCs With HP and Lenovo Testing Prototypes](https://www.ghacks.net/2026/07/13/samsung-develops-dedicated-gaia-ai-chip-for-pcs-with-hp-and-lenovo-testing-prototypes/)
+- [Hanwha Life Esports Win League of Legends MSI 2026 Final 3-2 Over Bilibili Gaming](https://www.ghacks.net/2026/07/13/hanwha-life-esports-win-league-of-legends-msi-2026-final-3-2-over-bilibili-gaming/)
 <!-- BLOG-POST-LIST:END -->
