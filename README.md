@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FaceTime Scammers Impersonate Banks and Support to Steal Money Through Video Calls](https://www.ghacks.net/2026/07/17/facetime-scammers-impersonate-banks-and-support-to-steal-money-through-video-calls/)
+- [Google Rebrands NotebookLM as Gemini Notebook and Expands Cloud Computer Access to AI Pro](https://www.ghacks.net/2026/07/17/google-rebrands-notebooklm-as-gemini-notebook-and-expands-cloud-computer-access-to-ai-pro/)
+- [Stripe and Advent Offer Over $53 Billion to Acquire PayPal in Joint Bid](https://www.ghacks.net/2026/07/17/stripe-and-advent-offer-over-53-billion-to-acquire-paypal-in-joint-bid/)
+- [GTA 6 Hacker Arion Kurtaj Moved From Secure Hospital to Prison Ahead of November 2026 Retrial](https://www.ghacks.net/2026/07/17/gta-6-hacker-arion-kurtaj-moved-from-secure-hospital-to-prison-ahead-of-november-2026-retrial/)
 - [Faker Named Esports Foundation Game Ambassador Through 2028 Alongside Ronaldo and Carlsen](https://www.ghacks.net/2026/07/16/faker-named-esports-foundation-game-ambassador-through-2028-alongside-ronaldo-and-carlsen/)
-- [Microsoft Blocks Windows 11 KB5101650 Update on Some Dell Devices Over Shutdown Issue](https://www.ghacks.net/2026/07/16/microsoft-blocks-windows-11-kb5101650-update-on-some-dell-devices-over-shutdown-issue/)
-- [Thinking Machines Lab Releases Inkling, a 975 Billion Parameter Open Weights AI Model Under Apache 2.0](https://www.ghacks.net/2026/07/16/thinking-machines-lab-releases-inkling-a-975-billion-parameter-open-weights-ai-model-under-apache-2-0/)
-- [Meta Announces First AI Data Center, Prometheus, Coming Online in 2026 With More Superclusters Planned](https://www.ghacks.net/2026/07/16/meta-announces-first-ai-data-center-prometheus-coming-online-in-2026-with-more-superclusters-planned/)
-- [Microsoft July 2026 Patch Tuesday Fixes Record 570 Flaws Including Three Zero-Days](https://www.ghacks.net/2026/07/15/microsoft-july-2026-patch-tuesday-fixes-record-570-flaws-including-three-zero-days/)
 <!-- BLOG-POST-LIST:END -->
