@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Insider Build 26220.8925 Adds Touchpad Scroll Speed Controls and Start Menu Section Toggles](https://www.ghacks.net/2026/07/22/windows-11-insider-build-26220-8925-adds-touchpad-scroll-speed-controls-and-start-menu-section-toggles/)
+- [Mozilla Adds Native Containers to Firefox 153 as a Preview Feature](https://www.ghacks.net/2026/07/22/mozilla-adds-native-containers-to-firefox-153-as-a-preview-feature/)
+- [OpenAI Confirms Its Models Breached Hugging Face Production Systems During Cyber Benchmark Testing](https://www.ghacks.net/2026/07/22/openai-confirms-its-models-breached-hugging-face-production-systems-during-cyber-benchmark-testing/)
+- [Activision Sets Call of Duty: Modern Warfare 4 Beta for August 21 Early Access and August 28 Open Weekend](https://www.ghacks.net/2026/07/22/activision-sets-call-of-duty-modern-warfare-4-beta-for-august-21-early-access-and-august-28-open-weekend/)
 - [OnePlus to Exit US and Europe as Oppo Restructures, With Full Shutdown in China and India Expected by 2027](https://www.ghacks.net/2026/07/21/oneplus-to-exit-us-and-europe-as-oppo-restructures-with-full-shutdown-in-china-and-india-expected-by-2027/)
-- [Book Writers Sue Google Over Alleged Use of Copyrighted Books to Train Gemini](https://www.ghacks.net/2026/07/21/book-writers-sue-google-over-alleged-use-of-copyrighted-books-to-train-gemini/)
-- [ChromeOS 150 Adds Gemini in Class Tools, Local PIN Authentication, and Ends Chrome Apps in Kiosk Mode](https://www.ghacks.net/2026/07/21/chromeos-150-adds-gemini-in-class-tools-local-pin-authentication-and-ends-chrome-apps-in-kiosk-mode/)
-- [BLAST Bounty Season 2 2026 Runs July 21 to August 2 With 32 Teams and Malta LAN Finals](https://www.ghacks.net/2026/07/21/blast-bounty-season-2-2026-runs-july-21-to-august-2-with-32-teams-and-malta-lan-finals/)
-- [Ubisoft Launches Ghost Recon: Wildlands Definitive Edition on PS5 and Xbox Series X](https://www.ghacks.net/2026/07/20/ubisoft-launches-ghost-recon-wildlands-definitive-edition-on-ps5-and-xbox-series-x/)
 <!-- BLOG-POST-LIST:END -->
