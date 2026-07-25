@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Waze Adds Five Gemini AI Features, but Only Three Are Live for US Drivers](https://www.ghacks.net/2026/07/24/waze-adds-five-gemini-ai-features-but-only-three-are-live-for-us-drivers/)
+- [EA Opens EA FC 27 Preorders on PS5, Xbox, and PC With Early Access for Ultimate Editions](https://www.ghacks.net/2026/07/24/ea-opens-ea-fc-27-preorders-on-ps5-xbox-and-pc-with-early-access-for-ultimate-editions/)
+- [Mozilla Releases Firefox 153 ESR With Profile Management, Split View, and On-Device AI Features for Enterprise](https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/)
+- [European Commission Fines Google €890 Million for Search and Play Store DMA Violations](https://www.ghacks.net/2026/07/24/european-commission-fines-google-e890-million-for-search-and-play-store-dma-violations/)
 - [Reddit and Major Publishers Consider Blocking Google as AI Overviews Cut Search Referral Traffic](https://www.ghacks.net/2026/07/23/reddit-and-major-publishers-consider-blocking-google-as-ai-overviews-cut-search-referral-traffic/)
-- [Adobe Patches Acrobat Chrome Extension Flaw That Exposed WhatsApp Web Chats to Any Website](https://www.ghacks.net/2026/07/23/adobe-patches-acrobat-chrome-extension-flaw-that-exposed-whatsapp-web-chats-to-any-website/)
-- [WhatsApp Adds CarPlay and Android Auto Message Playback, iPad Account Creation, and PDF Editing](https://www.ghacks.net/2026/07/23/whatsapp-adds-carplay-and-android-auto-message-playback-ipad-account-creation-and-pdf-editing/)
-- [Blizzard Releases BlizzCon 2026 Digital Bundles for WoW, Overwatch, Diablo, and Hearthstone Ahead of September Event](https://www.ghacks.net/2026/07/23/blizzard-releases-blizzcon-2026-digital-bundles-for-wow-overwatch-diablo-and-hearthstone-ahead-of-september-event/)
-- [Windows 11 Insider Build 26220.8925 Adds Touchpad Scroll Speed Controls and Start Menu Section Toggles](https://www.ghacks.net/2026/07/22/windows-11-insider-build-26220-8925-adds-touchpad-scroll-speed-controls-and-start-menu-section-toggles/)
 <!-- BLOG-POST-LIST:END -->
