@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Launches Health in ChatGPT for US Users, Connecting Apple Health and Medical Records](https://www.ghacks.net/2026/07/25/openai-launches-health-in-chatgpt-for-us-users-connecting-apple-health-and-medical-records/)
-- [PUBG at Esports World Cup 2026 Reaches Grand Finals With Made in Thailand Topping the Group Stage](https://www.ghacks.net/2026/07/25/pubg-at-esports-world-cup-2026-reaches-grand-finals-with-made-in-thailand-topping-the-group-stage/)
-- [Waze Adds Five Gemini AI Features, but Only Three Are Live for US Drivers](https://www.ghacks.net/2026/07/24/waze-adds-five-gemini-ai-features-but-only-three-are-live-for-us-drivers/)
-- [EA Opens EA FC 27 Preorders on PS5, Xbox, and PC With Early Access for Ultimate Editions](https://www.ghacks.net/2026/07/24/ea-opens-ea-fc-27-preorders-on-ps5-xbox-and-pc-with-early-access-for-ultimate-editions/)
-- [Mozilla Releases Firefox 153 ESR With Profile Management, Split View, and On-Device AI Features for Enterprise](https://www.ghacks.net/2026/07/24/mozilla-releases-firefox-153-esr-with-profile-management-split-view-and-on-device-ai-features-for-enterprise/)
+- [Windows 11 Version 26H2 Restores Movable Taskbar and Adds Start Menu Section Toggles and Search Controls](https://www.ghacks.net/2026/07/27/windows-11-version-26h2-restores-movable-taskbar-and-adds-start-menu-section-toggles-and-search-controls/)
+- [Samsung One UI Hides Notification Categories by Default, but the Setting Can Be Re-Enabled](https://www.ghacks.net/2026/07/27/samsung-one-ui-hides-notification-categories-by-default-but-the-setting-can-be-re-enabled/)
+- [Anthropic Releases Claude Opus 5 at Half the Token Price of Claude Fable 5](https://www.ghacks.net/2026/07/27/anthropic-releases-claude-opus-5-at-half-the-token-price-of-claude-fable-5/)
+- [Rockstar Confirms GTA 6 PS5 Download Codes in Japan Expire 170 Days After Launch](https://www.ghacks.net/2026/07/27/rockstar-confirms-gta-6-ps5-download-codes-in-japan-expire-170-days-after-launch/)
+- [Google Confirms Pixel Price Increases, Citing Memory Component Costs](https://www.ghacks.net/2026/07/27/google-confirms-pixel-price-increases-citing-memory-component-costs/)
 <!-- BLOG-POST-LIST:END -->
