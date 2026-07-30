@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Restaurant Simulation Game Is Free to Keep on PS5 and PS4 With No Subscription Required](https://www.ghacks.net/2026/07/29/a-restaurant-simulation-game-is-free-to-keep-on-ps5-and-ps4-with-no-subscription-required/)
+- [WhatsApp Adds Web Calling, Waiting Room, and Call Transfer to Group Calls](https://www.ghacks.net/2026/07/29/whatsapp-adds-web-calling-waiting-room-and-call-transfer-to-group-calls/)
+- [Windows 11 August 2026 Update Adds AI Model Uninstall, Windows Hello ESS for External Sensors, and Touchpad Gestures](https://www.ghacks.net/2026/07/29/windows-11-august-2026-update-adds-ai-model-uninstall-windows-hello-ess-for-external-sensors-and-touchpad-gestures/)
+- [Apple Releases Security Updates Patching Nearly 200 Vulnerabilities Across macOS, iOS, iPadOS, and Safari](https://www.ghacks.net/2026/07/29/apple-releases-security-updates-patching-nearly-200-vulnerabilities-across-macos-ios-ipados-and-safari/)
 - [Apple Delays First Smart Glasses to WWDC 2027 Over Privacy Concerns](https://www.ghacks.net/2026/07/28/apple-delays-first-smart-glasses-to-wwdc-2027-over-privacy-concerns/)
-- [Samsung and Broadcom Sign AI Chip Partnership Worth More Than $200 Billion Through 2030](https://www.ghacks.net/2026/07/28/samsung-and-broadcom-sign-ai-chip-partnership-worth-more-than-200-billion-through-2030/)
-- [Mozilla Adds AI-Generated Daily Crossword to Firefox New Tab Page Built From Summarized News](https://www.ghacks.net/2026/07/28/mozilla-adds-ai-generated-daily-crossword-to-firefox-new-tab-page-built-from-summarized-news/)
-- [Xbox Adds 13 Ubisoft Games to Console-to-PC Program, Granting Free PC Versions to Xbox Owners](https://www.ghacks.net/2026/07/28/xbox-adds-13-ubisoft-games-to-console-to-pc-program-granting-free-pc-versions-to-xbox-owners/)
-- [Windows 11 Version 26H2 Restores Movable Taskbar and Adds Start Menu Section Toggles and Search Controls](https://www.ghacks.net/2026/07/27/windows-11-version-26h2-restores-movable-taskbar-and-adds-start-menu-section-toggles-and-search-controls/)
 <!-- BLOG-POST-LIST:END -->
