@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fortnite Adds Spider-Man and Punisher Skins in Brand New Day Collab, Available Until August 9](https://www.ghacks.net/2026/07/31/fortnite-adds-spider-man-and-punisher-skins-in-brand-new-day-collab-available-until-august-9/)
+- [Chrome for Android Adds New Tab Page Customization With Colors, Themes, and Custom Backgrounds](https://www.ghacks.net/2026/07/31/chrome-for-android-adds-new-tab-page-customization-with-colors-themes-and-custom-backgrounds/)
+- [Nvidia Reportedly Preparing GPU Price Increases of Up to 30% Following Samsung DRAM Hike](https://www.ghacks.net/2026/07/31/nvidia-reportedly-preparing-gpu-price-increases-of-up-to-30-following-samsung-dram-hike/)
+- [Leaked Amazon Documents Detail $1.8 Million Overrun on a Single Claude AI Task Missed for Five Months](https://www.ghacks.net/2026/07/31/leaked-amazon-documents-detail-1-8-million-overrun-on-a-single-claude-ai-task-missed-for-five-months/)
 - [EU AI Content Labeling Rules Take Effect August 2, With December Deadline for Existing Systems](https://www.ghacks.net/2026/07/30/eu-ai-content-labeling-rules-take-effect-august-2-with-december-deadline-for-existing-systems/)
-- [Microsoft Releases Windows 11 KB5101684 Preview Update With 42 Fixes](https://www.ghacks.net/2026/07/30/microsoft-releases-windows-11-kb5101684-preview-update-with-42-fixes/)
-- [505 Games Announces New WUCHANG Game With Original Creator Xia Siyuan&#39;s New Studio Indolphinity](https://www.ghacks.net/2026/07/30/505-games-announces-new-wuchang-game-with-original-creator-xia-siyuans-new-studio-indolphinity/)
-- [Microsoft Adds Unremovable &quot;Upgrade Your Plan&quot; Button to Office App Title Bars](https://www.ghacks.net/2026/07/30/microsoft-adds-unremovable-upgrade-your-plan-button-to-office-app-title-bars/)
-- [A Restaurant Simulation Game Is Free to Keep on PS5 and PS4 With No Subscription Required](https://www.ghacks.net/2026/07/29/a-restaurant-simulation-game-is-free-to-keep-on-ps5-and-ps4-with-no-subscription-required/)
 <!-- BLOG-POST-LIST:END -->
