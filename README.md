@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Prepares Default Block for Extensions That Hijack the New Tab Page or Search Engine](https://www.ghacks.net/2026/08/03/google-chrome-prepares-default-block-for-extensions-that-hijack-the-new-tab-page-or-search-engine/)
+- [Microsoft Whiteboard Retires Legacy Whiteboards and Standalone App by September 2026](https://www.ghacks.net/2026/08/03/microsoft-whiteboard-retires-legacy-whiteboards-and-standalone-app-by-september-2026/)
+- [Netflix Sued for $105 Million Over Lost Unencrypted Master Copy of Unreleased Nicolas Cage Film](https://www.ghacks.net/2026/08/03/netflix-sued-for-105-million-over-lost-unencrypted-master-copy-of-unreleased-nicolas-cage-film/)
+- [Valve&#39;s CS2 Skin Sponsorship Ban Takes Effect at Tier 1 Tournaments With BLAST Bounty Season 2](https://www.ghacks.net/2026/08/03/valves-cs2-skin-sponsorship-ban-takes-effect-at-tier-1-tournaments-with-blast-bounty-season-2/)
 - [Snapchat Stops Recommending Fully AI-Generated Videos in Spotlight Feed](https://www.ghacks.net/2026/08/02/snapchat-stops-recommending-fully-ai-generated-videos-in-spotlight-feed/)
-- [Square Enix Releases Final Fantasy 14 on Nintendo Switch 2 on August 4 With a Separate Subscription Requirement](https://www.ghacks.net/2026/08/02/square-enix-releases-final-fantasy-14-on-nintendo-switch-2-on-august-4-with-a-separate-subscription-requirement/)
-- [Microsoft Confirms Windows 11 Memory Optimization for 8GB PCs Among Four New Focus Areas](https://www.ghacks.net/2026/08/01/microsoft-confirms-windows-11-memory-optimization-for-8gb-pcs-among-four-new-focus-areas/)
-- [Meta&#39;s Reality Labs Loses $4.6 Billion in Q2 2026, Pushing Total Losses Toward $88 Billion](https://www.ghacks.net/2026/08/01/metas-reality-labs-loses-4-6-billion-in-q2-2026-pushing-total-losses-toward-88-billion/)
-- [Fortnite Adds Spider-Man and Punisher Skins in Brand New Day Collab, Available Until August 9](https://www.ghacks.net/2026/07/31/fortnite-adds-spider-man-and-punisher-skins-in-brand-new-day-collab-available-until-august-9/)
 <!-- BLOG-POST-LIST:END -->
