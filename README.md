@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Attack on Titan 3 Launches December 10 on PC, PS5, Switch 2, and Xbox Series X and S](https://www.ghacks.net/2026/08/04/attack-on-titan-3-launches-december-10-on-pc-ps5-switch-2-and-xbox-series-x-and-s/)
+- [Valve Publishes Lepton and FEX Compatibility Tools for Arm-Based Steam Frame Headset](https://www.ghacks.net/2026/08/04/valve-publishes-lepton-and-fex-compatibility-tools-for-arm-based-steam-frame-headset/)
+- [OpenAI Reaches One Billion Active Users and Cuts GPT-5.6 Luna and Terra Prices by Up to 80%](https://www.ghacks.net/2026/08/04/openai-reaches-one-billion-active-users-and-cuts-gpt-5-6-luna-and-terra-prices-by-up-to-80/)
+- [AI Adoption Drives Thousands of Customer Service Job Cuts at Microsoft, Uber, and Commonwealth Bank](https://www.ghacks.net/2026/08/04/ai-adoption-drives-thousands-of-customer-service-job-cuts-at-microsoft-uber-and-commonwealth-bank/)
 - [Google Chrome Prepares Default Block for Extensions That Hijack the New Tab Page or Search Engine](https://www.ghacks.net/2026/08/03/google-chrome-prepares-default-block-for-extensions-that-hijack-the-new-tab-page-or-search-engine/)
-- [Microsoft Whiteboard Retires Legacy Whiteboards and Standalone App by September 2026](https://www.ghacks.net/2026/08/03/microsoft-whiteboard-retires-legacy-whiteboards-and-standalone-app-by-september-2026/)
-- [Netflix Sued for $105 Million Over Lost Unencrypted Master Copy of Unreleased Nicolas Cage Film](https://www.ghacks.net/2026/08/03/netflix-sued-for-105-million-over-lost-unencrypted-master-copy-of-unreleased-nicolas-cage-film/)
-- [Valve&#39;s CS2 Skin Sponsorship Ban Takes Effect at Tier 1 Tournaments With BLAST Bounty Season 2](https://www.ghacks.net/2026/08/03/valves-cs2-skin-sponsorship-ban-takes-effect-at-tier-1-tournaments-with-blast-bounty-season-2/)
-- [Snapchat Stops Recommending Fully AI-Generated Videos in Spotlight Feed](https://www.ghacks.net/2026/08/02/snapchat-stops-recommending-fully-ai-generated-videos-in-spotlight-feed/)
 <!-- BLOG-POST-LIST:END -->
