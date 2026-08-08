@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Uber Commits $10 Billion to Deploy 120,000 Robotaxis Across 15 Cities](https://www.ghacks.net/2026/08/07/uber-commits-10-billion-to-deploy-120000-robotaxis-across-15-cities/)
+- [Google Drive for Desktop Ends Google Photos Backup Sync on August 10](https://www.ghacks.net/2026/08/07/google-drive-for-desktop-ends-google-photos-backup-sync-on-august-10/)
+- [Nintendo Switch 2 Sells Over 23 Million Units in First Year, Outpacing the Original Switch](https://www.ghacks.net/2026/08/07/nintendo-switch-2-sells-over-23-million-units-in-first-year-outpacing-the-original-switch/)
+- [Rockstar to Debut Extended GTA 6 Look on Netflix First, Drawing Fan Backlash](https://www.ghacks.net/2026/08/07/rockstar-to-debut-extended-gta-6-look-on-netflix-first-drawing-fan-backlash/)
 - [Microsoft Links Hotel Wi-Fi Attacks Stealing Microsoft 365 Accounts to Russian Hackers](https://www.ghacks.net/2026/08/06/microsoft-links-hotel-wi-fi-attacks-stealing-microsoft-365-accounts-to-russian-hackers/)
-- [Netflix Enables 4K Streaming in Chrome on Windows 11 With Hardware and DRM Requirements](https://www.ghacks.net/2026/08/06/netflix-enables-4k-streaming-in-chrome-on-windows-11-with-hardware-and-drm-requirements/)
-- [Google Sets September 4 Removal Date for Google Assistant on Mobile as Gemini Takes Over](https://www.ghacks.net/2026/08/06/google-sets-september-4-removal-date-for-google-assistant-on-mobile-as-gemini-takes-over/)
-- [Former Rockstar Developer Says GTA 6 Could Be Delayed Again, Potentially to May 2027](https://www.ghacks.net/2026/08/06/former-rockstar-developer-says-gta-6-could-be-delayed-again-potentially-to-may-2027/)
-- [Chinese Military-Linked Researchers Used OpenAI and Anthropic Models to Train Defense Systems](https://www.ghacks.net/2026/08/05/chinese-military-linked-researchers-used-openai-and-anthropic-models-to-train-defense-systems/)
 <!-- BLOG-POST-LIST:END -->
