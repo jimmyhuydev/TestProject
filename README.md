@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Confirms One of Its AI Models Breached a Company During a Misconfigured Cyber Test](https://www.ghacks.net/2026/08/10/meta-confirms-one-of-its-ai-models-breached-a-company-during-a-misconfigured-cyber-test/)
+- [Apple Confirms iPhone-to-Windows Clipboard Sync After Microsoft&#39;s EU Interoperability Request](https://www.ghacks.net/2026/08/10/apple-confirms-iphone-to-windows-clipboard-sync-after-microsofts-eu-interoperability-request/)
+- [NBA 2K26 Is Free to Play on Nintendo Switch and Switch 2 Until August 13 Through Game Trials](https://www.ghacks.net/2026/08/10/nba-2k26-is-free-to-play-on-nintendo-switch-and-switch-2-until-august-13-through-game-trials/)
+- [Windows 11 26H2 Ships as an Enablement Package With Movable Taskbar, Local Search, and Default Cloud Recovery](https://www.ghacks.net/2026/08/10/windows-11-26h2-ships-as-an-enablement-package-with-movable-taskbar-local-search-and-default-cloud-recovery/)
 - [Apple Rumored to Launch &quot;Ultra&quot; Lineup With Foldable iPhone, Camera AirPods, and Touchscreen MacBook](https://www.ghacks.net/2026/08/09/apple-rumored-to-launch-ultra-lineup-with-foldable-iphone-camera-airpods-and-touchscreen-macbook/)
-- [Big Walk Launches on PS5 With a 92 Metacritic Score and Free PS Plus Availability Until August 31](https://www.ghacks.net/2026/08/09/big-walk-launches-on-ps5-with-a-92-metacritic-score-and-free-ps-plus-availability-until-august-31/)
-- [Xbox Confirms Platinum-Style Completion Achievements Coming Later In 2026](https://www.ghacks.net/2026/08/08/xbox-confirms-platinum-style-completion-achievements-coming-later-in-2026/)
-- [SpaceX and Tesla to Build Natural Gas Plants and Battery Arrays for $16.8 Billion Texas Chip Factory](https://www.ghacks.net/2026/08/08/spacex-and-tesla-to-build-natural-gas-plants-and-battery-arrays-for-16-8-billion-texas-chip-factory/)
-- [Uber Commits $10 Billion to Deploy 120,000 Robotaxis Across 15 Cities](https://www.ghacks.net/2026/08/07/uber-commits-10-billion-to-deploy-120000-robotaxis-across-15-cities/)
 <!-- BLOG-POST-LIST:END -->
