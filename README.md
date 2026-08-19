@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Word Adds &quot;Link to Location&quot; Feature for Jumping to Specific Parts of a Document](https://www.ghacks.net/2026/08/17/microsoft-word-adds-link-to-location-feature-for-jumping-to-specific-parts-of-a-document/)
-- [DeepSeek Releases V4 Pro With Higher Benchmarks, Open-Source Tooling, and Upcoming Price Increases](https://www.ghacks.net/2026/08/17/deepseek-releases-v4-pro-with-higher-benchmarks-open-source-tooling-and-upcoming-price-increases/)
-- [ChromeOS 151 Rolls Out With Bookmark Bar Auto-Hide, Gemini Safe Browsing, and 18 Security Fixes](https://www.ghacks.net/2026/08/17/chromeos-151-rolls-out-with-bookmark-bar-auto-hide-gemini-safe-browsing-and-18-security-fixes/)
-- [S.T.A.L.K.E.R. 2 Reveals Free 2.0 &quot;Back to the Zone&quot; Update Launching August 20 Alongside First DLC](https://www.ghacks.net/2026/08/17/s-t-a-l-k-e-r-2-reveals-free-2-0-back-to-the-zone-update-launching-august-20-alongside-first-dlc/)
-- [Microsoft Confirms Windows 11 Bug Breaks IE Mode in Microsoft Edge for Some Users](https://www.ghacks.net/2026/08/16/microsoft-confirms-windows-11-bug-breaks-ie-mode-in-microsoft-edge-for-some-users/)
+- [Legal Online Casinos in the U.S.: Why Real-Money iGaming Remains a State-by-State Market in 2026](https://www.ghacks.net/2026/08/18/legal-online-casinos-in-the-u-s-why-real-money-igaming-remains-a-state-by-state-market-in-2026/)
+- [Sweepstakes Casinos Face a U.S. Reality Check as Regulators Close In](https://www.ghacks.net/2026/08/18/sweepstakes-casinos-face-a-u-s-reality-check-as-regulators-close-in/)
+- [Apple Reportedly Trained a China-Specific AI Model With Alibaba&#39;s Help for Apple Intelligence](https://www.ghacks.net/2026/08/18/apple-reportedly-trained-a-china-specific-ai-model-with-alibabas-help-for-apple-intelligence/)
+- [Stripe Reportedly Acquiring AI Gateway Startup OpenRouter for More Than $7 Billion](https://www.ghacks.net/2026/08/18/stripe-reportedly-acquiring-ai-gateway-startup-openrouter-for-more-than-7-billion/)
+- [Fortnite Chapter 7 Season 4 &quot;Override&quot; Launches August 20 With a Gaming Legends Theme](https://www.ghacks.net/2026/08/18/fortnite-chapter-7-season-4-override-launches-august-20-with-a-gaming-legends-theme/)
 <!-- BLOG-POST-LIST:END -->
