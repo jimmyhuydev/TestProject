@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GTA 6 Leaks Show Vehicles With Fuel and HP Meters, Pointing to Deeper Simulation Systems](https://www.ghacks.net/2026/08/20/gta-6-leaks-show-vehicles-with-fuel-and-hp-meters-pointing-to-deeper-simulation-systems/)
+- [Amazon Makes Alexa+ Free on Fire TV Devices, Dropping the Subscription Requirement](https://www.ghacks.net/2026/08/20/amazon-makes-alexa-free-on-fire-tv-devices-dropping-the-subscription-requirement/)
+- [Nvidia Adds Firefox to GeForce NOW&#39;s Supported Browsers for Cloud Gaming on Windows](https://www.ghacks.net/2026/08/20/nvidia-adds-firefox-to-geforce-nows-supported-browsers-for-cloud-gaming-on-windows/)
+- [Windows 11 Test Build Adds Per-App Camera, Microphone, and Location Controls for Desktop Programs](https://www.ghacks.net/2026/08/20/windows-11-test-build-adds-per-app-camera-microphone-and-location-controls-for-desktop-programs/)
 - [Firefox for iOS Adds Native Ad Blocking That Users Must Enable Manually](https://www.ghacks.net/2026/08/19/firefox-for-ios-adds-native-ad-blocking-that-users-must-enable-manually/)
-- [Samsung and Activision Partner on Call of Duty: Modern Warfare 4 With Odyssey G9 Display Tie-In](https://www.ghacks.net/2026/08/19/samsung-and-activision-partner-on-call-of-duty-modern-warfare-4-with-odyssey-g9-display-tie-in/)
-- [Google Reportedly Plans to Move Pixel Production Out of China to India and Vietnam by 2027](https://www.ghacks.net/2026/08/19/google-reportedly-plans-to-move-pixel-production-out-of-china-to-india-and-vietnam-by-2027/)
-- [Apple Replaces Per-Install EU Core Technology Fee With a Flat 5% Commission](https://www.ghacks.net/2026/08/19/apple-replaces-per-install-eu-core-technology-fee-with-a-flat-5-commission/)
-- [Legal Online Casinos in the U.S.: Why Real-Money iGaming Remains a State-by-State Market in 2026](https://www.ghacks.net/2026/08/18/legal-online-casinos-in-the-u-s-why-real-money-igaming-remains-a-state-by-state-market-in-2026/)
 <!-- BLOG-POST-LIST:END -->
