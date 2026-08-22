@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Modern Warfare 4 Beta Adds a Campaign Mission, Switch 2 Support, and Background Shader Compilation](https://www.ghacks.net/2026/08/21/modern-warfare-4-beta-adds-a-campaign-mission-switch-2-support-and-background-shader-compilation/)
+- [Google Messages RCS Breaks for Some Galaxy Users After Samsung Smart Switch Transfer](https://www.ghacks.net/2026/08/21/google-messages-rcs-breaks-for-some-galaxy-users-after-samsung-smart-switch-transfer/)
+- [Microsoft Confirms Windows 11 KB5121003 Update Is Crashing Games and Rebooting PCs](https://www.ghacks.net/2026/08/21/microsoft-confirms-windows-11-kb5121003-update-is-crashing-games-and-rebooting-pcs/)
+- [AirTag Investigation Tracks Rare Book Shipment to Amazon Facility Scanning Books for AI Training](https://www.ghacks.net/2026/08/21/airtag-investigation-tracks-rare-book-shipment-to-amazon-facility-scanning-books-for-ai-training/)
 - [GTA 6 Leaks Show Vehicles With Fuel and HP Meters, Pointing to Deeper Simulation Systems](https://www.ghacks.net/2026/08/20/gta-6-leaks-show-vehicles-with-fuel-and-hp-meters-pointing-to-deeper-simulation-systems/)
-- [Amazon Makes Alexa+ Free on Fire TV Devices, Dropping the Subscription Requirement](https://www.ghacks.net/2026/08/20/amazon-makes-alexa-free-on-fire-tv-devices-dropping-the-subscription-requirement/)
-- [Nvidia Adds Firefox to GeForce NOW&#39;s Supported Browsers for Cloud Gaming on Windows](https://www.ghacks.net/2026/08/20/nvidia-adds-firefox-to-geforce-nows-supported-browsers-for-cloud-gaming-on-windows/)
-- [Windows 11 Test Build Adds Per-App Camera, Microphone, and Location Controls for Desktop Programs](https://www.ghacks.net/2026/08/20/windows-11-test-build-adds-per-app-camera-microphone-and-location-controls-for-desktop-programs/)
-- [Firefox for iOS Adds Native Ad Blocking That Users Must Enable Manually](https://www.ghacks.net/2026/08/19/firefox-for-ios-adds-native-ad-blocking-that-users-must-enable-manually/)
 <!-- BLOG-POST-LIST:END -->
