@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Indie Fishing Game &quot;How to Fish&quot; Passes 260,000 Concurrent Players Days After Steam Launch](https://www.ghacks.net/2026/08/24/indie-fishing-game-how-to-fish-passes-260000-concurrent-players-days-after-steam-launch/)
+- [OpenAI Launches ChatGPT for Teens With Study-Focused Features and Default Safety Protections](https://www.ghacks.net/2026/08/24/openai-launches-chatgpt-for-teens-with-study-focused-features-and-default-safety-protections/)
+- [AliExpress Ran Silent Browser Audio to Fingerprint and Track Devices, Researchers Find](https://www.ghacks.net/2026/08/24/aliexpress-ran-silent-browser-audio-to-fingerprint-and-track-devices-researchers-find/)
+- [Report Finds Over 700 Fake VPN Extensions on the Chrome Web Store With 75,000 Installs](https://www.ghacks.net/2026/08/24/report-finds-over-700-fake-vpn-extensions-on-the-chrome-web-store-with-75000-installs/)
 - [Final Fantasy 11&#39;s Unlimited Free Trial With Raised Level Cap Targets September 2026](https://www.ghacks.net/2026/08/23/final-fantasy-11s-unlimited-free-trial-with-raised-level-cap-targets-september-2026/)
-- [Walmart to Accept Apple Pay and Google Pay Starting August 24 After Years of Resistance](https://www.ghacks.net/2026/08/23/walmart-to-accept-apple-pay-and-google-pay-starting-august-24-after-years-of-resistance/)
-- [YouTube Reportedly Offering Creators Millions to Keep Content Exclusive and Off Netflix](https://www.ghacks.net/2026/08/22/youtube-reportedly-offering-creators-millions-to-keep-content-exclusive-and-off-netflix/)
-- [Windows 11 Tests Toggle to Force Apps to Open Maximized, Aiding Small Screens and Handhelds](https://www.ghacks.net/2026/08/22/windows-11-tests-toggle-to-force-apps-to-open-maximized-aiding-small-screens-and-handhelds/)
-- [Modern Warfare 4 Beta Adds a Campaign Mission, Switch 2 Support, and Background Shader Compilation](https://www.ghacks.net/2026/08/21/modern-warfare-4-beta-adds-a-campaign-mission-switch-2-support-and-background-shader-compilation/)
 <!-- BLOG-POST-LIST:END -->
