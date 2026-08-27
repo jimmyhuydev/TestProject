@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Reportedly in Advanced Talks for $1.5 Billion Deal With AI Coding Startup Mechanize](https://www.ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize/)
+- [WhatsApp Adds Multiple Passkeys, Alphanumeric Passwords, and Caller Context in Security Update](https://www.ghacks.net/2026/08/26/whatsapp-adds-multiple-passkeys-alphanumeric-passwords-and-caller-context-in-security-update/)
+- [Apple Announces M6 Mac mini and M5 Ultra Mac Studio Aimed at Local AI Workloads and Mac Clustering](https://www.ghacks.net/2026/08/26/apple-announces-m6-mac-mini-and-m5-ultra-mac-studio-aimed-at-local-ai-workloads-and-mac-clustering/)
+- [The Witcher 3 Remastered Launches September 29 as a Free Upgrade With Xbox Play Anywhere Support](https://www.ghacks.net/2026/08/26/the-witcher-3-remastered-launches-september-29-as-a-free-upgrade-with-xbox-play-anywhere-support/)
 - [Former Rockstar Tech Lead Says GTA 6 Leaks Are No Big Deal](https://www.ghacks.net/2026/08/25/former-rockstar-tech-lead-says-gta-6-leaks-are-no-big-deal/)
-- [TikTok and ByteDance Agree to $400 Million Children’s Privacy Settlement](https://www.ghacks.net/2026/08/25/tiktok-and-bytedance-agree-to-400-million-childrens-privacy-settlement/)
-- [China Orders Recall of Almost Three Million Tesla Vehicles Over Hidden Door Handles](https://www.ghacks.net/2026/08/25/china-orders-recall-of-almost-three-million-tesla-vehicles-over-hidden-door-handles/)
-- [Microsoft Shares Workaround for EXCEPTION_ACCESS_VIOLATION Game Crashes Tied to RGB Drivers](https://www.ghacks.net/2026/08/25/microsoft-shares-workaround-for-exception_access_violation-game-crashes-tied-to-rgb-drivers/)
-- [Indie Fishing Game &quot;How to Fish&quot; Passes 260,000 Concurrent Players Days After Steam Launch](https://www.ghacks.net/2026/08/24/indie-fishing-game-how-to-fish-passes-260000-concurrent-players-days-after-steam-launch/)
 <!-- BLOG-POST-LIST:END -->
