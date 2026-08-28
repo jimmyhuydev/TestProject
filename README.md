@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta Agrees to Up to $18 Billion Settlement With 52 Attorneys General Over Teen Social Media Harms](https://www.ghacks.net/2026/08/27/meta-agrees-to-up-to-18-billion-settlement-with-52-attorneys-general-over-teen-social-media-harms/)
+- [Anthropic Reportedly Pitching IPO Investors a $30 Trillion Market Ahead of $2 Trillion Valuation](https://www.ghacks.net/2026/08/27/anthropic-reportedly-pitching-ipo-investors-a-30-trillion-market-ahead-of-2-trillion-valuation/)
+- [Microsoft OS Prototype Project Aion Leaked, Revealing Copilot-Centered Interface](https://www.ghacks.net/2026/08/27/microsoft-os-prototype-project-aion-leaked-revealing-copilot-centered-interface/)
+- [Microsoft Announces Xbox Disc-to-Digital Conversion, With Testing Starting August 31](https://www.ghacks.net/2026/08/27/microsoft-announces-xbox-disc-to-digital-conversion-with-testing-starting-august-31/)
 - [Google Reportedly in Advanced Talks for $1.5 Billion Deal With AI Coding Startup Mechanize](https://www.ghacks.net/2026/08/26/google-reportedly-in-advanced-talks-for-1-5-billion-deal-with-ai-coding-startup-mechanize/)
-- [WhatsApp Adds Multiple Passkeys, Alphanumeric Passwords, and Caller Context in Security Update](https://www.ghacks.net/2026/08/26/whatsapp-adds-multiple-passkeys-alphanumeric-passwords-and-caller-context-in-security-update/)
-- [Apple Announces M6 Mac mini and M5 Ultra Mac Studio Aimed at Local AI Workloads and Mac Clustering](https://www.ghacks.net/2026/08/26/apple-announces-m6-mac-mini-and-m5-ultra-mac-studio-aimed-at-local-ai-workloads-and-mac-clustering/)
-- [The Witcher 3 Remastered Launches September 29 as a Free Upgrade With Xbox Play Anywhere Support](https://www.ghacks.net/2026/08/26/the-witcher-3-remastered-launches-september-29-as-a-free-upgrade-with-xbox-play-anywhere-support/)
-- [Former Rockstar Tech Lead Says GTA 6 Leaks Are No Big Deal](https://www.ghacks.net/2026/08/25/former-rockstar-tech-lead-says-gta-6-leaks-are-no-big-deal/)
 <!-- BLOG-POST-LIST:END -->
