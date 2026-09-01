@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Conversations Are Being Used as Court Evidence With No Legal Privilege Protecting Them](https://www.ghacks.net/2026/08/31/chatgpt-conversations-are-being-used-as-court-evidence-with-no-legal-privilege-protecting-them/)
+- [South Korea to Offer Its Entire Population Free AI Access With No Token Limits](https://www.ghacks.net/2026/08/31/south-korea-to-offer-its-entire-population-free-ai-access-with-no-token-limits/)
+- [Microsoft Ships Windows 11 Tool That Installs a Bing Extension in Chrome, Firefox, and Brave](https://www.ghacks.net/2026/08/31/microsoft-ships-windows-11-tool-that-installs-a-bing-extension-in-chrome-firefox-and-brave/)
+- [Total War: Warhammer 40,000 Wins Best PC Game at Gamescom 2026](https://www.ghacks.net/2026/08/31/total-war-warhammer-40000-wins-best-pc-game-at-gamescom-2026/)
 - [PS5 Pro Stock Vanishes After GTA 6 Reveal, With Third-Party Sellers Charging Up to $1,300](https://www.ghacks.net/2026/08/29/ps5-pro-stock-vanishes-after-gta-6-reveal-with-third-party-sellers-charging-up-to-1300/)
-- [Canonical Releases Ubuntu 26.04.1 LTS, Opening Upgrades for Noble Numbat Users](https://www.ghacks.net/2026/08/29/canonical-releases-ubuntu-26-04-1-lts-opening-upgrades-for-noble-numbat-users/)
-- [Microsoft Edge Update Adds Apple Sign-In and Scam Protection While Retiring Edge Drop and Video Translation](https://www.ghacks.net/2026/08/29/microsoft-edge-update-adds-apple-sign-in-and-scam-protection-while-retiring-edge-drop-and-video-translation/)
-- [LibreOffice 26.8 Launches With Writer Paragraph Composer and No AI Features](https://www.ghacks.net/2026/08/29/libreoffice-26-8-launches-with-writer-paragraph-composer-and-no-ai-features/)
-- [Nvidia Reportedly Agrees to Buy Open-Source AI Hub Hugging Face for $12.9 Billion](https://www.ghacks.net/2026/08/28/nvidia-reportedly-agrees-to-buy-open-source-ai-hub-hugging-face-for-12-9-billion/)
 <!-- BLOG-POST-LIST:END -->
