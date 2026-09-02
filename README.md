@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Activision Posts Video of Cease-and-Desist Being Served to Call of Duty Cheat Seller](https://www.ghacks.net/2026/09/01/activision-posts-video-of-cease-and-desist-being-served-to-call-of-duty-cheat-seller/)
+- [Samsung&#39;s Galaxy S26 Ultra Red Tint Fix Reportedly Causes Red Dots on the Screen](https://www.ghacks.net/2026/09/01/samsungs-galaxy-s26-ultra-red-tint-fix-reportedly-causes-red-dots-on-the-screen/)
+- [GPU Prices Jump 15% in a Month, With GeForce Cards Taking the Biggest Hit](https://www.ghacks.net/2026/09/01/gpu-prices-jump-15-in-a-month-with-geforce-cards-taking-the-biggest-hit/)
+- [Manifest V2 Is Dead as Chrome Web Store Permanently Purges Legacy Extensions](https://www.ghacks.net/2026/09/01/manifest-v2-is-dead-as-chrome-web-store-permanently-purges-legacy-extensions/)
 - [ChatGPT Conversations Are Being Used as Court Evidence With No Legal Privilege Protecting Them](https://www.ghacks.net/2026/08/31/chatgpt-conversations-are-being-used-as-court-evidence-with-no-legal-privilege-protecting-them/)
-- [South Korea to Offer Its Entire Population Free AI Access With No Token Limits](https://www.ghacks.net/2026/08/31/south-korea-to-offer-its-entire-population-free-ai-access-with-no-token-limits/)
-- [Microsoft Ships Windows 11 Tool That Installs a Bing Extension in Chrome, Firefox, and Brave](https://www.ghacks.net/2026/08/31/microsoft-ships-windows-11-tool-that-installs-a-bing-extension-in-chrome-firefox-and-brave/)
-- [Total War: Warhammer 40,000 Wins Best PC Game at Gamescom 2026](https://www.ghacks.net/2026/08/31/total-war-warhammer-40000-wins-best-pc-game-at-gamescom-2026/)
-- [PS5 Pro Stock Vanishes After GTA 6 Reveal, With Third-Party Sellers Charging Up to $1,300](https://www.ghacks.net/2026/08/29/ps5-pro-stock-vanishes-after-gta-6-reveal-with-third-party-sellers-charging-up-to-1300/)
 <!-- BLOG-POST-LIST:END -->
