@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [White House Publishes Browser Game Page as Tetris Company Distances Itself Citing Copyright](https://www.ghacks.net/2026/09/05/white-house-publishes-browser-game-page-as-tetris-company-distances-itself-citing-copyright/)
+- [TikTok Announces Four New Comment Features Including Voice Comments and Polls](https://www.ghacks.net/2026/09/05/tiktok-announces-four-new-comment-features-including-voice-comments-and-polls/)
+- [Tesla Launches Cybercab Robotaxi Rides in Austin With a 45-Vehicle Fleet](https://www.ghacks.net/2026/09/05/tesla-launches-cybercab-robotaxi-rides-in-austin-with-a-45-vehicle-fleet/)
+- [Google Adds Gemini Voice Features to Gmail, Docs, and Keep for Hands-Free Tasks](https://www.ghacks.net/2026/09/05/google-adds-gemini-voice-features-to-gmail-docs-and-keep-for-hands-free-tasks/)
 - [OpenAI Launches GPT-6 Astra, Claiming a New Frontier in Computer Use, Coding, and Science](https://www.ghacks.net/2026/09/04/openai-launches-gpt-6-astra-claiming-a-new-frontier-in-computer-use-coding-and-science/)
-- [Xbox Cloud Gaming Adds Monthly Time Limits in November, With Paid Hours Available](https://www.ghacks.net/2026/09/04/xbox-cloud-gaming-adds-monthly-time-limits-in-november-with-paid-hours-available/)
-- [Popular Chrome Extensions Weaponized to Steal Crypto From 80,000 Users](https://www.ghacks.net/2026/09/04/popular-chrome-extensions-weaponized-to-steal-crypto-from-80000-users/)
-- [Microsoft Turns Off Predictive Text by Default in Word and Outlook](https://www.ghacks.net/2026/09/04/microsoft-turns-off-predictive-text-by-default-in-word-and-outlook/)
-- [Anthropic Releases Claude Fable 5.1 and Cuts Cached Token Pricing by 75%](https://www.ghacks.net/2026/09/03/anthropic-releases-claude-fable-5-1-and-cuts-cached-token-pricing-by-75/)
 <!-- BLOG-POST-LIST:END -->
