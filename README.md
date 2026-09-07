@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Translate Adds Background Live Translation on Android and Earpiece Translation on iOS](https://www.ghacks.net/2026/09/07/google-translate-adds-background-live-translation-on-android-and-earpiece-translation-on-ios/)
+- [Riot Launches World Star Challengers Invitational 2026, a First Global Event for Tier 2 League of Legends Teams](https://www.ghacks.net/2026/09/07/riot-launches-world-star-challengers-invitational-2026-a-first-global-event-for-tier-2-league-of-legends-teams/)
+- [Windows 11 Will Auto-Enable Memory Integrity Starting in October, With Possible Gaming Impact on Older CPUs](https://www.ghacks.net/2026/09/07/windows-11-will-auto-enable-memory-integrity-starting-in-october-with-possible-gaming-impact-on-older-cpus/)
+- [GPT-6 Astra Draws Scrutiny for Being Harder to Monitor Even as OpenAI Calls It More Aligned](https://www.ghacks.net/2026/09/07/gpt-6-astra-draws-scrutiny-for-being-harder-to-monitor-even-as-openai-calls-it-more-aligned/)
 - [White House Publishes Browser Game Page as Tetris Company Distances Itself Citing Copyright](https://www.ghacks.net/2026/09/05/white-house-publishes-browser-game-page-as-tetris-company-distances-itself-citing-copyright/)
-- [TikTok Announces Four New Comment Features Including Voice Comments and Polls](https://www.ghacks.net/2026/09/05/tiktok-announces-four-new-comment-features-including-voice-comments-and-polls/)
-- [Tesla Launches Cybercab Robotaxi Rides in Austin With a 45-Vehicle Fleet](https://www.ghacks.net/2026/09/05/tesla-launches-cybercab-robotaxi-rides-in-austin-with-a-45-vehicle-fleet/)
-- [Google Adds Gemini Voice Features to Gmail, Docs, and Keep for Hands-Free Tasks](https://www.ghacks.net/2026/09/05/google-adds-gemini-voice-features-to-gmail-docs-and-keep-for-hands-free-tasks/)
-- [OpenAI Launches GPT-6 Astra, Claiming a New Frontier in Computer Use, Coding, and Science](https://www.ghacks.net/2026/09/04/openai-launches-gpt-6-astra-claiming-a-new-frontier-in-computer-use-coding-and-science/)
 <!-- BLOG-POST-LIST:END -->
