@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google Translate Adds Background Live Translation on Android and Earpiece Translation on iOS](https://www.ghacks.net/2026/09/07/google-translate-adds-background-live-translation-on-android-and-earpiece-translation-on-ios/)
-- [Riot Launches World Star Challengers Invitational 2026, a First Global Event for Tier 2 League of Legends Teams](https://www.ghacks.net/2026/09/07/riot-launches-world-star-challengers-invitational-2026-a-first-global-event-for-tier-2-league-of-legends-teams/)
-- [Windows 11 Will Auto-Enable Memory Integrity Starting in October, With Possible Gaming Impact on Older CPUs](https://www.ghacks.net/2026/09/07/windows-11-will-auto-enable-memory-integrity-starting-in-october-with-possible-gaming-impact-on-older-cpus/)
-- [GPT-6 Astra Draws Scrutiny for Being Harder to Monitor Even as OpenAI Calls It More Aligned](https://www.ghacks.net/2026/09/07/gpt-6-astra-draws-scrutiny-for-being-harder-to-monitor-even-as-openai-calls-it-more-aligned/)
-- [White House Publishes Browser Game Page as Tetris Company Distances Itself Citing Copyright](https://www.ghacks.net/2026/09/05/white-house-publishes-browser-game-page-as-tetris-company-distances-itself-citing-copyright/)
+- [Miami-Dade Mayor Proposes GTA 6 Vice City Marketing Tie-In, but Sheriff and Courts Object](https://www.ghacks.net/2026/09/08/miami-dade-mayor-proposes-gta-6-vice-city-marketing-tie-in-but-sheriff-and-courts-object/)
+- [Google Play Store Nears Rollout of Pause and Resume for App Downloads](https://www.ghacks.net/2026/09/08/google-play-store-nears-rollout-of-pause-and-resume-for-app-downloads/)
+- [Linux 7.3-rc2 Arrives Heavier Than Usual, With Torvalds Joking the Blame Falls on AI](https://www.ghacks.net/2026/09/08/linux-7-3-rc2-arrives-heavier-than-usual-with-torvalds-joking-the-blame-falls-on-ai/)
+- [Linux 7.3-rc2 Arrives Heavier Than Usual, With Torvalds Joking the Blame Falls on AI](https://www.ghacks.net/2026/09/08/linux-7-3-rc2-arrives-heavier-than-usual-with-torvalds-joking-the-blame-falls-on-ai/)
+- [Windows 11 Is Developing a Battery Widget Showing Connected Device Levels on the Lock Screen and Widgets Board](https://www.ghacks.net/2026/09/08/windows-11-is-developing-a-battery-widget-showing-connected-device-levels-on-the-lock-screen-and-widgets-board/)
 <!-- BLOG-POST-LIST:END -->
