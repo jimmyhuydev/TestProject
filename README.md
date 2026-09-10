@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Onimusha: Way of the Sword Sells Over 1 Million Copies in 24 Hours, Pushing the Franchise Past 10 Million](https://www.ghacks.net/2026/09/09/onimusha-way-of-the-sword-sells-over-1-million-copies-in-24-hours-pushing-the-franchise-past-10-million/)
+- [WhatsApp Is Testing Guest Calls That Let People Join Without an Account](https://www.ghacks.net/2026/09/09/whatsapp-is-testing-guest-calls-that-let-people-join-without-an-account/)
+- [Chrome 153 Launches, Beginning Google&#39;s Two-Week Release Cadence](https://www.ghacks.net/2026/09/09/chrome-153-launches-beginning-googles-two-week-release-cadence/)
+- [Samsung Ends Software Support for the Galaxy Z Fold 3 and Z Flip 3](https://www.ghacks.net/2026/09/09/samsung-ends-software-support-for-the-galaxy-z-fold-3-and-z-flip-3/)
 - [Miami-Dade Mayor Proposes GTA 6 Vice City Marketing Tie-In, but Sheriff and Courts Object](https://www.ghacks.net/2026/09/08/miami-dade-mayor-proposes-gta-6-vice-city-marketing-tie-in-but-sheriff-and-courts-object/)
-- [Google Play Store Nears Rollout of Pause and Resume for App Downloads](https://www.ghacks.net/2026/09/08/google-play-store-nears-rollout-of-pause-and-resume-for-app-downloads/)
-- [Linux 7.3-rc2 Arrives Heavier Than Usual, With Torvalds Joking the Blame Falls on AI](https://www.ghacks.net/2026/09/08/linux-7-3-rc2-arrives-heavier-than-usual-with-torvalds-joking-the-blame-falls-on-ai/)
-- [Linux 7.3-rc2 Arrives Heavier Than Usual, With Torvalds Joking the Blame Falls on AI](https://www.ghacks.net/2026/09/08/linux-7-3-rc2-arrives-heavier-than-usual-with-torvalds-joking-the-blame-falls-on-ai/)
-- [Windows 11 Is Developing a Battery Widget Showing Connected Device Levels on the Lock Screen and Widgets Board](https://www.ghacks.net/2026/09/08/windows-11-is-developing-a-battery-widget-showing-connected-device-levels-on-the-lock-screen-and-widgets-board/)
 <!-- BLOG-POST-LIST:END -->
