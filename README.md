@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam&#39;s Age Verification in Australia Only Accepts Credit Cards, Excluding Half of Consumers](https://www.ghacks.net/2026/09/10/steams-age-verification-in-australia-only-accepts-credit-cards-excluding-half-of-consumers/)
+- [Meta Launches Muse AI Agent in the US Despite Internal Safety Concerns](https://www.ghacks.net/2026/09/10/meta-launches-muse-ai-agent-in-the-us-despite-internal-safety-concerns/)
+- [Apple Unveils iPhone Duo, Its First Foldable, With a 7.6-Inch Inner Display and A20 Pro Chip](https://www.ghacks.net/2026/09/10/apple-unveils-iphone-duo-its-first-foldable-with-a-7-6-inch-inner-display-and-a20-pro-chip/)
+- [Apple Watch Series 12 and Ultra 4 Add Eight New Health and Fitness Features](https://www.ghacks.net/2026/09/10/apple-watch-series-12-and-ultra-4-add-eight-new-health-and-fitness-features/)
 - [Onimusha: Way of the Sword Sells Over 1 Million Copies in 24 Hours, Pushing the Franchise Past 10 Million](https://www.ghacks.net/2026/09/09/onimusha-way-of-the-sword-sells-over-1-million-copies-in-24-hours-pushing-the-franchise-past-10-million/)
-- [WhatsApp Is Testing Guest Calls That Let People Join Without an Account](https://www.ghacks.net/2026/09/09/whatsapp-is-testing-guest-calls-that-let-people-join-without-an-account/)
-- [Chrome 153 Launches, Beginning Google&#39;s Two-Week Release Cadence](https://www.ghacks.net/2026/09/09/chrome-153-launches-beginning-googles-two-week-release-cadence/)
-- [Samsung Ends Software Support for the Galaxy Z Fold 3 and Z Flip 3](https://www.ghacks.net/2026/09/09/samsung-ends-software-support-for-the-galaxy-z-fold-3-and-z-flip-3/)
-- [Miami-Dade Mayor Proposes GTA 6 Vice City Marketing Tie-In, but Sheriff and Courts Object](https://www.ghacks.net/2026/09/08/miami-dade-mayor-proposes-gta-6-vice-city-marketing-tie-in-but-sheriff-and-courts-object/)
 <!-- BLOG-POST-LIST:END -->
