@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Says Hackers Abused Claude to Scan 1.8 Million Android Apps for Secrets](https://www.ghacks.net/2026/09/13/anthropic-says-hackers-abused-claude-to-scan-1-8-million-android-apps-for-secrets/)
+- [Uber CEO Says 3,300 Layoffs Will Fund Lower Prices for Customers](https://www.ghacks.net/2026/09/13/uber-ceo-says-3300-layoffs-will-fund-lower-prices-for-customers/)
+- [September Windows Server Updates Break Remote Desktop Services Across 2019, 2022, and 2025](https://www.ghacks.net/2026/09/13/september-windows-server-updates-break-remote-desktop-services-across-2019-2022-and-2025/)
+- [Blizzard Announces StarCraft Returns in 2030 as an Open-World Shooter](https://www.ghacks.net/2026/09/13/blizzard-announces-starcraft-returns-in-2030-as-an-open-world-shooter/)
 - [Google Releases a Dedicated Gemini App for Windows](https://www.ghacks.net/2026/09/11/google-releases-a-dedicated-gemini-app-for-windows/)
-- [Android Adds Direct Password and Passkey Transfer Between Password Managers](https://www.ghacks.net/2026/09/11/android-adds-direct-password-and-passkey-transfer-between-password-managers/)
-- [Saudi Arabia&#39;s PIF Reportedly Considers Merging EA With Savvy Games Group](https://www.ghacks.net/2026/09/11/saudi-arabias-pif-reportedly-considers-merging-ea-with-savvy-games-group/)
-- [Wardogs Sells Over 1 Million Copies on Day One and Passes 300,000 Concurrent Players on Steam](https://www.ghacks.net/2026/09/11/wardogs-sells-over-1-million-copies-on-day-one-and-passes-300000-concurrent-players-on-steam/)
-- [Steam&#39;s Age Verification in Australia Only Accepts Credit Cards, Excluding Half of Consumers](https://www.ghacks.net/2026/09/10/steams-age-verification-in-australia-only-accepts-credit-cards-excluding-half-of-consumers/)
 <!-- BLOG-POST-LIST:END -->
