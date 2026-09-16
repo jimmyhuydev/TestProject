@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Excel KB5002914 Update Breaks Copy and Paste for Some Users](https://www.ghacks.net/2026/09/14/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
-- [Google Says It Will &quot;Degrade the User Experience for Europeans&quot; to Comply With EU Search Rules](https://www.ghacks.net/2026/09/14/google-says-it-will-degrade-the-user-experience-for-europeans-to-comply-with-eu-search-rules/)
-- [Blizzard Announces Diablo 5, Set for Spring 2029](https://www.ghacks.net/2026/09/14/blizzard-announces-diablo-5-set-for-spring-2029/)
-- [Google Discontinues the Pixel Tablet, Removing It From Its Store](https://www.ghacks.net/2026/09/14/google-discontinues-the-pixel-tablet-removing-it-from-its-store/)
-- [Anthropic Says Hackers Abused Claude to Scan 1.8 Million Android Apps for Secrets](https://www.ghacks.net/2026/09/13/anthropic-says-hackers-abused-claude-to-scan-1-8-million-android-apps-for-secrets/)
+- [Microsoft Releases Emergency Windows Updates to Fix Remote Desktop Services Failures](https://www.ghacks.net/2026/09/15/microsoft-releases-emergency-windows-updates-to-fix-remote-desktop-services-failures/)
+- [Linux 7.3-rc3 Arrives With XFS SMB Security Fixes and a Continued AI Patch Surge](https://www.ghacks.net/2026/09/15/linux-7-3-rc3-arrives-with-xfs%d0%b1-smb-security-fixes-and-a-continued-ai-patch-surge/)
+- [Linux 7.3-rc3 Arrives With XFS SMB Security Fixes and a Continued AI Patch Surge](https://www.ghacks.net/2026/09/15/linux-7-3-rc3-arrives-with-xfs%d0%b1-smb-security-fixes-and-a-continued-ai-patch-surge/)
+- [Blizzard Releases Warcraft 3: Reforged &quot;Forsaken Kingdom&quot; Expansion, the First in Over 23 Years](https://www.ghacks.net/2026/09/15/blizzard-releases-warcraft-3-reforged-forsaken-kingdom-expansion-the-first-in-over-23-years/)
+- [WhatsApp Is Developing &quot;Restricted Chat&quot; to Keep Conversations on the Primary Phone Only](https://www.ghacks.net/2026/09/15/whatsapp-is-developing-restricted-chat-to-keep-conversations-on-the-primary-phone-only/)
 <!-- BLOG-POST-LIST:END -->
