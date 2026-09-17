@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nitter and XCancel Go Offline Again After Latest Legal Action From X](https://www.ghacks.net/2026/09/16/nitter-and-xcancel-go-offline-again-after-latest-legal-action-from-x/)
+- [Apple May Let Users Replace Siri With Claude or ChatGPT](https://www.ghacks.net/2026/09/16/apple-may-let-users-replace-siri-with-claude-or-chatgpt/)
+- [EU Proposes Restricting Under-15s From Social Media, Chatbots, and Online Games](https://www.ghacks.net/2026/09/16/eu-proposes-restricting-under-15s-from-social-media-chatbots-and-online-games/)
+- [Steam&#39;s Free to Keep Promotion Confirms Dying Light: The Beast DLC Giveaway for September 2026](https://www.ghacks.net/2026/09/16/steams-free-to-keep-promotion-confirms-dying-light-the-beast-dlc-giveaway-for-september-2026/)
 - [Microsoft Releases Emergency Windows Updates to Fix Remote Desktop Services Failures](https://www.ghacks.net/2026/09/15/microsoft-releases-emergency-windows-updates-to-fix-remote-desktop-services-failures/)
-- [Linux 7.3-rc3 Arrives With XFS SMB Security Fixes and a Continued AI Patch Surge](https://www.ghacks.net/2026/09/15/linux-7-3-rc3-arrives-with-xfs%d0%b1-smb-security-fixes-and-a-continued-ai-patch-surge/)
-- [Linux 7.3-rc3 Arrives With XFS SMB Security Fixes and a Continued AI Patch Surge](https://www.ghacks.net/2026/09/15/linux-7-3-rc3-arrives-with-xfs%d0%b1-smb-security-fixes-and-a-continued-ai-patch-surge/)
-- [Blizzard Releases Warcraft 3: Reforged &quot;Forsaken Kingdom&quot; Expansion, the First in Over 23 Years](https://www.ghacks.net/2026/09/15/blizzard-releases-warcraft-3-reforged-forsaken-kingdom-expansion-the-first-in-over-23-years/)
-- [WhatsApp Is Developing &quot;Restricted Chat&quot; to Keep Conversations on the Primary Phone Only](https://www.ghacks.net/2026/09/15/whatsapp-is-developing-restricted-chat-to-keep-conversations-on-the-primary-phone-only/)
 <!-- BLOG-POST-LIST:END -->
