@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Firefox 156 Speeds Up PDF Loading by 45% and Adds a macOS Autostart Option](https://www.ghacks.net/2026/09/17/firefox-156-speeds-up-pdf-loading-by-45-and-adds-a-macos-autostart-option/)
+- [Samsung Begins Rolling Out Stable One UI 9 to the Galaxy S26 Series](https://www.ghacks.net/2026/09/17/samsung-begins-rolling-out-stable-one-ui-9-to-the-galaxy-s26-series/)
+- [Spotify Appears to Be Teasing a GTA 6 Collaboration With Rockstar Games](https://www.ghacks.net/2026/09/17/spotify-appears-to-be-teasing-a-gta-6-collaboration-with-rockstar-games/)
+- [Anthropic Is Testing &quot;Claude Money,&quot; a Feature to Connect Bank Accounts and Analyze Finances](https://www.ghacks.net/2026/09/17/anthropic-is-testing-claude-money-a-feature-to-connect-bank-accounts-and-analyze-finances/)
 - [Nitter and XCancel Go Offline Again After Latest Legal Action From X](https://www.ghacks.net/2026/09/16/nitter-and-xcancel-go-offline-again-after-latest-legal-action-from-x/)
-- [Apple May Let Users Replace Siri With Claude or ChatGPT](https://www.ghacks.net/2026/09/16/apple-may-let-users-replace-siri-with-claude-or-chatgpt/)
-- [EU Proposes Restricting Under-15s From Social Media, Chatbots, and Online Games](https://www.ghacks.net/2026/09/16/eu-proposes-restricting-under-15s-from-social-media-chatbots-and-online-games/)
-- [Steam&#39;s Free to Keep Promotion Confirms Dying Light: The Beast DLC Giveaway for September 2026](https://www.ghacks.net/2026/09/16/steams-free-to-keep-promotion-confirms-dying-light-the-beast-dlc-giveaway-for-september-2026/)
-- [Microsoft Releases Emergency Windows Updates to Fix Remote Desktop Services Failures](https://www.ghacks.net/2026/09/15/microsoft-releases-emergency-windows-updates-to-fix-remote-desktop-services-failures/)
 <!-- BLOG-POST-LIST:END -->
