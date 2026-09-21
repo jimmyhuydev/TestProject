@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Begins Automatically Indexing Your Most-Used Folders for Search](https://www.ghacks.net/2026/09/20/windows-11-begins-automatically-indexing-your-most-used-folders-for-search/)
+- [Court Filing Shows Microsoft Exec Called AI Training the &quot;Largest Labor Theft in Human History&quot;](https://www.ghacks.net/2026/09/20/court-filing-shows-microsoft-exec-called-ai-training-the-largest-labor-theft-in-human-history/)
+- [Valve Open-Sources Lepton, Its Android Compatibility Layer for the Steam Frame](https://www.ghacks.net/2026/09/20/valve-open-sources-lepton-its-android-compatibility-layer-for-the-steam-frame/)
+- [Google Rolls Out Android 17 QPR2 Beta 5 for Pixels With Reboot and Bluetooth Fixes](https://www.ghacks.net/2026/09/20/google-rolls-out-android-17-qpr2-beta-5-for-pixels-with-reboot-and-bluetooth-fixes/)
 - [ASUS Launches the Ascent QN10, an 80-TOPS AI Mini PC Powered by Snapdragon X2 Elite](https://www.ghacks.net/2026/09/18/asus-launches-the-ascent-qn10-an-80-tops-ai-mini-pc-powered-by-snapdragon-x2-elite/)
-- [Steam Makes Four Games Free to Play Through September 21, Including Diablo 4 and Sea of Thieves](https://www.ghacks.net/2026/09/18/steam-makes-four-games-free-to-play-through-september-21-including-diablo-4-and-sea-of-thieves/)
-- [Twitch CEO Says GTA 6 Multiplayer Will Launch in 2027](https://www.ghacks.net/2026/09/18/twitch-ceo-says-gta-6-multiplayer-will-launch-in-2027/)
-- [Windows 11 24H2 Home and Pro Reach End of Support on October 13](https://www.ghacks.net/2026/09/18/windows-11-24h2-home-and-pro-reach-end-of-support-on-october-13/)
-- [Firefox 156 Speeds Up PDF Loading by 45% and Adds a macOS Autostart Option](https://www.ghacks.net/2026/09/17/firefox-156-speeds-up-pdf-loading-by-45-and-adds-a-macos-autostart-option/)
 <!-- BLOG-POST-LIST:END -->
