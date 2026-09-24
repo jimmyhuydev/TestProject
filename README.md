@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6](https://www.ghacks.net/2026/09/23/openai-launches-gpt-6-sol-and-luna-with-50-lower-api-pricing-than-gpt-5-6/)
+- [Adobe Premiere Comes to Android for Free With Full Video Editing Tools](https://www.ghacks.net/2026/09/23/adobe-premiere-comes-to-android-for-free-with-full-video-editing-tools/)
+- [Microsoft Will Retire Internet Explorer Mode in Edge by the End of 2029](https://www.ghacks.net/2026/09/23/microsoft-will-retire-internet-explorer-mode-in-edge-by-the-end-of-2029/)
+- [CS2 Update Overhauls Premier Map Picks and Adds a 3v3 Rush Game Mode](https://www.ghacks.net/2026/09/23/cs2-update-overhauls-premier-map-picks-and-adds-a-3v3-rush-game-mode/)
 - [Ireland&#39;s Data Protection Commission Fines Google €403 Million Over Location Data Privacy Violations](https://www.ghacks.net/2026/09/22/irelands-data-protection-commission-fines-google-e403-million-over-location-data-privacy-violations/)
-- [Gmail Adds a Copy Code Shortcut for Verification Codes on Android and iOS](https://www.ghacks.net/2026/09/22/gmail-adds-a-copy-code-shortcut-for-verification-codes-on-android-and-ios/)
-- [Rockstar Parent Take-Two Removes Leaked GTA 5 DLC Footage and Early GTA 6 Map Images](https://www.ghacks.net/2026/09/22/rockstar-parent-take-two-removes-leaked-gta-5-dlc-footage-and-early-gta-6-map-images/)
-- [Microsoft to Retire the Calendar, People, and Files Microsoft 365 Companion Apps in December](https://www.ghacks.net/2026/09/22/microsoft-to-retire-the-calendar-people-and-files-microsoft-365-companion-apps-in-december/)
-- [iOS 27 Adds Impersonation Risk Detection to Help Protect Against Social Engineering Scams](https://www.ghacks.net/2026/09/21/ios-27-adds-impersonation-risk-detection-to-help-protect-against-social-engineering-scams/)
 <!-- BLOG-POST-LIST:END -->
