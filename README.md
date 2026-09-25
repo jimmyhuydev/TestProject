@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rockstar Pays Nearly $1 Million for a Welcome to Vice City Sign in Miami Ahead of GTA 6](https://www.ghacks.net/2026/09/24/rockstar-pays-nearly-1-million-for-a-welcome-to-vice-city-sign-in-miami-ahead-of-gta-6/)
+- [Apple&#39;s $250 Million Siri Settlement Pays Up to $95 per iPhone, With Claims Due December 21](https://www.ghacks.net/2026/09/24/apples-250-million-siri-settlement-pays-up-to-95-per-iphone-with-claims-due-december-21/)
+- [Samsung Rolls Out Stable One UI 9 to the Galaxy S26 in the US](https://www.ghacks.net/2026/09/24/samsung-rolls-out-stable-one-ui-9-to-the-galaxy-s26-in-the-us/)
+- [Microsoft Confirms September Windows 11 Updates Break Always On VPN Connections](https://www.ghacks.net/2026/09/24/microsoft-confirms-september-windows-11-updates-break-always-on-vpn-connections/)
 - [OpenAI Launches GPT-6 Sol and Luna With 50% Lower API Pricing Than GPT-5.6](https://www.ghacks.net/2026/09/23/openai-launches-gpt-6-sol-and-luna-with-50-lower-api-pricing-than-gpt-5-6/)
-- [Adobe Premiere Comes to Android for Free With Full Video Editing Tools](https://www.ghacks.net/2026/09/23/adobe-premiere-comes-to-android-for-free-with-full-video-editing-tools/)
-- [Microsoft Will Retire Internet Explorer Mode in Edge by the End of 2029](https://www.ghacks.net/2026/09/23/microsoft-will-retire-internet-explorer-mode-in-edge-by-the-end-of-2029/)
-- [CS2 Update Overhauls Premier Map Picks and Adds a 3v3 Rush Game Mode](https://www.ghacks.net/2026/09/23/cs2-update-overhauls-premier-map-picks-and-adds-a-3v3-rush-game-mode/)
-- [Ireland&#39;s Data Protection Commission Fines Google €403 Million Over Location Data Privacy Violations](https://www.ghacks.net/2026/09/22/irelands-data-protection-commission-fines-google-e403-million-over-location-data-privacy-violations/)
 <!-- BLOG-POST-LIST:END -->
