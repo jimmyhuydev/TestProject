@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mojang Announces the Sift, Minecraft&#39;s First New Dimension in Over 14 Years, Coming in 2027](https://www.ghacks.net/2026/09/26/mojang-announces-the-sift-minecrafts-first-new-dimension-in-over-14-years-coming-in-2027/)
+- [Anthropic Offers Up to $250 in Free Claude Code Cloud Credits to Pro and Max Subscribers](https://www.ghacks.net/2026/09/26/anthropic-offers-up-to-250-in-free-claude-code-cloud-credits-to-pro-and-max-subscribers/)
+- [Google Messages Adds a Floating Long-Press Menu and New Swipe Gestures for Timestamps and Replies](https://www.ghacks.net/2026/09/26/google-messages-adds-a-floating-long-press-menu-and-new-swipe-gestures-for-timestamps-and-replies/)
+- [Microsoft Pauses KB5002907 After the Update Deactivates or Removes Office 2016 and Office 2019](https://www.ghacks.net/2026/09/26/microsoft-pauses-kb5002907-after-the-update-deactivates-or-removes-office-2016-and-office-2019/)
 - [Rockstar Opens Pre-Orders for a $400 GTA 6 Collector&#39;s Set That Does Not Include the Game](https://www.ghacks.net/2026/09/25/rockstar-opens-pre-orders-for-a-400-gta-6-collectors-set-that-does-not-include-the-game/)
-- [Disney Raises Disney+ and Hulu Prices, Pushing Ad-Free Disney+ to $21.49 per Month](https://www.ghacks.net/2026/09/25/disney-raises-disney-and-hulu-prices-pushing-ad-free-disney-to-21-49-per-month/)
-- [Motorola Signature 27 Becomes the First Non-Pixel Phone to Support GrapheneOS](https://www.ghacks.net/2026/09/25/motorola-signature-27-becomes-the-first-non-pixel-phone-to-support-grapheneos/)
-- [Microsoft Fixes File History Backup Failures Caused by September Windows Updates](https://www.ghacks.net/2026/09/25/microsoft-fixes-file-history-backup-failures-caused-by-september-windows-updates/)
-- [Rockstar Pays Nearly $1 Million for a Welcome to Vice City Sign in Miami Ahead of GTA 6](https://www.ghacks.net/2026/09/24/rockstar-pays-nearly-1-million-for-a-welcome-to-vice-city-sign-in-miami-ahead-of-gta-6/)
 <!-- BLOG-POST-LIST:END -->
