@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Is Preparing an Always-On ChatGPT Assistant Called &quot;o&quot; for the $100 Pro Plan](https://www.ghacks.net/2026/09/29/openai-is-preparing-an-always-on-chatgpt-assistant-called-o-for-the-100-pro-plan/)
-- [Microsoft Tests Multiple Values per Cell in 21 With New Lists and Arrays](https://www.ghacks.net/2026/09/29/microsoft-tests-multiple-values-per-cell-in-21-with-new-lists-and-arrays/)
-- [Samsung Rolls Out Stable One UI 9 to the Galaxy S25, Z Fold 7, and Z Flip 7](https://www.ghacks.net/2026/09/29/samsung-rolls-out-stable-one-ui-9-to-the-galaxy-s25-z-fold-7-and-z-flip-7/)
-- [The Witcher 3 Remastered Launches September 29 as a Free 45GB Update With Path Tracing and Transmog](https://www.ghacks.net/2026/09/29/the-witcher-3-remastered-launches-september-29-as-a-free-45gb-update-with-path-tracing-and-transmog/)
-- [Rockstar Reportedly Tells GTA 6 Voice Actors They Cannot Reveal Their Roles Before November 19](https://www.ghacks.net/2026/09/28/rockstar-reportedly-tells-gta-6-voice-actors-they-cannot-reveal-their-roles-before-november-19/)
+- [Microsoft Ends Snapdragon 850 Support in Windows 11 After Version 26H2](https://www.ghacks.net/2026/10/01/microsoft-ends-snapdragon-850-support-in-windows-11-after-version-26h2/)
+- [Samsung Launches Galaxy Tab S12 Ultra and Tab S12 Plus From $1,200, With Sales Starting October 7](https://www.ghacks.net/2026/10/01/samsung-launches-galaxy-tab-s12-ultra-and-tab-s12-plus-from-1200-with-sales-starting-october-7/)
+- [Microsoft Opens Xbox Disc-to-Digital to All Players, Turning Physical Discs Into Digital Licenses](https://www.ghacks.net/2026/10/01/microsoft-opens-xbox-disc-to-digital-to-all-players-turning-physical-discs-into-digital-licenses/)
+- [New Mexico Jury Finds Facebook Violated Consumer Protection Law More Than 43 Million Times](https://www.ghacks.net/2026/10/01/new-mexico-jury-finds-facebook-violated-consumer-protection-law-more-than-43-million-times/)
+- [Rockstar Confirms GTA 6 Hurricanes, 170 Animal Species, and Six Map Regions Ahead of November 19 Launch](https://www.ghacks.net/2026/09/30/rockstar-confirms-gta-6-hurricanes-170-animal-species-and-six-map-regions-ahead-of-november-19-launch/)
 <!-- BLOG-POST-LIST:END -->
