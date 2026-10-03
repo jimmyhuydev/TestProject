@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GTA 6 Is Officially Rated M for Mature, With Sex Scenes Listed in Australia and New Zealand](https://www.ghacks.net/2026/10/02/gta-6-is-officially-rated-m-for-mature-with-sex-scenes-listed-in-australia-and-new-zealand/)
+- [Google Launches Gemini 4 Argon With a 1 Million Token Output Limit, Starting With Cyber Defenders](https://www.ghacks.net/2026/10/02/google-launches-gemini-4-argon-with-a-1-million-token-output-limit-starting-with-cyber-defenders/)
+- [Samsung Raises Galaxy S26 Prices by $100 in the US, Pushing the S26 Ultra to $1,399](https://www.ghacks.net/2026/10/02/samsung-raises-galaxy-s26-prices-by-100-in-the-us-pushing-the-s26-ultra-to-1399/)
+- [Microsoft Confirms Word Version 2609 Saves PDFs to a Hidden Cache Folder Instead of SharePoint](https://www.ghacks.net/2026/10/02/microsoft-confirms-word-version-2609-saves-pdfs-to-a-hidden-cache-folder-instead-of-sharepoint/)
 - [Microsoft Ends Snapdragon 850 Support in Windows 11 After Version 26H2](https://www.ghacks.net/2026/10/01/microsoft-ends-snapdragon-850-support-in-windows-11-after-version-26h2/)
-- [Samsung Launches Galaxy Tab S12 Ultra and Tab S12 Plus From $1,200, With Sales Starting October 7](https://www.ghacks.net/2026/10/01/samsung-launches-galaxy-tab-s12-ultra-and-tab-s12-plus-from-1200-with-sales-starting-october-7/)
-- [Microsoft Opens Xbox Disc-to-Digital to All Players, Turning Physical Discs Into Digital Licenses](https://www.ghacks.net/2026/10/01/microsoft-opens-xbox-disc-to-digital-to-all-players-turning-physical-discs-into-digital-licenses/)
-- [New Mexico Jury Finds Facebook Violated Consumer Protection Law More Than 43 Million Times](https://www.ghacks.net/2026/10/01/new-mexico-jury-finds-facebook-violated-consumer-protection-law-more-than-43-million-times/)
-- [Rockstar Confirms GTA 6 Hurricanes, 170 Animal Species, and Six Map Regions Ahead of November 19 Launch](https://www.ghacks.net/2026/09/30/rockstar-confirms-gta-6-hurricanes-170-animal-species-and-six-map-regions-ahead-of-november-19-launch/)
 <!-- BLOG-POST-LIST:END -->
