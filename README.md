@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rockstar Says GTA 6 Avoids Satire Aimed at Specific Real People, Events, or Movements](https://www.ghacks.net/2026/10/06/rockstar-says-gta-6-avoids-satire-aimed-at-specific-real-people-events-or-movements/)
-- [Google Docs Adds Native Markdown File Editing, With Rendered .md Previews in Google Drive](https://www.ghacks.net/2026/10/06/google-docs-adds-native-markdown-file-editing-with-rendered-md-previews-in-google-drive/)
-- [Microsoft Confirms Windows 11 KB5124010 Crashes Games and Apps That Use Dolby Digital Audio](https://www.ghacks.net/2026/10/06/microsoft-confirms-windows-11-kb5124010-crashes-games-and-apps-that-use-dolby-digital-audio/)
-- [OpenAI Will Test Visual Ads in ChatGPT During Image Generation in the US Later This Month](https://www.ghacks.net/2026/10/06/openai-will-test-visual-ads-in-chatgpt-during-image-generation-in-the-us-later-this-month/)
-- [PEGI Rates GTA 6 18 Over Decapitation, Drug Use, and Sexual Content in a Since-Deleted Listing](https://www.ghacks.net/2026/10/05/pegi-rates-gta-6-18-over-decapitation-drug-use-and-sexual-content-in-a-since-deleted-listing/)
+- [Rockstar Says GTA 6 Will Require Players to Earn Money to Advance Story Missions](https://www.ghacks.net/2026/10/08/rockstar-says-gta-6-will-require-players-to-earn-money-to-advance-story-missions/)
+- [OpenAI Brings GPT-6 to All ChatGPT Users, Adding Intelligent UI With Interactive Answers](https://www.ghacks.net/2026/10/08/openai-brings-gpt-6-to-all-chatgpt-users-adding-intelligent-ui-with-interactive-answers/)
+- [Google Rolls Out Pixel Buds Firmware 6.144 With Dynamic ANC and a Tap-to-Mute Gesture](https://www.ghacks.net/2026/10/08/google-rolls-out-pixel-buds-firmware-6-144-with-dynamic-anc-and-a-tap-to-mute-gesture/)
+- [Microsoft Tests a New Windows 11 Search That Can Toggle Settings and Snap Windows From the Taskbar](https://www.ghacks.net/2026/10/08/microsoft-tests-a-new-windows-11-search-that-can-toggle-settings-and-snap-windows-from-the-taskbar/)
+- [Microsoft Says GTA 6 Will Not Stream Exclusively on Xbox or Be Playable on PC Through the Cloud](https://www.ghacks.net/2026/10/07/microsoft-says-gta-6-will-not-stream-exclusively-on-xbox-or-be-playable-on-pc-through-the-cloud/)
 <!-- BLOG-POST-LIST:END -->
