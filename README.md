@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GTA 6 Leaker Threatens to Release a Full Story Mode Build Unless Take-Two Offers Physical Discs](https://www.ghacks.net/2026/10/11/gta-6-leaker-threatens-to-release-a-full-story-mode-build-unless-take-two-offers-physical-discs/)
-- [Tesla Renames Full Self-Driving to Tesla Assisted Driving in Europe After German Regulator Talks](https://www.ghacks.net/2026/10/11/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe-after-german-regulator-talks/)
-- [Microsoft Replaces 1TB per Person With a Shared 2TB OneDrive Pool in Microsoft 365 Family and Premium](https://www.ghacks.net/2026/10/11/microsoft-replaces-1tb-per-person-with-a-shared-2tb-onedrive-pool-in-microsoft-365-family-and-premium/)
-- [Microsoft Says Outdated Windows PCs Will Lose Windows Update Access When Certificates Expire in 2027](https://www.ghacks.net/2026/10/11/microsoft-says-outdated-windows-pcs-will-lose-windows-update-access-when-certificates-expire-in-2027/)
-- [Rockstar Reveals Six GTA 6 Radio Stations and the Series&#39; First In-Game Podcasts](https://www.ghacks.net/2026/10/09/rockstar-reveals-six-gta-6-radio-stations-and-the-series-first-in-game-podcasts/)
+- [Epic Games Delays Its Unannounced Star Wars and Marvel Shooter and Moves It to AI-First Development](https://www.ghacks.net/2026/10/13/epic-games-delays-its-unannounced-star-wars-and-marvel-shooter-and-moves-it-to-ai-first-development/)
+- [Norway Fines Microsoft&#39;s Xandr $9.6 Million Over Sharing Grindr Users&#39; Sensitive Data](https://www.ghacks.net/2026/10/13/norway-fines-microsofts-xandr-9-6-million-over-sharing-grindr-users-sensitive-data/)
+- [Google Launches the $179.99 Fitbit Edge With a Replaceable Battery, GPS, and a 1.34-Inch Screen](https://www.ghacks.net/2026/10/13/google-launches-the-179-99-fitbit-edge-with-a-replaceable-battery-gps-and-a-1-34-inch-screen/)
+- [Microsoft Sets November 10 as the Final Security Update for Windows 11 23H2 Enterprise and Education](https://www.ghacks.net/2026/10/13/microsoft-sets-november-10-as-the-final-security-update-for-windows-11-23h2-enterprise-and-education/)
+- [Valve&#39;s Deadlock Passes Team Fortress 2&#39;s All-Time Steam Peak With 262,145 Concurrent Players](https://www.ghacks.net/2026/10/12/valves-deadlock-passes-team-fortress-2s-all-time-steam-peak-with-262145-concurrent-players/)
 <!-- BLOG-POST-LIST:END -->
