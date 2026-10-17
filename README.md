@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Rockstar Releases the GTA 6 Launch Trailer Ahead of the November 19 Console Release](https://www.ghacks.net/2026/10/16/rockstar-releases-the-gta-6-launch-trailer-ahead-of-the-november-19-console-release/)
+- [OpenAI Accuses a Former Employee of Taking More Than 100 Confidential Hardware Files Back to Apple](https://www.ghacks.net/2026/10/16/openai-accuses-a-former-employee-of-taking-more-than-100-confidential-hardware-files-back-to-apple/)
+- [Google Removes Gemini Pro Models From the $4.99 AI Plus Plan Starting November 13](https://www.ghacks.net/2026/10/16/google-removes-gemini-pro-models-from-the-4-99-ai-plus-plan-starting-november-13/)
+- [WhatsApp Rolls Out Guest Calling So People Without an Account Can Join Calls From a Browser](https://www.ghacks.net/2026/10/16/whatsapp-rolls-out-guest-calling-so-people-without-an-account-can-join-calls-from-a-browser/)
 - [Riot Will Shut Down League of Legends Classic in January 2027 and Refund Obsolete Content](https://www.ghacks.net/2026/10/15/riot-will-shut-down-league-of-legends-classic-in-january-2027-and-refund-obsolete-content/)
-- [Eight US States Sue OpenAI, Alleging ChatGPT Endangered Children for Profit](https://www.ghacks.net/2026/10/15/eight-us-states-sue-openai-alleging-chatgpt-endangered-children-for-profit/)
-- [Google Adds Enhanced Protection Mode to Google Messages and Expands Android Scam Alerts Beyond Pixel](https://www.ghacks.net/2026/10/15/google-adds-enhanced-protection-mode-to-google-messages-and-expands-android-scam-alerts-beyond-pixel/)
-- [Microsoft Fixes Windows 11 Black Screens and Explorer Crashes With October 13 Updates](https://www.ghacks.net/2026/10/15/microsoft-fixes-windows-11-black-screens-and-explorer-crashes-with-october-13-updates/)
-- [Google Play Lets US Users Build Personal Android Apps in AI Studio Without a Developer Account](https://www.ghacks.net/2026/10/14/google-play-lets-us-users-build-personal-android-apps-in-ai-studio-without-a-developer-account/)
 <!-- BLOG-POST-LIST:END -->
