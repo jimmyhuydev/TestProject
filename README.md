@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EA Closes BioWare and Cancels the Next Mass Effect Game in a Company Restructuring](https://www.ghacks.net/2026/10/22/ea-closes-bioware-and-cancels-the-next-mass-effect-game-in-a-company-restructuring/)
+- [Samsung Brings AirDrop File Sharing With iPhones to Galaxy A56 and A57 in One UI 9](https://www.ghacks.net/2026/10/22/samsung-brings-airdrop-file-sharing-with-iphones-to-galaxy-a56-and-a57-in-one-ui-9/)
+- [OpenAI Expands ChatGPT Ads to 26 More Countries, Bringing Availability to 89 Markets](https://www.ghacks.net/2026/10/22/openai-expands-chatgpt-ads-to-26-more-countries-bringing-availability-to-89-markets/)
+- [Microsoft Releases PowerToys 0.102 With Mouse Button Lock and CursorHide Utilities](https://www.ghacks.net/2026/10/22/microsoft-releases-powertoys-0-102-with-mouse-button-lock-and-cursorhide-utilities/)
 - [Chrome Adds Suspicious Site Warnings and ClickFix Clipboard Protection to Enhanced Protection](https://www.ghacks.net/2026/10/21/chrome-adds-suspicious-site-warnings-and-clickfix-clipboard-protection-to-enhanced-protection/)
-- [PEGI Rates EA Sports FC 27 for Ages 16 and Up Over Loot Boxes, Up From PEGI 3 for FC 25](https://www.ghacks.net/2026/10/21/pegi-rates-ea-sports-fc-27-for-ages-16-and-up-over-loot-boxes-up-from-pegi-3-for-fc-25/)
-- [Google Rolls Out Gemini Personal Intelligence on Android Auto, With Cars With Google Built-in Next](https://www.ghacks.net/2026/10/21/google-rolls-out-gemini-personal-intelligence-on-android-auto-with-cars-with-google-built-in-next/)
-- [Microsoft Removes OneDrive Copilot Shortcuts From the File Explorer Context Menu Starting Mid-November](https://www.ghacks.net/2026/10/21/microsoft-removes-onedrive-copilot-shortcuts-from-the-file-explorer-context-menu-starting-mid-november/)
-- [Housemarque Releases the Free Saros Zenith Update With New Game+, Overlord Rush, and Slow Game Speed](https://www.ghacks.net/2026/10/20/housemarque-releases-the-free-saros-zenith-update-with-new-game-overlord-rush-and-slow-game-speed/)
 <!-- BLOG-POST-LIST:END -->
