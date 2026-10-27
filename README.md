@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blizzard Raises Diablo 4 Prime Evil Splinter Stack Size From 1 to 99 in October 28 Patch](https://www.ghacks.net/2026/10/24/blizzard-raises-diablo-4-prime-evil-splinter-stack-size-from-1-to-99-in-october-28-patch/)
-- [New Mexico Judge Fines Meta $25 Billion Over Facebook Privacy Violations Tied to Cambridge Analytica](https://www.ghacks.net/2026/10/24/new-mexico-judge-fines-meta-25-billion-over-facebook-privacy-violations-tied-to-cambridge-analytica/)
-- [Google Releases ChromeOS 156 With Gemini Talk to Type Dictation and Video Summaries on Chromebook Plus](https://www.ghacks.net/2026/10/24/google-releases-chromeos-156-with-gemini-talk-to-type-dictation-and-video-summaries-on-chromebook-plus/)
-- [Microsoft Teams Adds AI Phishing Detection for External Chats Starting in Early November](https://www.ghacks.net/2026/10/24/microsoft-teams-adds-ai-phishing-detection-for-external-chats-starting-in-early-november/)
-- [Microsoft Prices Xbox Cloud Gaming Playtime Passes From $3.99 for 10 Hours and Adds a Free Ad-Supported Tier](https://www.ghacks.net/2026/10/23/microsoft-prices-xbox-cloud-gaming-playtime-passes-from-3-99-for-10-hours-and-adds-a-free-ad-supported-tier/)
+- [OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra](https://www.ghacks.net/2026/10/27/openai-launches-gpt-6-1-terra-with-api-pricing-50-lower-than-gpt-5-6-terra/)
+- [Apple Launches iPad mini With 8.5-Inch OLED Display, A20 Pro Chip, and IP67 Rating From $699](https://www.ghacks.net/2026/10/27/apple-launches-ipad-mini-with-8-5-inch-oled-display-a20-pro-chip-and-ip67-rating-from-699/)
+- [Microsoft Offers Voluntary Exit Deal to 60,000 Employees in Four Countries Until December 31](https://www.ghacks.net/2026/10/27/microsoft-offers-voluntary-exit-deal-to-60000-employees-in-four-countries-until-december-31/)
+- [Xbox Game Pass Ultimate and Premium Join T-Mobile T-Mix Plans in the US Starting in November](https://www.ghacks.net/2026/10/27/xbox-game-pass-ultimate-and-premium-join-t-mobile-t-mix-plans-in-the-us-starting-in-november/)
+- [Oklahoma sweepstakes casino ban takes effect November 1 as sites set earlier cutoffs](https://www.ghacks.net/2026/10/27/oklahoma-sweepstakes-ban-1st-november/)
 <!-- BLOG-POST-LIST:END -->
