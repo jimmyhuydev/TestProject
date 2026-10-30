@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Pokémon Unite Will Shut Down on March 23, 2027, as Aeos Gem Sales End](https://www.ghacks.net/2026/10/28/pokemon-unite-will-shut-down-on-march-23-2027-as-aeos-gem-sales-end/)
-- [Discord Will Make Messages in Discoverable Servers Searchable on Google Starting in December](https://www.ghacks.net/2026/10/28/discord-will-make-messages-in-discoverable-servers-searchable-on-google-starting-in-december/)
-- [Apple Backports CoreGraphics Zero-Day Fix to iPhone XS and XR With iOS 18.7.11](https://www.ghacks.net/2026/10/28/apple-backports-coregraphics-zero-day-fix-to-iphone-xs-and-xr-with-ios-18-7-11/)
-- [Microsoft Releases Out-of-Band Windows Updates That Remove Trust in Compromised eMudhra Certificates](https://www.ghacks.net/2026/10/28/microsoft-releases-out-of-band-windows-updates-that-remove-trust-in-compromised-emudhra-certificates/)
-- [OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra](https://www.ghacks.net/2026/10/27/openai-launches-gpt-6-1-terra-with-api-pricing-50-lower-than-gpt-5-6-terra/)
+- [Football Manager 27 Is Free to Play on Steam Until November 3 Ahead of Its November 10 Launch](https://www.ghacks.net/2026/10/30/football-manager-27-is-free-to-play-on-steam-until-november-3-ahead-of-its-november-10-launch/)
+- [OpenAI Doubles ChatGPT Pro and Business Premium Usage Limits After Dropping a Planned Pro 200 Cut](https://www.ghacks.net/2026/10/30/openai-doubles-chatgpt-pro-and-business-premium-usage-limits-after-dropping-a-planned-pro-200-cut/)
+- [Reddit Moves to a Logged-In Only Experience, With Tests in Select Markets Outside the US](https://www.ghacks.net/2026/10/30/reddit-moves-to-a-logged-in-only-experience-with-tests-in-select-markets-outside-the-us/)
+- [Microsoft Confirms Edge 156 Update Broke Attachment Opening in New Outlook and Rolls Out a Fix](https://www.ghacks.net/2026/10/30/microsoft-confirms-edge-156-update-broke-attachment-opening-in-new-outlook-and-rolls-out-a-fix/)
+- [PlayStation Plus Adds Dead Island 2, Tomb Raider IV to VI Remastered, and Monster Train 2 in November](https://www.ghacks.net/2026/10/29/playstation-plus-adds-dead-island-2-tomb-raider-iv-to-vi-remastered-and-monster-train-2-in-november/)
 <!-- BLOG-POST-LIST:END -->
