@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Activision Will Remove Seoul Crowd Crush Footage From Call of Duty: Modern Warfare 4 on November 12](https://www.ghacks.net/2026/10/31/activision-will-remove-seoul-crowd-crush-footage-from-call-of-duty-modern-warfare-4-on-november-12/)
+- [Google Launches Gemini 4 Carbon for Cyber Defenders First, With API Pricing From $2 per Million Tokens](https://www.ghacks.net/2026/10/31/google-launches-gemini-4-carbon-for-cyber-defenders-first-with-api-pricing-from-2-per-million-tokens/)
+- [Google Confirms a Fix Is Coming for Pixel Watch Battery Drain Reported on Pixel Watch 2 to 5](https://www.ghacks.net/2026/10/31/google-confirms-a-fix-is-coming-for-pixel-watch-battery-drain-reported-on-pixel-watch-2-to-5/)
+- [Microsoft Fixes Windows 11 Always On VPN Failures From September Updates in KB5127936](https://www.ghacks.net/2026/10/31/microsoft-fixes-windows-11-always-on-vpn-failures-from-september-updates-in-kb5127936/)
 - [Football Manager 27 Is Free to Play on Steam Until November 3 Ahead of Its November 10 Launch](https://www.ghacks.net/2026/10/30/football-manager-27-is-free-to-play-on-steam-until-november-3-ahead-of-its-november-10-launch/)
-- [OpenAI Doubles ChatGPT Pro and Business Premium Usage Limits After Dropping a Planned Pro 200 Cut](https://www.ghacks.net/2026/10/30/openai-doubles-chatgpt-pro-and-business-premium-usage-limits-after-dropping-a-planned-pro-200-cut/)
-- [Reddit Moves to a Logged-In Only Experience, With Tests in Select Markets Outside the US](https://www.ghacks.net/2026/10/30/reddit-moves-to-a-logged-in-only-experience-with-tests-in-select-markets-outside-the-us/)
-- [Microsoft Confirms Edge 156 Update Broke Attachment Opening in New Outlook and Rolls Out a Fix](https://www.ghacks.net/2026/10/30/microsoft-confirms-edge-156-update-broke-attachment-opening-in-new-outlook-and-rolls-out-a-fix/)
-- [PlayStation Plus Adds Dead Island 2, Tomb Raider IV to VI Remastered, and Monster Train 2 in November](https://www.ghacks.net/2026/10/29/playstation-plus-adds-dead-island-2-tomb-raider-iv-to-vi-remastered-and-monster-train-2-in-november/)
 <!-- BLOG-POST-LIST:END -->
