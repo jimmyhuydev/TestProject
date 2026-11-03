@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Blizzard Plans World of Warcraft: Forever Content Updates Every Four Months After November 4 Launch](https://www.ghacks.net/2026/11/02/blizzard-plans-world-of-warcraft-forever-content-updates-every-four-months-after-november-4-launch/)
-- [Android SMS of Death Exploit Goes Public, Leaving Android 12 and 13 Phones Without a Fix](https://www.ghacks.net/2026/11/02/android-sms-of-death-exploit-goes-public-leaving-android-12-and-13-phones-without-a-fix/)
-- [Anthropic Adds a Claude Code Rule on Opus 5.5 That Blocks Recreations of Existing Games](https://www.ghacks.net/2026/11/02/anthropic-adds-a-claude-code-rule-on-opus-5-5-that-blocks-recreations-of-existing-games/)
-- [Microsoft Confirms Windows 11 Will Not Get Drag-to-Move Taskbar Support](https://www.ghacks.net/2026/11/02/microsoft-confirms-windows-11-will-not-get-drag-to-move-taskbar-support/)
-- [Activision Will Remove Seoul Crowd Crush Footage From Call of Duty: Modern Warfare 4 on November 12](https://www.ghacks.net/2026/10/31/activision-will-remove-seoul-crowd-crush-footage-from-call-of-duty-modern-warfare-4-on-november-12/)
+- [Anthropic&#39;s Revised IPO Filing Reports $33.2 Billion in Nine-Month Revenue and $895 Billion in Compute Commitments](https://www.ghacks.net/2026/11/03/anthropics-revised-ipo-filing-reports-33-2-billion-in-nine-month-revenue-and-895-billion-in-compute-commitments/)
+- [Phantom Blade Zero Sells 4 Million Copies in 72 Hours, Peaking at 833,921 Concurrent Steam Players](https://www.ghacks.net/2026/11/03/phantom-blade-zero-sells-4-million-copies-in-72-hours-peaking-at-833921-concurrent-steam-players/)
+- [Google Says a Fix Is Rolling Out for Android Auto Connection Problems on Samsung Phones With One UI 9](https://www.ghacks.net/2026/11/03/google-says-a-fix-is-rolling-out-for-android-auto-connection-problems-on-samsung-phones-with-one-ui-9/)
+- [Microsoft Removes PC-to-PC Migration From Windows 11 and Points Users to OneDrive-Based Windows Backup](https://www.ghacks.net/2026/11/03/microsoft-removes-pc-to-pc-migration-from-windows-11-and-points-users-to-onedrive-based-windows-backup/)
+- [Oklahoma sweepstakes casino ban takes effect, reaching suppliers and affiliates](https://www.ghacks.net/2026/11/02/oklahoma-sweepstakes-casino-ban-effective)
 <!-- BLOG-POST-LIST:END -->
