@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rockstar Confirms GTA 6 Preload Starts November 10 With a Download of Up to 212 GB](https://www.ghacks.net/2026/11/04/rockstar-confirms-gta-6-preload-starts-november-10-with-a-download-of-up-to-212-gb/)
-- [Microsoft Says Windows 11 26H2 Makes 8 GB PCs Up to 20% More Responsive and 40% Faster at Multitasking](https://www.ghacks.net/2026/11/04/microsoft-says-windows-11-26h2-makes-8-gb-pcs-up-to-20-more-responsive-and-40-faster-at-multitasking/)
-- [Google Bans Videostrong After Its Backdoor Turned 1.3 Million Android TV Boxes Into the XCPE Botnet](https://www.ghacks.net/2026/11/04/google-bans-videostrong-after-its-backdoor-turned-1-3-million-android-tv-boxes-into-the-xcpe-botnet/)
-- [Google Says K-12 Students at Schools That Turn Off Its AI Tools Will Lose Google Search](https://www.ghacks.net/2026/11/04/google-says-k-12-students-at-schools-that-turn-off-its-ai-tools-will-lose-google-search/)
-- [Anthropic&#39;s Revised IPO Filing Reports $33.2 Billion in Nine-Month Revenue and $895 Billion in Compute Commitments](https://www.ghacks.net/2026/11/03/anthropics-revised-ipo-filing-reports-33-2-billion-in-nine-month-revenue-and-895-billion-in-compute-commitments/)
+- [Epic Games Raises Fortnite Crew to Up to 1,600 V-Bucks a Month From December 5 and Ends Monthly Skins](https://www.ghacks.net/2026/11/05/epic-games-raises-fortnite-crew-to-up-to-1600-v-bucks-a-month-from-december-5-and-ends-monthly-skins/)
+- [Google Will Turn Gemini Gems Into Skills on November 17 and Remove the Old Gems on December 17](https://www.ghacks.net/2026/11/05/google-will-turn-gemini-gems-into-skills-on-november-17-and-remove-the-old-gems-on-december-17/)
+- [Apple Will Check Public iCloud Share Links for Harmful Content Starting With iOS 27.3](https://www.ghacks.net/2026/11/05/apple-will-check-public-icloud-share-links-for-harmful-content-starting-with-ios-27-3/)
+- [Microsoft Upgrades Outlook Search With Seven Ranked Results and a Small Language Model Ranker](https://www.ghacks.net/2026/11/05/microsoft-upgrades-outlook-search-with-seven-ranked-results-and-a-small-language-model-ranker/)
+- [Federal judge sends Zula Casino lawsuit back to Georgia state court](https://www.ghacks.net/2026/11/05/zula-casino-georgia-lawsuit-state-court/)
 <!-- BLOG-POST-LIST:END -->
