@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord Is Rebuilding Its Desktop App in Rust, With the New Client Using 290 MB of RAM](https://www.ghacks.net/2026/11/06/discord-is-rebuilding-its-desktop-app-in-rust-with-the-new-client-using-290-mb-of-ram/)
+- [Warby Parker Opens Pre-Orders for Its Android XR Intelligent Eyewear on November 12](https://www.ghacks.net/2026/11/06/warby-parker-opens-pre-orders-for-its-android-xr-intelligent-eyewear-on-november-12/)
+- [Microsoft Will Add Opt-In Copilot Answers to the New Windows 11 Search Later This Year](https://www.ghacks.net/2026/11/06/microsoft-will-add-opt-in-copilot-answers-to-the-new-windows-11-search-later-this-year/)
+- [Nintendo Sold 6.49 Million Switch 2 Consoles in Six Months, Down From 10.36 Million a Year Earlier](https://www.ghacks.net/2026/11/06/nintendo-sold-6-49-million-switch-2-consoles-in-six-months-down-from-10-36-million-a-year-earlier/)
 - [Epic Games Raises Fortnite Crew to Up to 1,600 V-Bucks a Month From December 5 and Ends Monthly Skins](https://www.ghacks.net/2026/11/05/epic-games-raises-fortnite-crew-to-up-to-1600-v-bucks-a-month-from-december-5-and-ends-monthly-skins/)
-- [Google Will Turn Gemini Gems Into Skills on November 17 and Remove the Old Gems on December 17](https://www.ghacks.net/2026/11/05/google-will-turn-gemini-gems-into-skills-on-november-17-and-remove-the-old-gems-on-december-17/)
-- [Apple Will Check Public iCloud Share Links for Harmful Content Starting With iOS 27.3](https://www.ghacks.net/2026/11/05/apple-will-check-public-icloud-share-links-for-harmful-content-starting-with-ios-27-3/)
-- [Microsoft Upgrades Outlook Search With Seven Ranked Results and a Small Language Model Ranker](https://www.ghacks.net/2026/11/05/microsoft-upgrades-outlook-search-with-seven-ranked-results-and-a-small-language-model-ranker/)
-- [Federal judge sends Zula Casino lawsuit back to Georgia state court](https://www.ghacks.net/2026/11/05/zula-casino-georgia-lawsuit-state-court/)
 <!-- BLOG-POST-LIST:END -->
