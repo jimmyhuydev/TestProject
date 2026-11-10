@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Raises the Android Auto Minimum to Android 11, Ending Support for Android 9 and Android 10](https://www.ghacks.net/2026/11/09/google-raises-the-android-auto-minimum-to-android-11-ending-support-for-android-9-and-android-10/)
+- [Microsoft Tests a Windows 11 Sticky Keys Prompt That Can Permanently Turn Off the Shift Key Shortcut](https://www.ghacks.net/2026/11/09/microsoft-tests-a-windows-11-sticky-keys-prompt-that-can-permanently-turn-off-the-shift-key-shortcut/)
+- [Google Warns Australia&#39;s Digital Duty of Care Bill Puts Gmail Access for Under-18s at Risk](https://www.ghacks.net/2026/11/09/google-warns-australias-digital-duty-of-care-bill-puts-gmail-access-for-under-18s-at-risk/)
+- [Sony Announces a New PlayStation Portal for Japan With Extra Internal Storage for Future Functionality](https://www.ghacks.net/2026/11/09/sony-announces-a-new-playstation-portal-for-japan-with-extra-internal-storage-for-future-functionality/)
 - [How to AirDrop on iPhone](https://www.ghacks.net/airdrop-iphone/)
-- [Mullvad shuts down its public encrypted DNS service: switch to Quad9 or another resolver now](https://www.ghacks.net/2026/11/08/mullvad-dns-shutdown-quad9/)
-- [Microsoft Re-Releases KB5002934 for Excel 2016 After a Later Update Broke Copy and Paste Again](https://www.ghacks.net/2026/11/07/microsoft-re-releases-kb5002934-for-excel-2016-after-a-later-update-broke-copy-and-paste-again/)
-- [WhatsApp Events Now Lets Users Invite People Without a WhatsApp Account and Adds an Events Home Hub](https://www.ghacks.net/2026/11/07/whatsapp-events-now-lets-users-invite-people-without-a-whatsapp-account-and-adds-an-events-home-hub/)
-- [Google, Meta, and TikTok Sue California Over AB 1709 Ban on Addictive Feeds for Children Under 16](https://www.ghacks.net/2026/11/07/google-meta-and-tiktok-sue-california-over-ab-1709-ban-on-addictive-feeds-for-children-under-16/)
 <!-- BLOG-POST-LIST:END -->
