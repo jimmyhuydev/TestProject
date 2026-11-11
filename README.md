@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Rolls Out One UI 9 Watch With Wear OS 7 to the Galaxy Watch 8 and Galaxy Watch 8 Classic](https://www.ghacks.net/2026/11/10/samsung-rolls-out-one-ui-9-watch-with-wear-os-7-to-the-galaxy-watch-8-and-galaxy-watch-8-classic/)
+- [Firefox&#39;s Free Built-In VPN Gets Unlimited Data From November 10 Through January 31, 2027](https://www.ghacks.net/2026/11/10/firefoxs-free-built-in-vpn-gets-unlimited-data-from-november-10-through-january-31-2027/)
+- [Microsoft Will Retire Free Office 365 A1 Email for Schools, Moving Them to an A0 Plan Without Exchange or Teams](https://www.ghacks.net/2026/11/10/microsoft-will-retire-free-office-365-a1-email-for-schools-moving-them-to-an-a0-plan-without-exchange-or-teams/)
+- [Rockstar Confirms GTA 6 Runs at 30fps on All Consoles, With Ray-Traced Shadows Only on PS5 Pro](https://www.ghacks.net/2026/11/10/rockstar-confirms-gta-6-runs-at-30fps-on-all-consoles-with-ray-traced-shadows-only-on-ps5-pro/)
 - [Google Raises the Android Auto Minimum to Android 11, Ending Support for Android 9 and Android 10](https://www.ghacks.net/2026/11/09/google-raises-the-android-auto-minimum-to-android-11-ending-support-for-android-9-and-android-10/)
-- [Microsoft Tests a Windows 11 Sticky Keys Prompt That Can Permanently Turn Off the Shift Key Shortcut](https://www.ghacks.net/2026/11/09/microsoft-tests-a-windows-11-sticky-keys-prompt-that-can-permanently-turn-off-the-shift-key-shortcut/)
-- [Google Warns Australia&#39;s Digital Duty of Care Bill Puts Gmail Access for Under-18s at Risk](https://www.ghacks.net/2026/11/09/google-warns-australias-digital-duty-of-care-bill-puts-gmail-access-for-under-18s-at-risk/)
-- [Sony Announces a New PlayStation Portal for Japan With Extra Internal Storage for Future Functionality](https://www.ghacks.net/2026/11/09/sony-announces-a-new-playstation-portal-for-japan-with-extra-internal-storage-for-future-functionality/)
-- [How to AirDrop on iPhone](https://www.ghacks.net/airdrop-iphone/)
 <!-- BLOG-POST-LIST:END -->
