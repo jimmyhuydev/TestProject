@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Overwatch Adds a 6v6 Role Queue Competitive Mode for the First Four Weeks of Season 6](https://www.ghacks.net/2026/11/12/overwatch-adds-a-6v6-role-queue-competitive-mode-for-the-first-four-weeks-of-season-6/)
+- [Google Wallet Now Stores Home Keys for Aliro Smart Locks on Android, With Unlock on Approach for Pixel 10 Pro](https://www.ghacks.net/2026/11/12/google-wallet-now-stores-home-keys-for-aliro-smart-locks-on-android-with-unlock-on-approach-for-pixel-10-pro/)
+- [Microsoft Releases a Bing Extension for Chrome and Edge That Turns Off AI Search Features](https://www.ghacks.net/2026/11/12/microsoft-releases-a-bing-extension-for-chrome-and-edge-that-turns-off-ai-search-features/)
+- [Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief Executive](https://www.ghacks.net/2026/11/12/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief-executive/)
 - [Microsoft Launches Auto SR on the ROG Xbox Ally X in Handheld Mode, With a 120 FPS Performance Mode Coming](https://www.ghacks.net/2026/11/11/microsoft-launches-auto-sr-on-the-rog-xbox-ally-x-in-handheld-mode-with-a-120-fps-performance-mode-coming/)
-- [EU Proposes Digital Fairness Act to Ban Dark Patterns and Let Users Turn Off Streaks and Autoplay](https://www.ghacks.net/2026/11/11/eu-proposes-digital-fairness-act-to-ban-dark-patterns-and-let-users-turn-off-streaks-and-autoplay/)
-- [Google&#39;s November Pixel Drop Brings Gemini Intelligence to the Pixel 10 and Launches the $29.99 Pixel Tag](https://www.ghacks.net/2026/11/11/googles-november-pixel-drop-brings-gemini-intelligence-to-the-pixel-10-and-launches-the-29-99-pixel-tag/)
-- [Windows 11 Version 23H2 Reaches End of Support for Enterprise and Education With the Final KB5131087 Update](https://www.ghacks.net/2026/11/11/windows-11-version-23h2-reaches-end-of-support-for-enterprise-and-education-with-the-final-kb5131087-update/)
-- [Samsung Rolls Out One UI 9 Watch With Wear OS 7 to the Galaxy Watch 8 and Galaxy Watch 8 Classic](https://www.ghacks.net/2026/11/10/samsung-rolls-out-one-ui-9-watch-with-wear-os-7-to-the-galaxy-watch-8-and-galaxy-watch-8-classic/)
 <!-- BLOG-POST-LIST:END -->
