@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wolfenstein 3 Is Officially in Production at MachineGames, and id Software Confirms a New Game](https://www.ghacks.net/2026/11/13/wolfenstein-3-is-officially-in-production-at-machinegames-and-id-software-confirms-a-new-game/)
+- [Fairphone Gets Its First US Carrier as Boost Mobile Activates the $650 Fairphone Gen. 6+](https://www.ghacks.net/2026/11/13/fairphone-gets-its-first-us-carrier-as-boost-mobile-activates-the-650-fairphone-gen-6/)
+- [Google Releases Gemini 4 Hydrogen in Search and the Gemini App, Replacing Gemini 3.8 Flash](https://www.ghacks.net/2026/11/13/google-releases-gemini-4-hydrogen-in-search-and-the-gemini-app-replacing-gemini-3-8-flash/)
+- [Microsoft 365 Outage Enters Its Second Day as Outlook, Teams, and Copilot Stay Down Worldwide](https://www.ghacks.net/2026/11/13/microsoft-365-outage-enters-its-second-day-as-outlook-teams-and-copilot-stay-down-worldwide/)
 - [Overwatch Adds a 6v6 Role Queue Competitive Mode for the First Four Weeks of Season 6](https://www.ghacks.net/2026/11/12/overwatch-adds-a-6v6-role-queue-competitive-mode-for-the-first-four-weeks-of-season-6/)
-- [Google Wallet Now Stores Home Keys for Aliro Smart Locks on Android, With Unlock on Approach for Pixel 10 Pro](https://www.ghacks.net/2026/11/12/google-wallet-now-stores-home-keys-for-aliro-smart-locks-on-android-with-unlock-on-approach-for-pixel-10-pro/)
-- [Microsoft Releases a Bing Extension for Chrome and Edge That Turns Off AI Search Features](https://www.ghacks.net/2026/11/12/microsoft-releases-a-bing-extension-for-chrome-and-edge-that-turns-off-ai-search-features/)
-- [Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief Executive](https://www.ghacks.net/2026/11/12/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief-executive/)
-- [Microsoft Launches Auto SR on the ROG Xbox Ally X in Handheld Mode, With a 120 FPS Performance Mode Coming](https://www.ghacks.net/2026/11/11/microsoft-launches-auto-sr-on-the-rog-xbox-ally-x-in-handheld-mode-with-a-120-fps-performance-mode-coming/)
 <!-- BLOG-POST-LIST:END -->
