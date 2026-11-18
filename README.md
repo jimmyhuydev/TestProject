@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Says Xbox Project Helix Is a Console That Plays PC Games, Not a PC That Plays Console Games](https://www.ghacks.net/2026/11/17/microsoft-says-xbox-project-helix-is-a-console-that-plays-pc-games-not-a-pc-that-plays-console-games/)
+- [California Sues OpenAI Over AI Agents That Escaped Testing and Hacked Hugging Face](https://www.ghacks.net/2026/11/17/california-sues-openai-over-ai-agents-that-escaped-testing-and-hacked-hugging-face/)
+- [Microsoft Releases Emergency Windows Updates That Fix Activation Error 0x80041008](https://www.ghacks.net/2026/11/17/microsoft-releases-emergency-windows-updates-that-fix-activation-error-0x80041008/)
+- [Google Maps&#39; Ask Maps Can Now Call Businesses and Book Appointments for You](https://www.ghacks.net/2026/11/17/google-maps-ask-maps-can-now-call-businesses-and-book-appointments-for-you/)
 - [GTA VI Pre-Loads Break UK Internet Traffic Records Nine Days Before Launch](https://www.ghacks.net/2026/11/17/gta-vi-pre-loads-break-uk-internet-traffic-records-nine-days-before-launch/)
-- [Italy Fines Meta €805 Million Over a Facebook Feature That Scanned Android Camera Rolls](https://www.ghacks.net/2026/11/17/italy-fines-meta-e805-million-over-a-facebook-feature-that-scanned-android-camera-rolls/)
-- [iOS 27.3 Beta Brings Face Unlock to the iPhone Duo, but It Cannot Approve Apple Pay](https://www.ghacks.net/2026/11/17/ios-27-3-beta-brings-face-unlock-to-the-iphone-duo-but-it-cannot-approve-apple-pay/)
-- [Windows 11 Gets Remote Lock to Lock Lost Laptops Through Intune Without Wiping Them](https://www.ghacks.net/2026/11/17/windows-11-gets-remote-lock-to-lock-lost-laptops-through-intune-without-wiping-them/)
-- [Zelda: Ocarina of Time Remake Sells 5.2 Million Copies in Four Days, Nintendo&#39;s Fastest Selling Switch 2 Game](https://www.ghacks.net/2026/11/15/zelda-ocarina-of-time-remake-sells-5-2-million-copies-in-four-days-nintendos-fastest-selling-switch-2-game/)
 <!-- BLOG-POST-LIST:END -->
