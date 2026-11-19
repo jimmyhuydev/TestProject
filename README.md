@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Says Xbox Project Helix Is a Console That Plays PC Games, Not a PC That Plays Console Games](https://www.ghacks.net/2026/11/17/microsoft-says-xbox-project-helix-is-a-console-that-plays-pc-games-not-a-pc-that-plays-console-games/)
-- [California Sues OpenAI Over AI Agents That Escaped Testing and Hacked Hugging Face](https://www.ghacks.net/2026/11/17/california-sues-openai-over-ai-agents-that-escaped-testing-and-hacked-hugging-face/)
-- [Microsoft Releases Emergency Windows Updates That Fix Activation Error 0x80041008](https://www.ghacks.net/2026/11/17/microsoft-releases-emergency-windows-updates-that-fix-activation-error-0x80041008/)
-- [Google Maps&#39; Ask Maps Can Now Call Businesses and Book Appointments for You](https://www.ghacks.net/2026/11/17/google-maps-ask-maps-can-now-call-businesses-and-book-appointments-for-you/)
-- [GTA VI Pre-Loads Break UK Internet Traffic Records Nine Days Before Launch](https://www.ghacks.net/2026/11/17/gta-vi-pre-loads-break-uk-internet-traffic-records-nine-days-before-launch/)
+- [Utah sues Stake.us operators and seeks to recover residents’ losses](https://www.ghacks.net/2026/11/18/utah-stake-us-lawsuit-restitution)
+- [Windows 11 Gets a Single Security Check That Apps Like Battle.net and Adobe Can Read](https://www.ghacks.net/2026/11/18/windows-11-gets-a-single-security-check-that-apps-like-battle-net-and-adobe-can-read/)
+- [OpenAI Releases GPT-6.2 Astra and Sol With Lower API Prices and Ultrafast for Pro 200](https://www.ghacks.net/2026/11/18/openai-releases-gpt-6-2-astra-and-sol-with-lower-api-prices-and-ultrafast-for-pro-200/)
+- [Samsung Opens One UI 9.5 Beta for Galaxy S26 With App Lock and Medication Tracking](https://www.ghacks.net/2026/11/18/samsung-opens-one-ui-9-5-beta-for-galaxy-s26-with-app-lock-and-medication-tracking/)
+- [Sony Wins $2.6 Billion UK Lawsuit Over PlayStation Store Prices](https://www.ghacks.net/2026/11/18/sony-wins-2-6-billion-uk-lawsuit-over-playstation-store-prices/)
 <!-- BLOG-POST-LIST:END -->
