@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GTA VI Launches at 30 FPS on Every Console, and Rockstar Says the PS5 Pro Is Not Powerful Enough](https://www.ghacks.net/2026/11/19/gta-vi-launches-at-30-fps-on-every-console-and-rockstar-says-the-ps5-pro-is-not-powerful-enough/)
+- [Microsoft Is Retiring To Do in June 2027, and Personal Users Get No Replacement](https://www.ghacks.net/2026/11/19/microsoft-is-retiring-to-do-in-june-2027-and-personal-users-get-no-replacement/)
+- [Anthropic Starts Trading on Nasdaq After the Largest IPO in History](https://www.ghacks.net/2026/11/19/anthropic-starts-trading-on-nasdaq-after-the-largest-ipo-in-history/)
+- [Microsoft Confirms Windows 11 Hotpatch Breaks App Installs and Shares a Registry Workaround](https://www.ghacks.net/2026/11/19/microsoft-confirms-windows-11-hotpatch-breaks-app-installs-and-shares-a-registry-workaround/)
 - [Utah sues Stake.us operators and seeks to recover residents’ losses](https://www.ghacks.net/2026/11/18/utah-stake-us-lawsuit-restitution)
-- [Windows 11 Gets a Single Security Check That Apps Like Battle.net and Adobe Can Read](https://www.ghacks.net/2026/11/18/windows-11-gets-a-single-security-check-that-apps-like-battle-net-and-adobe-can-read/)
-- [OpenAI Releases GPT-6.2 Astra and Sol With Lower API Prices and Ultrafast for Pro 200](https://www.ghacks.net/2026/11/18/openai-releases-gpt-6-2-astra-and-sol-with-lower-api-prices-and-ultrafast-for-pro-200/)
-- [Samsung Opens One UI 9.5 Beta for Galaxy S26 With App Lock and Medication Tracking](https://www.ghacks.net/2026/11/18/samsung-opens-one-ui-9-5-beta-for-galaxy-s26-with-app-lock-and-medication-tracking/)
-- [Sony Wins $2.6 Billion UK Lawsuit Over PlayStation Store Prices](https://www.ghacks.net/2026/11/18/sony-wins-2-6-billion-uk-lawsuit-over-playstation-store-prices/)
 <!-- BLOG-POST-LIST:END -->
