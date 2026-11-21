@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Valve Says Rising Memory Costs Leave Steam Machine Prices Uncertain and Closes the 2TB Waitlist](https://www.ghacks.net/2026/11/20/valve-says-rising-memory-costs-leave-steam-machine-prices-uncertain-and-closes-the-2tb-waitlist/)
+- [UK Court Forces Government to Confirm It Ordered Apple to Open iCloud Encryption](https://www.ghacks.net/2026/11/20/uk-court-forces-government-to-confirm-it-ordered-apple-to-open-icloud-encryption/)
+- [Google Play Will Block App Updates That Don&#39;t Work Properly on Foldables From April 2027](https://www.ghacks.net/2026/11/20/google-play-will-block-app-updates-that-dont-work-properly-on-foldables-from-april-2027/)
+- [Microsoft Starts Upgrading Windows 11 PCs to Version 26H2 Automatically](https://www.ghacks.net/2026/11/20/microsoft-starts-upgrading-windows-11-pcs-to-version-26h2-automatically/)
 - [GTA VI Launches at 30 FPS on Every Console, and Rockstar Says the PS5 Pro Is Not Powerful Enough](https://www.ghacks.net/2026/11/19/gta-vi-launches-at-30-fps-on-every-console-and-rockstar-says-the-ps5-pro-is-not-powerful-enough/)
-- [Microsoft Is Retiring To Do in June 2027, and Personal Users Get No Replacement](https://www.ghacks.net/2026/11/19/microsoft-is-retiring-to-do-in-june-2027-and-personal-users-get-no-replacement/)
-- [Anthropic Starts Trading on Nasdaq After the Largest IPO in History](https://www.ghacks.net/2026/11/19/anthropic-starts-trading-on-nasdaq-after-the-largest-ipo-in-history/)
-- [Microsoft Confirms Windows 11 Hotpatch Breaks App Installs and Shares a Registry Workaround](https://www.ghacks.net/2026/11/19/microsoft-confirms-windows-11-hotpatch-breaks-app-installs-and-shares-a-registry-workaround/)
-- [Utah sues Stake.us operators and seeks to recover residents’ losses](https://www.ghacks.net/2026/11/18/utah-stake-us-lawsuit-restitution)
 <!-- BLOG-POST-LIST:END -->
