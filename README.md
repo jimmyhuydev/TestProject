@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grand Theft Auto VI Makes $3.79 Billion on Day One, the Biggest Entertainment Launch Ever](https://www.ghacks.net/2026/11/21/grand-theft-auto-vi-makes-3-79-billion-on-day-one-the-biggest-entertainment-launch-ever/)
+- [Amazon Warns New Yorkers of Up to $5 Higher Delivery Costs Over Driver Employment Bill](https://www.ghacks.net/2026/11/21/amazon-warns-new-yorkers-of-up-to-5-higher-delivery-costs-over-driver-employment-bill/)
+- [Signal Blocks Siri, Gemini and Other AI Agents From Reading Your Messages](https://www.ghacks.net/2026/11/21/signal-blocks-siri-gemini-and-other-ai-agents-from-reading-your-messages/)
+- [Windows 11 KB5132057 Brings a New Search That Can Change Settings, the Last Preview Update of 2026](https://www.ghacks.net/2026/11/21/windows-11-kb5132057-brings-a-new-search-that-can-change-settings-the-last-preview-update-of-2026/)
 - [Valve Says Rising Memory Costs Leave Steam Machine Prices Uncertain and Closes the 2TB Waitlist](https://www.ghacks.net/2026/11/20/valve-says-rising-memory-costs-leave-steam-machine-prices-uncertain-and-closes-the-2tb-waitlist/)
-- [UK Court Forces Government to Confirm It Ordered Apple to Open iCloud Encryption](https://www.ghacks.net/2026/11/20/uk-court-forces-government-to-confirm-it-ordered-apple-to-open-icloud-encryption/)
-- [Google Play Will Block App Updates That Don&#39;t Work Properly on Foldables From April 2027](https://www.ghacks.net/2026/11/20/google-play-will-block-app-updates-that-dont-work-properly-on-foldables-from-april-2027/)
-- [Microsoft Starts Upgrading Windows 11 PCs to Version 26H2 Automatically](https://www.ghacks.net/2026/11/20/microsoft-starts-upgrading-windows-11-pcs-to-version-26h2-automatically/)
-- [GTA VI Launches at 30 FPS on Every Console, and Rockstar Says the PS5 Pro Is Not Powerful Enough](https://www.ghacks.net/2026/11/19/gta-vi-launches-at-30-fps-on-every-console-and-rockstar-says-the-ps5-pro-is-not-powerful-enough/)
 <!-- BLOG-POST-LIST:END -->
