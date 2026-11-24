@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unreal Engine 6 Drops Blueprints as Epic Bets on AI to Convert Projects](https://www.ghacks.net/2026/11/23/unreal-engine-6-drops-blueprints-as-epic-bets-on-ai-to-convert-projects/)
+- [Proton Drive Can Now Move Your Files Out of Google Drive Automatically](https://www.ghacks.net/2026/11/23/proton-drive-can-now-move-your-files-out-of-google-drive-automatically/)
+- [Oregon and Virginia Sue SpaceX Over Grok Sexual Deepfakes](https://www.ghacks.net/2026/11/23/oregon-and-virginia-sue-spacex-over-grok-sexual-deepfakes/)
+- [Windows 11 Tests a Fix for Bluetooth Headphones Losing Audio Quality When the Mic Turns On](https://www.ghacks.net/2026/11/23/windows-11-tests-a-fix-for-bluetooth-headphones-losing-audio-quality-when-the-mic-turns-on/)
 - [Grand Theft Auto VI Makes $3.79 Billion on Day One, the Biggest Entertainment Launch Ever](https://www.ghacks.net/2026/11/21/grand-theft-auto-vi-makes-3-79-billion-on-day-one-the-biggest-entertainment-launch-ever/)
-- [Amazon Warns New Yorkers of Up to $5 Higher Delivery Costs Over Driver Employment Bill](https://www.ghacks.net/2026/11/21/amazon-warns-new-yorkers-of-up-to-5-higher-delivery-costs-over-driver-employment-bill/)
-- [Signal Blocks Siri, Gemini and Other AI Agents From Reading Your Messages](https://www.ghacks.net/2026/11/21/signal-blocks-siri-gemini-and-other-ai-agents-from-reading-your-messages/)
-- [Windows 11 KB5132057 Brings a New Search That Can Change Settings, the Last Preview Update of 2026](https://www.ghacks.net/2026/11/21/windows-11-kb5132057-brings-a-new-search-that-can-change-settings-the-last-preview-update-of-2026/)
-- [Valve Says Rising Memory Costs Leave Steam Machine Prices Uncertain and Closes the 2TB Waitlist](https://www.ghacks.net/2026/11/20/valve-says-rising-memory-costs-leave-steam-machine-prices-uncertain-and-closes-the-2tb-waitlist/)
 <!-- BLOG-POST-LIST:END -->
