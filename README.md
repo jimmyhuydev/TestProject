@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Steam Awards 2026 Nominations Open With a Hall of Fame Vote for the Best Game of the Decade](https://www.ghacks.net/2026/11/24/steam-awards-2026-nominations-open-with-a-hall-of-fame-vote-for-the-best-game-of-the-decade/)
+- [Gemini for Mac Can Now Click, Type and Run Your Desktop Apps for You](https://www.ghacks.net/2026/11/24/gemini-for-mac-can-now-click-type-and-run-your-desktop-apps-for-you/)
+- [Microsoft&#39;s Final Outage Report Blames a July Bug and Confirms Some Emails Never Arrived](https://www.ghacks.net/2026/11/24/microsofts-final-outage-report-blames-a-july-bug-and-confirms-some-emails-never-arrived/)
+- [Nvidia Reinstates Jensen Huang as CEO Less Than Two Weeks After His Resignation](https://www.ghacks.net/2026/11/24/nvidia-reinstates-jensen-huang-as-ceo-less-than-two-weeks-after-his-resignation/)
 - [Unreal Engine 6 Drops Blueprints as Epic Bets on AI to Convert Projects](https://www.ghacks.net/2026/11/23/unreal-engine-6-drops-blueprints-as-epic-bets-on-ai-to-convert-projects/)
-- [Proton Drive Can Now Move Your Files Out of Google Drive Automatically](https://www.ghacks.net/2026/11/23/proton-drive-can-now-move-your-files-out-of-google-drive-automatically/)
-- [Oregon and Virginia Sue SpaceX Over Grok Sexual Deepfakes](https://www.ghacks.net/2026/11/23/oregon-and-virginia-sue-spacex-over-grok-sexual-deepfakes/)
-- [Windows 11 Tests a Fix for Bluetooth Headphones Losing Audio Quality When the Mic Turns On](https://www.ghacks.net/2026/11/23/windows-11-tests-a-fix-for-bluetooth-headphones-losing-audio-quality-when-the-mic-turns-on/)
-- [Grand Theft Auto VI Makes $3.79 Billion on Day One, the Biggest Entertainment Launch Ever](https://www.ghacks.net/2026/11/21/grand-theft-auto-vi-makes-3-79-billion-on-day-one-the-biggest-entertainment-launch-ever/)
 <!-- BLOG-POST-LIST:END -->
