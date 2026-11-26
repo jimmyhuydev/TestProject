@@ -13,9 +13,9 @@ This is a cool new feature.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Steam Awards 2026 Nominations Open With a Hall of Fame Vote for the Best Game of the Decade](https://www.ghacks.net/2026/11/24/steam-awards-2026-nominations-open-with-a-hall-of-fame-vote-for-the-best-game-of-the-decade/)
-- [Gemini for Mac Can Now Click, Type and Run Your Desktop Apps for You](https://www.ghacks.net/2026/11/24/gemini-for-mac-can-now-click-type-and-run-your-desktop-apps-for-you/)
-- [Microsoft&#39;s Final Outage Report Blames a July Bug and Confirms Some Emails Never Arrived](https://www.ghacks.net/2026/11/24/microsofts-final-outage-report-blames-a-july-bug-and-confirms-some-emails-never-arrived/)
-- [Nvidia Reinstates Jensen Huang as CEO Less Than Two Weeks After His Resignation](https://www.ghacks.net/2026/11/24/nvidia-reinstates-jensen-huang-as-ceo-less-than-two-weeks-after-his-resignation/)
-- [Unreal Engine 6 Drops Blueprints as Epic Bets on AI to Convert Projects](https://www.ghacks.net/2026/11/23/unreal-engine-6-drops-blueprints-as-epic-bets-on-ai-to-convert-projects/)
+- [Capcom Will Shut Down Exoprimal in September 2027 and Pull It From Sale in March](https://www.ghacks.net/2026/11/25/capcom-will-shut-down-exoprimal-in-september-2027-and-pull-it-from-sale-in-march/)
+- [New York Bans Car Subscriptions for Features Already Built Into the Vehicle](https://www.ghacks.net/2026/11/25/new-york-bans-car-subscriptions-for-features-already-built-into-the-vehicle/)
+- [Tidal Bans AI-Generated Music and Will Remove 29 Million Songs](https://www.ghacks.net/2026/11/25/tidal-bans-ai-generated-music-and-will-remove-29-million-songs/)
+- [Microsoft Deprecates Bluetooth File Transfers and the Family Safety App in Windows 11](https://www.ghacks.net/2026/11/25/microsoft-deprecates-bluetooth-file-transfers-and-the-family-safety-app-in-windows-11/)
+- [MetaWin.us closes November 30, with redemptions ending at 9 a.m. ET](https://www.ghacks.net/2026/11/25/metawin-us-closing-redemption-deadline/)
 <!-- BLOG-POST-LIST:END -->
